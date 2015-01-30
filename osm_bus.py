@@ -49,7 +49,7 @@ with open('osm.csv', "wb") as csvfile:
 		for element in  myUrlHandle.json()["elements"]:
 			w.point(element["lon"], element["lat"])
 			w.record(element["lat"], element["lon"], element["id"], json.dumps(element["tags"]))
-			osm_w.writerow([element["lat"], element["lon"], element["id"], element["tags"].get("name"),element["tags"].get("ref"), element["tags"].get("route_ref"), element["tags"].get("location")])
+			osm_w.writerow([element["lat"], element["lon"], element["id"], element["tags"].get("ref")])
 
 	except urllib2.URLError as e:
 		print str(e)
