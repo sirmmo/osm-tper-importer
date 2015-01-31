@@ -1,8 +1,8 @@
 import csv
 
 from osmapi import OsmApi
-MyApi = OsmApi(username="sirmmo", password="cip50z321")
-MyApi.ChangesetCreate({u"comment": u"Castel M1aggiore Bus stop cleanup"})
+MyApi = OsmApi(username="tper_bot", password="tperbot123")
+MyApi.ChangesetCreate({u"comment": u"TPER import"})
 
 with open("CM.csv") as cm_file:
 	for row in csv.reader(cm_file, delimiter=";"):
