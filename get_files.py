@@ -79,7 +79,7 @@ url = "http://overpass-api.de/api/interpreter"
 
 param = "data"
 
-radius = 0.0001
+radius = 0.00003
 
 #w = shapefile.Writer(shapefile.POINT)
 #w.field('codice')
@@ -131,21 +131,16 @@ print main_keys
 
 done_refs = []
 
+osm_list = []
+fer_list = []
+
 print "analysis starting"
 with open("fermate_importable.csv", "wb") as importables:
 	with open("fermate_updatable.csv", "wb") as updatables:
 		with open("fermate_manual.csv", "wb") as manually:
+
 			with open("fermate.csv", "rb") as fermate:
-				with open("osm.csv", "rb") as osm:
-
-					imp_csv = csv.DictWriter(importables, fieldnames=main_keys["fermate.csv"])
-					upd_csv = csv.DictWriter(updatables, fieldnames = main_keys["fermate.csv"]+["osm_id"])
-					man_csv = csv.DictWriter(manually, fieldnames = main_keys["fermate.csv"])
-
-					imp_csv.writeheader()
-					upd_csv.writeheader()
-					man_csv.writeheader()
-
+				with open("osm.csv", "rb") as osm:	
 
 					fer_csv = csv.DictReader(fermate, delimiter=";")
 					osm_csv = csv.DictReader(osm)
@@ -153,23 +148,31 @@ with open("fermate_importable.csv", "wb") as importables:
 					osm_list = [os for os in osm_csv]
 					fer_list = [fs for fs in fer_csv]
 
-					print "files ready"
-					for osm_stop in osm_list:
-						for fer_stop in fer_list:
-							#print osm_stop, "-----", fer_stop
-							if not fer_stop["codice"] in done_refs:
-								if dist(float(osm_stop["lon"]),float(osm_stop["lat"]), float(fer_stop["longitudine"].replace(",",".")), float(fer_stop["latitudine"].replace(",","."))) < radius:
-									if osm_stop["ref"] == fer_stop["codice"]:
-										print fer_stop["codice"]
-										fer_stop["osm_id"] = osm_stop["osm_id"]
-										upd_csv.writerow(fer_stop)
-										done_refs.append(fer_stop["codice"])
-									else:
-										man_csv.writerow(fer_stop)
-										done_refs.append(fer_stop["codice"])
-					for fer_stop in fer_list:
-						if not fer_stop["codice"] in done_refs:
-							imp_csv.writerow(fer_stop)
+			imp_csv = csv.DictWriter(importables, fieldnames=main_keys["fermate.csv"])
+			upd_csv = csv.DictWriter(updatables, fieldnames = main_keys["fermate.csv"]+["osm_id", "dist"])
+			man_csv = csv.DictWriter(manually, fieldnames = main_keys["fermate.csv"])
+
+
+			imp_csv.writeheader()
+			upd_csv.writeheader()
+			man_csv.writeheader()
+
+			print "files ready"
+			for osm_stop in osm_list:
+				for fer_stop in fer_list:
+					if not fer_stop["codice"] in done_refs:
+						if fer_stop["codice"] == osm_stop["ref"]:
+							fer_stop["osm_id"]= osm_stop["osm_id"]
+							fer_stop["dist"] = dist(float(osm_stop["lon"]),float(osm_stop["lat"]), float(fer_stop["longitudine"].replace(",",".")), float(fer_stop["latitudine"].replace(",",".")))
+							upd_csv.writerow(fer_stop)
+							done_refs.append(fer_stop["codice"])
+						elif dist(float(osm_stop["lon"]),float(osm_stop["lat"]), float(fer_stop["longitudine"].replace(",",".")), float(fer_stop["latitudine"].replace(",","."))) < radius:
+							#print "magic!!!", dist(float(osm_stop["lon"]),float(osm_stop["lat"]), float(fer_stop["longitudine"].replace(",",".")), float(fer_stop["latitudine"].replace(",",".")))
+							man_csv.writerow(fer_stop)
+							done_refs.append(fer_stop["codice"])
+			for fer_stop in fer_list:
+				if not fer_stop["codice"] in done_refs:
+					imp_csv.writerow(fer_stop)
 
 
 
