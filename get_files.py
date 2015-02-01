@@ -79,7 +79,7 @@ url = "http://overpass-api.de/api/interpreter"
 
 param = "data"
 
-radius = 40.0/111000.0 #40meters/111km
+radius = 40.0/111111.111 #40meters/111km
 
 #w = shapefile.Writer(shapefile.POINT)
 #w.field('codice')
