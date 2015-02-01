@@ -2068,3 +2068,1549 @@ naptan:AtcoCode,naptan:Indicator,route_ref,osm_id,operator,local_ref,network,zon
 ,,600A;600R,1067780863,ATC,,,,12.1112527,,,,Viale Resistenza,,bus_stop,,,Codigoro Cimitero,,,44.8327298,,,605077,Codigoro,,,,,
 ,,1700A,1067780883,ATC,,,,12.1366298,,,,Via Giovanni Xxiii 47,,bus_stop,,,Via Giovanni Xxiii,,,44.7676485,,,611036,Lagosanto,,,,,
 ,,1600;4500;600;339,1067780886,ATC,,,,12.3495003,,,,Piazza Della Liberta' 9,,bus_stop,,,Gorino,,,44.8199416,,,625000,Goro,,,,,
+,,1400A;5000R,1067780895,FER,,,,12.051586,,,,Via Mare,,bus_stop,,,Ca' Cainbanca,,,44.7849033,,,613002,Massa Fiscaglia,,,,,
+,,600A;600R,1067780916,ATC,,,,12.1505172,,,,Ponte Maodino - Massenzatica 3,,bus_stop,,,Via Fronte,,,44.8696028,,,605044,Codigoro,,,,,
+,,1600A;1700A,1067780922,ATC,,,,12.2164338,,,,Poderale Valli Basse F15,,bus_stop,,,Via Valli Basse 15,,,44.7603542,,,606020,Comacchio,,,,,
+,,1600R;4500SR;600R,1067780932,ATC,,,,12.3121895,,,,Via Bonello 58,,bus_stop,,,Bonello,,,44.8475495,,,625001,Goro,,,,,
+,,1000R;1600R;1700R;1800A;1800fA;1900A;1900fR,1067780934,ATC,,,,12.2368771,,,,Viale Del Lago F1,,bus_stop,,,Galattico,,,44.753546,,,606110,Comacchio,,,,,
+,,600A,1067780957,ATC,,,,12.1615078,,,,Ponte Maodino - Massenzatica 105/2,,bus_stop,,,Italba Dune,,,44.8988474,,,605074,Codigoro,,,,,
+,,1000R;1500R;1700R;600A,1067780958,ATC,,,,12.1027555,,,,P.Le Papa Giovanni 23 F 29,,bus_stop,,,Codigoro Stazione,,,44.8354539,,,605024,Codigoro,,,,,
+,,1600A;1600R;4500R;4500SR;600R,1067780969,ATC,,,,12.2267327,,,,Via Nuova Corriera F160,,bus_stop,,,Bosco Mesola Cimitero,,,44.8862633,,,614016,Mesola,,,,,
+,,5000A,1067780979,FER,,,,12.1898399,,,,Strada Romea (Lido Delle Nazioni),,bus_stop,,,Rotta Zambusi,,,44.7670901,,,606001,Comacchio,,,,,
+,,1400R;5000A,1067781002,FER,,,,12.1343331,,,,Localit Motte,,bus_stop,,,Ponte Rosso,,,44.7471993,,,611003,Lagosanto,,,,,
+,,1000A;1000R;1600R;1700R;1800A;1800fA;1900A;1900fR,1067781010,ATC,,,,12.244355,,,,Piazza Italia 54,,bus_stop,,,Lido Nazioni Bagno Cris,,,44.742809,,,606120,Comacchio,,,,,
+,,1000A;1500A;600A;600R,1067781013,ATC,,,,12.1488036,,,,Ponte Maodino - Massenzatica 90,,bus_stop,,,Pontelangorino,,,44.8606541,,,605034,Codigoro,,,,,
+,,1000A;600A;600R,1067781017,ATC,,,,12.0853536,,,,Di Codigoro 2,,bus_stop,,,Ponte Reale Per Codigoro,,,44.8587517,,,605011,Codigoro,,,,,
+,,1700R,1067781026,ATC,,,,12.1398007,,,,Via Spina F156,,bus_stop,,,Borgata Sabbioni,,,44.7587954,,,611020,Lagosanto,,,,,
+,,1400R;5000A,1067781031,FER,,,,12.0516653,,,,Via Mare,,bus_stop,,,Ca' Caimbanca,,,44.7849884,,,613001,Massa Fiscaglia,,,,,
+,,1500R;600A,1067781035,ATC,,,,12.0448836,,,,Loc Per Le Venezie 21,,bus_stop,,,Ponte Vicini,,,44.8674233,,,605057,Codigoro,,,,,
+,,1000R;1500R;600A,1067781040,ATC,,,,12.1740039,,,,Loc Canal Ippolito 10,,bus_stop,,,Pomposa Zona Industriale,,,44.8550557,,,605040,Codigoro,,,,,
+,,1700R;5000A;5000R,1067781042,ATC,,,,12.1387133,,,,Via Spina,,bus_stop,,,Borgata Prello,,,44.7563577,,,611022,Lagosanto,,,,,
+,,1600;4500;600;339,1067781046,ATC,,,,12.2308121,,,,Via Romea F. 93,,bus_stop,,,Bar Bianco,,,44.9084732,,,614022,Mesola,,,,,
+,,1400R;1700R,1067781052,ATC,,,,12.1346943,,,,Via Del Bagatto 23,,bus_stop,,,Volania,,,44.7247477,,,606025,Comacchio,,,,,
+,,1600;4500;600;339,1067781053,ATC,,,,12.2324169,,,,Circonvallazione Di Mesola 34,,bus_stop,,,Motte,,,44.9145144,,,614024,Mesola,,,,,
+,,1000A;1500A;600R,1067781063,ATC,,,,12.1586176,,,,Loc Viebasse 28 A,,bus_stop,,,Ca Basse,,,44.8603679,,,605036,Codigoro,,,,,
+,,1700R,1067781065,ATC,,,,12.1108183,,,,Sp53,,bus_stop,,,Fondo Cortape',,,44.8034612,,,605084,Comacchio,,,,,
+,,1500A;600R,1067781070,ATC,,,,12.0777128,,,,Loc Per Le Venezie 6,,bus_stop,,,Longarole,,,44.8583635,,,605053,Codigoro,,,,,
+,,1600A;1700A;1700R;1800R;1800fR;1900R;1900fR;5000A;5000R,1067781081,ATC,,,,12.2406948,,,,Piazza Italia 156,,bus_stop,,,Condominio Esedra,,,44.7372959,,,606105,Comacchio,,,,,
+,,1000R;1500R;600A,1067781091,ATC,,,,12.1582391,,,,Loc Viebasse F28,,bus_stop,,,Ca Basse,,,44.8604798,,,605037,Codigoro,,,,,
+,,1700R;5000A,1067781094,ATC,,,,12.1655889,,,,Strada Provinciale (Borgata Boschetto),,bus_stop,,,Boschetto,,,44.7949979,,,611009,Lagosanto,,,,,
+,,1400A;5000R,1067781095,FER,,,,12.1343192,,,,Localit Motte,,bus_stop,,,Ponte Rosso,,,44.7470657,,,611002,Lagosanto,,,,,
+,,1800fR;1900R;2100A,1067781099,ATC,,,,12.0171222,,,,Via Comacchio 35,,bus_stop,,,Bivio Gallare,,,44.7389433,,,617022,Ostellato,,,,,
+,,1600R;4500R;4500SR;600R,1067781109,ATC,,,,12.2910547,,,,Via Cristina 42,,bus_stop,,,Galliana,,,44.8511778,,,625007,Goro,,,,,
+,,1600R;1700R;1800A;1800fA;1900A;1900fR,1067781115,ATC,,,,12.2411206,,,,Via Italia 41,,bus_stop,,,Condominio Esedra,,,44.7377542,,,606103,Comacchio,,,,,
+,,4500A;4500SA;600A,1067781118,ATC,,,,12.2291744,,,,Via Provinciale 1,,bus_stop,,,Bosco Mesola,,,44.8765835,,,614011,Mesola,,,,,
+,,4500A;4500SA;600A,1067781125,ATC,,,,12.2457828,,,,Via Provinciale 33,,bus_stop,,,Case Delta,,,44.8709293,,,614006,Mesola,,,,,
+,,5000A,1067781132,FER,,,,11.9864707,,,,Via Brazzolo,,bus_stop,,,Corte Nuvole,,,44.8190388,,,610000,Jolanda di Savoia,,,,,
+,,1000R;1500R;600A,1067781137,ATC,,,,12.1663525,,,,Loc Caprile Centro 38,,bus_stop,,,Caprile,,,44.8588406,,,605039,Codigoro,,,,,
+,,1000A;1500A;600R,1067781141,ATC,,,,12.0969711,,,,Di Codigoro F47,,bus_stop,,,Ponte Aliprandi,,,44.8500356,,,605015,Codigoro,,,,,
+,,4500SA;600A,1067781151,ATC,,,,12.3431809,,,,,,bus_stop,,,Ponte S.Giulia,,,44.8341449,,,625016,Migliaro,,,,,
+,,1000A;1500A;1700A;600R,1067781156,ATC,,,,12.1090754,,,,Via Pambianco 46,,bus_stop,,,Codigoro Centro,,,44.8321768,,,605022,Codigoro,,,,,
+,,1700R,1067781169,ATC,,,,12.1585014,,,,Strada Provinciale (Borgata Boschetto),,bus_stop,,,Corte Rosmunda,,,44.7725183,,,611015,Lagosanto,,,,,
+,,600A;600R,1067781180,ATC,,,,12.1588352,,,,Ponte Maodino - Massenzatica 87,,bus_stop,,,Italba Scuole,,,44.8878882,,,614039,Mesola,,,,,
+,,1700A;5000R,1067781182,ATC,,,,12.1658,,,,Strada Provinciale (Borgata Boschetto),,bus_stop,,,Boschetto,,,44.7952934,,,611010,Lagosanto,,,,,
+,,1600A,1067781196,ATC,,,,12.2555166,,,,Località Per Volano,,bus_stop,,,Volano Chiesa,,,44.8049839,,,605067,Codigoro,,,,,
+,,1400R;1700R,1067781197,ATC,,,,12.1303354,,,,Via Spina 14,,bus_stop,,,Corte Lazio,,,44.7287905,,,606023,Comacchio,,,,,
+,,1600R;1700R,1067781201,ATC,,,,12.2049389,,,,Poderale Valli Basse 7,,bus_stop,,,Via Valli Basse 11,,,44.7611578,,,606019,Comacchio,,,,,
+,,1400A;5000R,1067781206,FER,,,,12.0911056,,,,Via Mare,,bus_stop,,,Corte Sicilia2,,,44.7608652,,,613008,Massa Fiscaglia,,,,,
+,,1600R;4500R;4500SR;600R,1067781209,ATC,,,,12.2459424,,,,Via Provinciale 74,,bus_stop,,,Case Delta,,,44.8707859,,,614007,Mesola,,,,,
+,,1400R;1700R,1067781222,ATC,,,,12.1332275,,,,Via Argine Spino,,bus_stop,,,La Passerella,,,44.7383438,,,611029,Lagosanto,,,,,
+,,1800fR;1900R;2100A,1067781223,ATC,,,,12.0426352,,,,Via Comacchio 57,,bus_stop,,,Le Villette,,,44.7293104,,,617024,Ostellato,,,,,
+,,2100A,1067781233,ATC,,,,11.9299197,,,,Via Codigoro 10,,bus_stop,,,Migliarino,,,44.7687933,,,615004,Migliarino,,,,,
+,,1000A;600A;600R,1067781236,ATC,,,,12.0847456,,,,Di Codigoro F78,,bus_stop,,,Torbiera,,,44.8694544,,,605009,Codigoro,,,,,
+,,1700A,1067781238,ATC,,,,12.1156689,,,,Codigoro - Lagosanto 13,,bus_stop,,,Idice,,,44.8144226,,,605072,Codigoro,,,,,
+,,1600R;4500SR;600R,1067781242,ATC,,,,12.3487912,,,,Via Gorino 96,,bus_stop,,,Bar Trombini,,,44.8218602,,,625011,Goro,,,,,
+,,1000R;1500R;1600A;1900A,1067781244,ATC,,,,12.2622818,,,,Viale Del Bosco F63,,bus_stop,,,Volano - Via del Bosco 2,,,44.7954139,,,606092,Comacchio,,,,,
+,,1400R;5000A,1067781246,FER,,,,12.0875627,,,,Via Mare,,bus_stop,,,Via Pozzi2,,,44.769316,,,613006,Massa Fiscaglia,,,,,
+,,600A;600R,1067781253,ATC,,,,12.1507563,,,,Ponte Maodino - Massenzatica 136,,bus_stop,,,Via Fronte,,,44.8697335,,,605045,Codigoro,,,,,
+,,1700R,1067781257,ATC,,,,12.1219377,,,,Codigoro - Lagosanto 48,,bus_stop,,,Ex Scuole,,,44.7838721,,,605082,Codigoro,,,,,
+,,1000R;1600R;1700R;1800A;1800fA;1900A;1900fR,1067781258,ATC,,,,12.2315433,,,,Viale Del Lago,,bus_stop,,,Lago Nazioni,,,44.7557359,,,606112,Comacchio,,,,,
+,,1600R;4500R;4500SR;600R,1067781268,ATC,,,,12.2509007,,,,Via Cristina,,bus_stop,,,Bivio Via Marzura,,,44.8678387,,,614005,Mesola,,,,,
+,,1800fR;1900R;2100A;2100R;5200A;NewHoA,1067781271,ATC,,,,11.9344977,,,,Via Comacchio Fronte 89,,bus_stop,,,Ostellato Stazione,,,44.7480068,,,615007,Mirabello,,,,,
+,,1000A;1500A;1600A,1067781279,ATC,,,,12.1773215,,,,Romea 7,,bus_stop,,,Passo Pomposa,,,44.824204,,,605062,Codigoro,,,,,
+,,1400R;1700R,1067781283,ATC,,,,12.1489375,,,,Viale Delle Regioni,,bus_stop,,,Bocchetto,,,44.7289422,,,606028,Comacchio,,,,,
+,,1000A;1600A;1700A;1700R;1800R;1800fR;1900R;1900fR;5000A;5000R,1067781284,ATC,,,,12.242964,,,,Viale Portogallo 2,,bus_stop,,,Viale Portogallo,,,44.7421179,,,606106,Comacchio,,,,,
+,,600A,1067781291,ATC,,,,12.1743035,,,,,,bus_stop,,,Pomposa Zona Industriale,,,44.8523433,,,605041,Codigoro,,,,,
+,,1000R;1500R;1700R;600A,1067781294,ATC,,,,12.108712,,,,Via Pambianco 33,,bus_stop,,,Codigoro Centro,,,44.8326812,,,605021,Codigoro,,,,,
+,,1600R;1700R,1067781310,ATC,,,,12.2161105,,,,Poderale Valli Basse 15,,bus_stop,,,Via Valli Basse 15,,,44.760469,,,606021,Comacchio,,,,,
+,,1400R;5000A,1067781330,FER,,,,12.0911595,,,,Via Mare,,bus_stop,,,Corte Sicilia,,,44.7611293,,,613007,Massa Fiscaglia,,,,,
+,,1800fA;1900A;2100R,1067781332,ATC,,,,11.9632754,,,,Via Comacchio 26,,bus_stop,,,Bivio Campolungo,,,44.7467547,,,617012,Ostellato,,,,,
+,,1600A;600A,1067781345,ATC,,,,12.2085008,,,,Via Romea 8,,bus_stop,,,Corte Vallona,,,44.8852106,,,614040,Mesola,,,,,
+,,1400R;1700R,1067781346,ATC,,,,12.1345017,,,,Via Argine Spino,,bus_stop,,,Fondo Giambi,,,44.7424772,,,611026,Lagosanto,,,,,
+,,1700R,1067781357,ATC,,,,12.1659658,,,,Lagosanto - Vaccolino 39,,bus_stop,,,Borgo Taroni - Boschetto,,,44.798697,,,611007,Lagosanto,,,,,
+,,1000A;1500A;600R,1067781362,ATC,,,,12.0934942,,,,Di Codigoro 68,,bus_stop,,,Ponte Fossetto,,,44.8529434,,,605013,Codigoro,,,,,
+,,1600R;1700R,1067781370,ATC,,,,12.1874336,,,,Strada Romea (Lido Delle Nazioni),,bus_stop,,,Ca Cantin Pizzeria,,,44.7722397,,,606014,Comacchio,,,,,
+,,1000R;1600R;1700A;1700R;1800A;1800fA;1800fR;1900A;1900fR;5000A;5000R,1067781374,ATC,,,,12.2425797,,,,Viale Francia 40,,bus_stop,,,Viale Francia 2A,,,44.747272,,,606107,Comacchio,,,,,
+,,1000R;1500R;1600R;600R,1067781385,ATC,,,,12.1780046,,,,Romea 47,,bus_stop,,,Ponte Quaiotto,,,44.852552,,,605049,Codigoro,,,,,
+,,1600A;1700A,1067781391,ATC,,,,12.191919,,,,Strada Romea (Lido Delle Nazioni),,bus_stop,,,Bivio Valli Basse,,,44.7619809,,,606045,Comacchio,,,,,
+,,1000R;1500R;1600A,1067781395,ATC,,,,12.2630851,,,,Via Lido Di Volano,,bus_stop,,,Villaggio Delle Rose,,,44.8032252,,,606056,Comacchio,,,,,
+,,1800fR;1900R;2100A,1067781399,ATC,,,,11.9428105,,,,Via Giuseppe Garibaldi,,bus_stop,,,Ostellato,,,44.7452121,,,617008,Ostellato,,,,,
+,,4500A;4500SA;600A,1067781401,ATC,,,,12.2910767,,,,Via Cristina F42,,bus_stop,,,Galliana,,,44.851285,,,625006,Goro,,,,,
+,,1000A;1600A;1700A;1700R;1800R;1800fR;1900R;1900fR,1067781409,ATC,,,,12.2318762,,,,Viale Lago,,bus_stop,,,Lago Nazioni,,,44.755444,,,606113,Comacchio,,,,,
+,,1600A;1600R;4500R;4500SR;600R,1067781412,ATC,,,,12.2266782,,,,Via Nuova Corriera F190,,bus_stop,,,Buffalara,,,44.8928038,,,614018,Mesola,,,,,
+,,1800fA;1900A;2100R,1067781424,ATC,,,,12.0171862,,,,Via Comacchio Fronte 35,,bus_stop,,,Bivio Gallare,,,44.7388214,,,617021,Ostellato,,,,,
+,,5000R,1067781442,FER,,,,11.9867763,,,,Via Del Mare (Localit Massafiscaglia),,bus_stop,,,Corte Nuvole,,,44.8189422,,,610001,Jolanda di Savoia,,,,,
+,,1500R;600A,1067781446,ATC,,,,12.0321247,,,,Copparo - Codigoro 1,,bus_stop,,,Corte Ippolito,,,44.8708952,,,610028,Jolanda di Savoia,,,,,
+,,1700R;5000A,1067781460,ATC,,,,12.1780477,,,,Lagosanto - Vaccolino 51,,bus_stop,,,Vaccolino Per Lagosanto,,,44.8008733,,,606037,Comacchio,,,,,
+,,1000R;1500R;600A;600R,1067781467,ATC,,,,12.1169174,,,,Loc Per Pomposa Nord 8,,bus_stop,,,Cristalmeta,,,44.8328404,,,605026,Codigoro,,,,,
+,,1600R;1700R,1067781481,ATC,,,,12.1931432,,,,Strada Poderale Valli Basse,,bus_stop,,,Via Valli Basse 3,,,44.7618733,,,606017,Comacchio,,,,,
+,,1600R;4500R;4500SR;600R,1067781484,ATC,,,,12.296644,,,,Via Cristina 72,,bus_stop,,,Goro - Barin,,,44.8532618,,,625005,Goro,,,,,
+,,600A;600R,1067781490,ATC,,,,12.156878,,,,Ponte Maodino - Massenzatica 69,,bus_stop,,,Italba,,,44.8832175,,,605047,Codigoro,,,,,
+,,1600A,1067781491,ATC,,,,12.1798983,,,,Localit Per Volano,,bus_stop,,,Bivio Volano,,,44.8228952,,,605065,Codigoro,,,,,
+,,1000A;1500A,1067781498,ATC,,,,12.2631012,,,,Via Lido Di Volano F69,,bus_stop,,,Villaggio Delle Rose,,,44.8031938,,,606002,Comacchio,,,,,
+,,1700R,1067781503,ATC,,,,12.1175624,,,,Codigoro - Lagosanto 76,,bus_stop,,,Botticina,,,44.7902419,,,611017,Lagosanto,,,,,
+,,1600R;4500R;4500SR;600R,1067781509,ATC,,,,12.2806206,,,,Via Cristina F5,,bus_stop,,,Ponte Cristina,,,44.8693093,,,625009,Goro,,,,,
+,,1400A;1700A;1700R,1067781519,ATC,,,,12.1494233,,,,Viale Delle Regioni,,bus_stop,,,Bocchetto,,,44.7289672,,,606026,Comacchio,,,,,
+,,1800fA;1900A;2100A;2100R,1067781533,ATC,,,,11.9432271,,,,Via Garibaldi Anita 16,,bus_stop,,,Ostellato,,,44.7450373,,,617019,Ostellato,,,,,
+,,1200A;1400R,1067781550,ATC,,,,11.9248624,,,,Copparo - Migliarino 50,,bus_stop,,,Cornacervina,,,44.7810126,,,615005,Migliarino,,,,,
+,,1500A;600R,1067781554,ATC,,,,12.0617501,,,,Loc Per Le Venezie F18,,bus_stop,,,Tenuta Bosca,,,44.8583057,,,605056,Codigoro,,,,,
+,,1700R,1067781571,ATC,,,,12.1278872,,,,Via Ponte Dolo,,bus_stop,,,Marozzo,,,44.7801207,,,611035,Lagosanto,,,,,
+,,4500SA;600A,1067781575,ATC,,,,12.3488481,,,,Via Gorino 171,,bus_stop,,,Bar Trombini,,,44.8222283,,,625010,Goro,,,,,
+,,1000A;1500A;1800R,1067781587,ATC,,,,12.265323,,,,Viale Del Bosco 275,,bus_stop,,,Volano - Via del Bosco 1,,,44.801837,,,606057,Comacchio,,,,,
+,,1400A;5000R,1067781592,FER,,,,12.0874017,,,,Via Mare,,bus_stop,,,Via Pozzi,,,44.7692551,,,613005,Massa Fiscaglia,,,,,
+,,1000R;1500R;600A,1067781603,ATC,,,,12.0934139,,,,Di Codigoro F68,,bus_stop,,,Ponte Fossetto,,,44.8530688,,,605014,Codigoro,,,,,
+,,1000A;1500A;600A;600R,1067781610,ATC,,,,12.1427491,,,,Ponte Maodino - Massenzatica 43,,bus_stop,,,Pontemaodino,,,44.8360132,,,605028,Codigoro,,,,,
+,,1000A;1500A,1067781619,ATC,,,,12.1799357,,,,Loc Per Volano 14,,bus_stop,,,Bivio Volano,,,44.8227438,,,605064,Codigoro,,,,,
+,,1200R;1400A,1067781621,ATC,,,,11.924425,,,,Copparo - Migliarino F50,,bus_stop,,,Cornacervina,,,44.780922,,,615006,Migliarino,,,,,
+,,1600A;1600R;4500R;4500SR;600R,1067781629,ATC,,,,12.2296865,,,,Via Provinciale 6,,bus_stop,,,Bosco Mesola,,,44.8764454,,,614010,Mesola,,,,,
+,,1600A;1600R;4500A;4500SA;600A,1067781631,ATC,,,,12.2267105,,,,Via Provinciale 94,,bus_stop,,,Bosco Mesola Forno,,,44.8813091,,,614012,Mesola,,,,,
+,,1800fA;1900A;2100R,1067781633,ATC,,,,12.0437225,,,,Via Comacchio 110,,bus_stop,,,Le Villette,,,44.7288532,,,617023,Ostellato,,,,,
+,,1600A,1067781636,ATC,,,,12.1785812,,,,Romea 59,,bus_stop,,,Vaccolino,,,44.8012986,,,606009,Comacchio,,,,,
+,,,1067781646,ATC,,,,12.1660951,,,,Strada Provinciale (Borgata Boschetto),,bus_stop,,,Borgo Taroni - Boschetto,,,44.7988644,,,611008,Lagosanto,,,,,
+,,1000A;1600A;1700A;1700R;1800R;1800fR;1900R;1900fR;5000A;5000R,1067781653,ATC,,,,12.2395133,,,,Viale Francia 97,,bus_stop,,,Viale Francia,,,44.7481657,,,606109,Comacchio,,,,,
+,,600A;600R,1067781657,ATC,,,,12.1584598,,,,Ponte Maodino - Massenzatica 22,,bus_stop,,,Italba Scuole,,,44.8873309,,,614038,Mesola,,,,,
+,,1000R;1500R;600A,1067781662,ATC,,,,12.0971462,,,,Di Codigoro 47,,bus_stop,,,Ponte Aliprandi,,,44.8500938,,,605016,Codigoro,,,,,
+,,1600A;1700A,1067781664,ATC,,,,12.1819487,,,,Romea 31,,bus_stop,,,Bivio Valle Staffani,,,44.7865543,,,606011,Comacchio,,,,,
+,,1400A;5000R,1067781674,FER,,,,12.0742347,,,,Via Mare,,bus_stop,,,Ex Consorzio Agrario2,,,44.7759482,,,613004,Massa Fiscaglia,,,,,
+,,1800fA;1900A;2100R,1067781677,ATC,,,,11.9783574,,,,Via Comacchio Fronte 5,,bus_stop,,,Palazzino,,,44.7460091,,,617014,Ostellato,,,,,
+,,1000A;600A,1067781688,ATC,,,,12.1123912,,,,Via Cavallotti,,bus_stop,,,Codigoro Ospedale,,,44.8230506,,,605076,Codigoro,,,,,
+,,4500A;4500SA;600A,1067781691,ATC,,,,12.2965731,,,,Via Cristina 2,,bus_stop,,,Goro - Barin,,,44.8533558,,,625004,Goro,,,,,
+,,1600A;1600R;4500R;4500SR;600R,1067781701,ATC,,,,12.2270712,,,,Via Provinciale 71,,bus_stop,,,Bosco Mesola Forno,,,44.8806926,,,614013,Mesola,,,,,
+,,1000R;1500R;600A;600R,1067781714,ATC,,,,12.1426722,,,,Ponte Maodino - Massenzatica 125,,bus_stop,,,Pontemaodino,,,44.8364084,,,605027,Codigoro,,,,,
+,,1700A;5000A;5000R,1067781717,ATC,,,,12.1385641,,,,Via Spina 36,,bus_stop,,,Borgata Prello,,,44.7561959,,,611021,Lagosanto,,,,,
+,,1400R;5000A,1067781719,FER,,,,12.0741731,,,,Via Mare,,bus_stop,,,Ex Consorzio Agrario,,,44.776091,,,613003,Massa Fiscaglia,,,,,
+,,1500A;600R,1067781721,ATC,,,,12.0845021,,,,Loc Per Le Venezie F2,,bus_stop,,,Ponte Reale,,,44.8584209,,,605051,Codigoro,,,,,
+,,1700A,1067781728,ATC,,,,12.1628639,,,,Strada Provinciale (Borgata Boschetto),,bus_stop,,,Corte Michelina,,,44.7803405,,,611014,Lagosanto,,,,,
+,,1000R;1600R;1700R;1800A;1800fA;1900A;1900fR,1067781729,ATC,,,,12.2395774,,,,Viale Francia 88,,bus_stop,,,Viale Francia,,,44.7483275,,,606108,Comacchio,,,,,
+,,1000R;1500R;600A;600R,1067781732,ATC,,,,12.1453929,,,,Ponte Maodino - Massenzatica 43,,bus_stop,,,Fondo Grassi,,,44.846932,,,605030,Codigoro,,,,,
+,,1000R;600A,1067781736,ATC,,,,12.1125263,,,,Via Cavallotti,,bus_stop,,,Codigoro Ospedale,,,44.8232911,,,605075,Codigoro,,,,,
+,,1000A;1500A,1067781741,ATC,,,,12.2555731,,,,Loc Volano Centro 31,,bus_stop,,,Volano Chiesa,,,44.8049209,,,605066,Codigoro,,,,,
+,,1400R;1700R,1067781743,ATC,,,,12.1318321,,,,Via Regoini,,bus_stop,,,Silos,,,44.7337331,,,611031,Lagosanto,,,,,
+,,2100A;2100R,1067781754,ATC,,,,11.9413634,,,,Via Battisti Cesare 30,,bus_stop,,,Ostellato Scuole,,,44.7447686,,,617011,Ostellato,,,,,
+,,1700A,1067781766,ATC,,,,12.1219513,,,,Codigoro - Lagosanto 47,,bus_stop,,,Ex Scuole,,,44.7837575,,,605081,Codigoro,,,,,
+,,4500SA;600A,1067781771,ATC,,,,12.3116813,,,,Via Bonello 13,,bus_stop,,,Bonello,,,44.8476864,,,625017,Migliaro,,,,,
+,,1600R;4500A;4500SA;600A,1067781784,ATC,,,,12.2269051,,,,Via Nuova Corriera 166,,bus_stop,,,Bosco Mesola Cimitero,,,44.8866969,,,614014,Mesola,,,,,
+,,1600R;4500R;4500SR;600R,1067781786,ATC,,,,12.2378461,,,,Via Provinciale 48,,bus_stop,,,Bivio Alberazzo,,,44.8747421,,,614009,Mesola,,,,,
+,,1800fA;1900A;2100R,1067781789,ATC,,,,12.0468762,,,,Via Comacchio 268,,bus_stop,,,San Giovanni,,,44.7276798,,,617025,Ostellato,,,,,
+,,1200A;1400R;NewHoA,1067781803,ATC,,,,11.9717888,,,,Via Ludovico Ariosto,,bus_stop,,,Migliaro,,,44.7987758,,,626001,Ariano nel Polesine,,,,,
+,,1000R;1500R;600A,1067781819,ATC,,,,12.108733,,,,Di Codigoro F37,,bus_stop,,,Case Bruciate,,,44.8471392,,,605018,Codigoro,,,,,
+,,1600A;1700A,1067781827,ATC,,,,12.187325,,,,Romea 3,,bus_stop,,,Ca' Cantin Pizzeria,,,44.7722324,,,606013,Comacchio,,,,,
+,,1600R;4500SR;600R,1067781834,ATC,,,,12.3443568,,,,,,bus_stop,,,Cimitero,,,44.8298734,,,625015,Goro,,,,,
+,,1000R;1500R;600A;600R,1067781846,ATC,,,,12.1452906,,,,Ponte Maodino - Massenzatica 100,,bus_stop,,,Via Pontelangorino 58,,,44.8534236,,,605033,Codigoro,,,,,
+,,1700A,1067781847,ATC,,,,12.1160316,,,,Sp53,,bus_stop,,,Bivio Via 2 Giugno,,,44.7957326,,,611005,Lagosanto,,,,,
+,,4500SA;600A,1067781852,ATC,,,,12.301639,,,,Via Bonello 5,,bus_stop,,,Pennini,,,44.847914,,,625002,Goro,,,,,
+,,1600R,1067781859,ATC,,,,12.1751261,,,,Romea 1,,bus_stop,,,Corte Madonnina,,,44.8294311,,,605061,Codigoro,,,,,
+,,1600A;1700A,1067781867,ATC,,,,12.2052594,,,,Poderale Valli Basse F7,,bus_stop,,,Via Valli Basse 11,,,44.7610454,,,606018,Comacchio,,,,,
+,,1600A;1600R;4500R;4500SR;600R,1067781868,ATC,,,,12.2275164,,,,Via Nuova Corriera F155,,bus_stop,,,Bivio Romea  Fondo,,,44.8994172,,,614020,Mesola,,,,,
+,,1000R;1500R;1600R,1067781878,ATC,,,,12.1775726,,,,Strada Statale Romea,,bus_stop,,,Passo Pomposa,,,44.8242372,,,605063,Codigoro,,,,,
+,,1600R;4500A;4500SA;600A,1067781884,ATC,,,,12.2268788,,,,Via Nuova Corriera 204,,bus_stop,,,Buffalara,,,44.8932454,,,614017,Mesola,,,,,
+,,1400A;1700A,1067781892,ATC,,,,12.1355742,,,,Via Argine Spino,,bus_stop,,,Ponte Rosso,,,44.746132,,,611023,Lagosanto,,,,,
+,,1800fR;1900R;2100A,1067781900,ATC,,,,11.9781846,,,,Via Comacchio 5,,bus_stop,,,Palazzino,,,44.7462027,,,617015,Ostellato,,,,,
+,,1200A;1200R;1400A;1400R;2100A;2100R;5200A;5200R;NewHoA,1067781903,ATC,,,,11.9324161,,,,Via Forti Augusto 15,,bus_stop,,,Migliarino - Supermercato,,,44.7714862,,,615002,Migliarino,,,,,
+,,1500R;600A,1067781904,ATC,,,,12.0847382,,,,Loc Per Le Venezie 2,,bus_stop,,,Ponte Reale,,,44.8585326,,,605050,Codigoro,,,,,
+,,1700A,1067781906,ATC,,,,12.11078,,,,Sp53,,bus_stop,,,Fondo Cortape',,,44.8033813,,,605083,Codigoro,,,,,
+,,1600R;4500SR;600R,1067781913,ATC,,,,12.3471287,,,,Via Gorino 14,,bus_stop,,,Macchinina,,,44.8253432,,,625014,Goro,,,,,
+,,1400R;5000A,1067781914,FER,,,,12.1042997,,,,,,bus_stop,,,Bivio Strada Valmana2,,,44.7517565,,,611001,Lagosanto,,,,,
+,,1000A;1500A;600A;600R,1067781916,ATC,,,,12.1457479,,,,Ponte Maodino - Massenzatica 46,,bus_stop,,,Fondo Grassi,,,44.8473767,,,605029,Codigoro,,,,,
+,,1700R,1067781920,ATC,,,,12.1157285,,,,Sp53,,bus_stop,,,Idice,,,44.8143162,,,605073,Codigoro,,,,,
+,,4500A;4500SA;600A,1067781929,ATC,,,,12.2808719,,,,Via Cristina 5,,bus_stop,,,Ponte Cristina,,,44.8696226,,,625008,Goro,,,,,
+,,1700A,1067781935,ATC,,,,12.106394,,,,Codigoro - Lagosanto 10,,bus_stop,,,Ponte Del Re,,,44.8293923,,,605070,Codigoro,,,,,
+,,1600R;4500A;4500SA;600A,1067781946,ATC,,,,12.2277179,,,,Via Nuova Corriera 155,,bus_stop,,,Bivio Romea  Fondo,,,44.8998639,,,614019,Mesola,,,,,
+,,5000R,1067781949,FER,,,,12.1895987,,,,Strada Romea (Lido Delle Nazioni),,bus_stop,,,Rotta Rambusi,,,44.7670917,,,606000,Comacchio,,,,,
+,,1700A,1067781955,ATC,,,,12.1587453,,,,Strada Provinciale (Borgata Boschetto),,bus_stop,,,Corte Rosmunda,,,44.7728351,,,611018,Lagosanto,,,,,
+,,1000A;1600A;1700A;1700R;1800R;1800fR;1900R;1900fR,1067781958,ATC,,,,12.2372727,,,,Viale Del Lago 1,,bus_stop,,,Galattico,,,44.7532711,,,606111,Comacchio,,,,,
+,,1200R;1400A;NewHoR,1067781961,ATC,,,,11.9719457,,,,Via Ludovico Ariosto,,bus_stop,,,Migliaro,,,44.7987187,,,626000,Sermide,,,,,
+,,600A;600R,1067781962,ATC,,,,12.156676,,,,Ponte Maodino - Massenzatica 59,,bus_stop,,,Italba,,,44.8831299,,,605046,Codigoro,,,,,
+,,1500R;600A,1067781968,ATC,,,,12.0610945,,,,Loc Per Le Venezie 18,,bus_stop,,,Tenuta Bosca,,,44.8584157,,,605055,Codigoro,,,,,
+,,1700A,1067781972,ATC,,,,12.1395686,,,,Via Spina 164,,bus_stop,,,Borgata Sabbioni,,,44.7585133,,,611019,Lagosanto,,,,,
+,,1800fR;1900R;2100A,1067781974,ATC,,,,11.9945061,,,,Via Comacchio Fronte 48,,bus_stop,,,Ostellato Zuccherificio,,,44.7423119,,,617017,Ostellato,,,,,
+,,1400A;1700A;1700R,1067781984,ATC,,,,12.1349898,,,,Viale Delle Regioni F23,,bus_stop,,,Volania,,,44.7247682,,,606024,Comacchio,,,,,
+,,1000A;1500A;1600A;600A,1067781986,ATC,,,,12.1776708,,,,Romea 36,,bus_stop,,,Ponte Quaiotto,,,44.8525977,,,605048,Codigoro,,,,,
+,,600R,1067781997,ATC,,,,12.1113173,,,,Viale Resistenza,,bus_stop,,,Codigoro Cimitero,,,44.8328418,,,605078,Codigoro,,,,,
+,,1600R;1700R,1067782004,ATC,,,,12.1922665,,,,Strada Romea (Lido Delle Nazioni),,bus_stop,,,Bivio Valli Basse,,,44.7621658,,,606047,Comacchio,,,,,
+,,1600;4500;600;339,1067782011,ATC,,,,12.2330912,,,,Via Mazzini 51,,bus_stop,,,Villaggio Seghi,,,44.9170916,,,614069,Mesola,,,,,
+,,1500A;600R,1067782014,ATC,,,,12.0328881,,,,Loc Per Le Venezie 50,,bus_stop,,,Corte Ippolito,,,44.8702459,,,610029,Jolanda di Savoia,,,,,
+,,,1067782030,FER,,,,12.1411187,,,,,,bus_stop,,,Lagosanto Centro,,,44.7647603,,,611004,Lagosanto,,,,,
+,,1000R;1500R;600A;600R,1067782036,ATC,,,,12.1484845,,,,Ponte Maodino - Massenzatica 51,,bus_stop,,,Pontelangorino,,,44.8604221,,,605035,Codigoro,,,,,
+,,1600R;1700R,1067782038,ATC,,,,12.1820968,,,,Strada Romea (Vaccolino),,bus_stop,,,Bivio Valle Staffani,,,44.7865496,,,606012,Comacchio,,,,,
+,,1000A;1500A;1800R,1067782045,ATC,,,,12.2619248,,,,Viale Del Bosco 53,,bus_stop,,,Volano - Via del Bosco 2,,,44.7950246,,,606081,Comacchio,,,,,
+,,1400A;1700A,1067782047,ATC,,,,12.1343015,,,,Via Argine Spino,,bus_stop,,,Fondo Giambi,,,44.7423335,,,611025,Lagosanto,,,,,
+,,1800fR;1900R;2100A,1067782051,ATC,,,,11.9626661,,,,Via Comacchio 3,,bus_stop,,,Bivio Campolungo,,,44.7467278,,,617013,Ostellato,,,,,
+,,1700A,1067782055,ATC,,,,12.1174541,,,,Sp53,,bus_stop,,,Botticina,,,44.7901384,,,611028,Lagosanto,,,,,
+,,1600R;4500A;4500SA;600A,1067782058,ATC,,,,12.2324112,,,,Circonvallazione Di Mesola 67,,bus_stop,,,Motte,,,44.9149587,,,614023,Mesola,,,,,
+,,1400A;1700A,1067782071,ATC,,,,12.1317672,,,,,,bus_stop,,,Silos,,,44.7338323,,,611030,Lagosanto,,,,,
+,,1600A;4500A;4500R;4500SA;4500SR;600A;600R,1067782072,ATC,,,,12.2332008,,,,Via Mazzini 51,,bus_stop,,,Villaggio Seghi,,,44.917204,,,614025,Mesola,,,,,
+,,1800fA;1900A;2100R,1067782080,ATC,,,,11.9980037,,,,Via Comacchio 50,,bus_stop,,,Ostellato Zuccherificio,,,44.7417865,,,617016,Ostellato,,,,,
+,,1200R;1400A;NewHoR,1067782086,ATC,,,,12.0132444,,,,Via Marconi 22,,bus_stop,,,Massafiscaglia,,,44.8043181,,,613009,Mesola,,,,,
+,,1500A;600R,1067782087,ATC,,,,12.0448569,,,,Loc Per Le Venezie F21,,bus_stop,,,Ponte Vicini,,,44.8672906,,,605058,Codigoro,,,,,
+,,1700R,1067782088,ATC,,,,12.164132,,,,Lagosanto - Vaccolino F48,,bus_stop,,,Boschetto Scuole,,,44.7881997,,,611011,Lagosanto,,,,,
+,,1600R;4500SR;600R,1067782100,ATC,,,,12.3463486,,,,Via Gorino 4,,bus_stop,,,Macchinina - Vallesina,,,44.8263984,,,625012,Goro,,,,,
+,,600R,1067782106,ATC,,,,12.1617741,,,,Ponte Maodino - Massenzatica F105/2,,bus_stop,,,Italba Dune,,,44.8990859,,,614002,Mesola,,,,,
+,,1700A;5000R,1067782108,ATC,,,,12.1401579,,,,Via Roma 3,,bus_stop,,,Lagosanto,,,44.7655608,,,611038,Masi Torello,,,,,
+,,1000A;1500A;600R,1067782111,ATC,,,,12.1665617,,,,Loc Caprile Centro F34,,bus_stop,,,Caprile,,,44.8586524,,,605038,Codigoro,,,,,
+,,1500R;600A,1067782121,ATC,,,,12.0771024,,,,Loc Per Le Venezie 7,,bus_stop,,,Longarole,,,44.8584909,,,605052,Codigoro,,,,,
+,,1700A,1067782124,ATC,,,,12.1277577,,,,Codigoro - Lagosanto 5,,bus_stop,,,Marozzo,,,44.7801197,,,611034,Lagosanto,,,,,
+,,1600R;4500A;4500SA;600A,1067782129,ATC,,,,12.2295995,,,,Via Romea 135,,bus_stop,,,Bar Bianco,,,44.9052853,,,614021,Mesola,,,,,
+,,1800fA;1900A;2100R,1067782132,ATC,,,,12.0027463,,,,Via Comacchio 58,,bus_stop,,,Corte Fornace,,,44.7408416,,,617018,Ostellato,,,,,
+,,1600A;1700A,1067782140,ATC,,,,12.1938253,,,,Strada Poderale Valli Basse,,bus_stop,,,Via Valli Basse 3,,,44.7617541,,,606015,Comacchio,,,,,
+,,1400A;1700A,1067782148,ATC,,,,12.1330316,,,,,,bus_stop,,,La Passerella,,,44.7381488,,,611027,Lagosanto,,,,,
+,,1800fA;1900A;2100A;2100R;5200R;NewHoR,1067782150,ATC,,,,11.9347127,,,,Via Comacchio 89,,bus_stop,,,Ostellato Stazione,,,44.7479139,,,615008,Mirabello,,,,,
+,,1000A;1500A;600A;600R,1067782154,ATC,,,,12.1172351,,,,Loc Per Pomposa Nord 7A,,bus_stop,,,Cristalmeta,,,44.8327129,,,605025,Codigoro,,,,,
+,,1700R;5000A;5000R,1067782163,ATC,,,,12.1400027,,,,Via Roma 6,,bus_stop,,,Lagosanto,,,44.7656551,,,611006,Lagosanto,,,,,
+,,1400A;5000R,1067782164,FER,,,,12.1042729,,,,,,bus_stop,,,Bivio Strada Valmana,,,44.7516136,,,611000,Lagosanto,,,,,
+,,1000A;1500A;600R,1067782165,ATC,,,,12.1085974,,,,Di Codigoro 37,,bus_stop,,,Case Bruciate,,,44.8471184,,,605017,Codigoro,,,,,
+,,5000A;5000R,1067782175,FER,,,,12.1788332,,,,Strada Romea (Vaccolino),,bus_stop,,,Vaccolino - Ristorante Romea,,,44.8005827,,,606149,Copparo,,,,,
+,,4500A;4500SA;600A,1067782194,ATC,,,,12.2506925,,,,Via Cristina,,bus_stop,,,Bivio Via Marzura,,,44.868072,,,614046,Migliarino,,,,,
+,,1700R,1067782199,ATC,,,,12.1064542,,,,Via Mazzini,,bus_stop,,,Ponte Del Re,,,44.8292765,,,605071,Codigoro,,,,,
+,,4500A;4500SA;600A,1067782205,ATC,,,,12.236997,,,,Via Provinciale 21,,bus_stop,,,Bivio Alberazzo,,,44.8750141,,,614008,Mesola,,,,,
+,,1700R,1067782214,ATC,,,,12.1160942,,,,Sp53,,bus_stop,,,Bivio Via 2 Giugno,,,44.795898,,,611016,Lagosanto,,,,,
+,,1000A;1000R;1500A;1700A;600R,1067782219,ATC,,,,12.1022697,,,,P.Le Papa Giovanni 23 39,,bus_stop,,,Codigoro Stazione,,,44.8357529,,,605023,Codigoro,,,,,
+,,1700A;5000R,1067782230,ATC,,,,12.1781607,,,,Lagosanto - Vaccolino 120,,bus_stop,,,Vaccolino Per Lagosanto,,,44.8007343,,,606039,Comacchio,,,,,
+,,4500SA;600A,1067782232,ATC,,,,12.347097,,,,Via Gorino 13,,bus_stop,,,Macchinina,,,44.8256151,,,625013,Goro,,,,,
+,,1000A;1600A;1700R;1800R;1900R;1900fR,1067782240,ATC,,,,12.2419672,,,,Viale Germania 45,,bus_stop,,,Viale Germania,,,44.7447443,,,606119,Comacchio,,,,,
+,,1000A;1000R;1500A;1500R;1600A;1600R,1067782246,ATC,,,,12.1776702,,,,,,bus_stop,,,Abbazia di Pomposa,,,44.8340954,,,605059,Codigoro,,,,,
+,,1000A;1000R;1700A;1700R;600A;600R,1067782256,ATC,,,,12.1122513,,,,Vle Della Resistenza 36,,bus_stop,,,Codigoro Centro Scolastico,,,44.8362347,,,605019,Codigoro,,,,,
+,,1000R;1500R;1600A;1900A,1067782266,ATC,,,,12.2655285,,,,Viale Del Bosco F279,,bus_stop,,,Volano - Via del Bosco 1,,,44.8021838,,,606070,Comacchio,,,,,
+,,1800fR;1900R;2100A,1067782267,ATC,,,,12.0470301,,,,Via Comacchio 153A,,bus_stop,,,San Giovanni,,,44.7276802,,,617026,Ostellato,,,,,
+,,1600R;4500SR;600R,1067782278,ATC,,,,12.3019308,,,,Via Bonello 34,,bus_stop,,,Pennini,,,44.8478022,,,625003,Goro,,,,,
+,,,1068825570,ATC,,,,11.5908933,,,,Poggiorenatico - Santa Maria Codifiume F17,,bus_stop,,,La Pesa,,,44.7138615,,,600721,Ferrara,,,,,
+,,2200R,1068825572,ATC,,,,11.7069837,,,,Sp65,,bus_stop,,,Costa Azzurra,,,44.7168234,,,601063,Argenta,,,,,
+,,2200R,1068825573,ATC,,,,11.6294159,,,,Via Ravenna F614,,bus_stop,,,Fossanova Distilleria,,,44.7860693,,,600734,Ferrara,,,,,
+,,,1068825575,ATC,,,,11.6064292,,,,Via Imperiale,,bus_stop,,,Ponte Diavolo,,,44.6986993,,,600725,Ferrara,,,,,
+,,2200R,1068825578,ATC,,,,11.6898706,,,,Ferrara - Consandolo 65,,bus_stop,,,Monestirolo,,,44.7353642,,,600749,Ferrara,,,,,
+,,,1068825583,ATC,,,,11.5681128,,,,Poggiorenatico - Santa Maria Codifiume 173,,bus_stop,,,Possessione San Maurelio,,,44.7364401,,,600718,Ferrara,,,,,
+,,2200A,1068825586,ATC,,,,11.6551248,,,,Ferrara - Consandolo 1052,,bus_stop,,,Gaibana,,,44.753392,,,600740,Ferrara,,,,,
+,,2500A,1068825587,ATC,,,,11.7431962,,,,Cona - Portomaggiore 51,,bus_stop,,,San Cristoforo,,,44.7769673,,,623007,Voghiera,,,,,
+,,5200R,1068825589,FER,,,,11.7249165,,,,Via Giacomo Matteotti,,bus_stop,,,Montesanto,,,44.730253,,,623002,Voghiera,,,,,
+,,2200A,1068825593,ATC,,,,11.6921677,,,,Via Zenzalino 70,,bus_stop,,,Bova Di Marrara,,,44.6980329,,,601057,Argenta,,,,,
+,,2500R;5200R,1068825597,ATC,,,,11.7748198,,,,Via Runco Gambulaga F1,,bus_stop,,,Runco,,,44.7390527,,,619013,Portomaggiore,,,,,
+,,2200A;2200R,1068825598,ATC,,,,11.6857254,,,,Via Della Cembalina 15,,bus_stop,,,Marrara,,,44.7229733,,,600753,Ferrara,,,,,
+,,,1068825602,ATC,,,,11.6102174,,,,Via Penne,,bus_stop,,,Tenuta Penne,,,44.6947359,,,600726,Ferrara,,,,,
+,,3000fA,1068825603,ATC,,,,11.5052645,,,,Via Ponte Rosso,,bus_stop,,,Via Ponte Rosso,,,44.7840972,,,618037,Poggio Renatico,,,,,
+,,2200A,1068825605,ATC,,,,11.6753137,,,,Ferrara - Consandolo F37,,bus_stop,,,Ponte Zanardi,,,44.7385765,,,600744,Ferrara,,,,,
+,,2200R,1068825610,ATC,,,,11.6302427,,,,Via Ravenna 313,,bus_stop,,,Fossanova San Marco,,,44.7969037,,,600732,Ferrara,,,,,
+,,,1068825612,ATC,,,,11.6064942,,,,,,bus_stop,,,Ponte Diavolo,,,44.6983603,,,600724,Ferrara,,,,,
+,,2200A,1068825615,ATC,,,,11.7063168,,,,Viale Zenzalino,,bus_stop,,,Corte Zagni - Luogo Corti,,,44.7053009,,,601059,Argenta,,,,,
+,,2200A,1068825617,ATC,,,,11.6541946,,,,Ferrara - Consandolo 844,,bus_stop,,,Gaibanella,,,44.7668869,,,600737,Ferrara,,,,,
+,,5200A,1068825619,,,,,11.7625428,,,,Sp29,,bus_stop,,,Belriguardo,,,44.7509092,,,623004,Voghiera,,,,,
+,,,1068825620,ATC,,,,11.6177043,,,,Bivio Passo Segni - Correggio 355,,bus_stop,,,San Bartolomeo In Bosco,,,44.7247384,,,600103,Ferrara,,,,,
+,,2200R,1068825624,ATC,,,,11.7260048,,,,Ferrara - Consandolo 113,,bus_stop,,,Rastelli Rossi,,,44.7024061,,,601067,Argenta,,,,,
+,,2200R,1068825625,ATC,,,,11.655983,,,,Ferrara - Consandolo 567,,bus_stop,,,Gaibanella,,,44.7647585,,,600738,Ferrara,,,,,
+,,2500A;5200A,1068825626,ATC,,,,11.7745704,,,,Via Runco Gambulaga 1,,bus_stop,,,Runco,,,44.7390232,,,619012,Portomaggiore,,,,,
+,,2500R,1068825629,ATC,,,,11.7485672,,,,Via Europa F1,,bus_stop,,,Voghiera Giardino,,,44.7602919,,,623021,Voghiera,,,,,
+,,2500A,1068825633,ATC,,,,11.7510411,,,,Cona - Portomaggiore 117,,bus_stop,,,Voghiera,,,44.7585179,,,623018,Voghiera,,,,,
+,,2200A;5200A,1068825634,ATC,,,,11.7079899,,,,Via Nazionale 100,,bus_stop,,,San Nicolo',,,44.7088692,,,601061,Argenta,,,,,
+,,1800A;1800fA;1900A;2200A,1068825636,ATC,,,,11.6352825,,,,Via Ravenna 344,,bus_stop,,,Borgo Garbini,,,44.8089748,,,600762,Ferrara,,,,,
+,,,1068825637,ATC,,,,11.5909002,,,,Poggiorenatico - Santa Maria Codifiume 17,,bus_stop,,,La Pesa,,,44.7137876,,,600923,Ferrara,,,,,
+,,3000fA,1068825638,ATC,,,,11.5065076,,,,Via Coronella,,bus_stop,,,Via Ponte Rosso,,,44.7843778,,,618038,Poggio Renatico,,,,,
+,,2200A,1068825639,ATC,,,,11.6603413,,,,Ferrara - Consandolo 1190,,bus_stop,,,Oltremare,,,44.7458958,,,600742,Ferrara,,,,,
+,,2200R,1068825646,ATC,,,,11.6496558,,,,Via Ravenna F774,,bus_stop,,,Colombina,,,44.7704936,,,600736,Ferrara,,,,,
+,,5200A,1068825647,FER,,,,11.7500268,,,,Piazza Giovanni Xxiii,,bus_stop,,,Voghiera Caffe' Sport,,,44.7581852,,,623000,Voghiera,,,,,
+,,2500R,1068825651,ATC,,,,11.7368313,,,,Cona - Portomaggiore 14,,bus_stop,,,Gualdo,,,44.7827981,,,623010,Voghiera,,,,,
+,,5200R,1068825655,FER,,,,11.762176,,,,Sp29,,bus_stop,,,Belriguardo,,,44.7508833,,,623003,Voghiera,,,,,
+,,2200A,1068825658,ATC,,,,11.7074879,,,,Ferrara - Consandolo 14,,bus_stop,,,Costa Azzurra,,,44.7162613,,,601062,Argenta,,,,,
+,,,1068825661,ATC,,,,11.5785463,,,,Poggiorenatico - Santa Maria Codifiume F219,,bus_stop,,,Predio Gallo,,,44.7259476,,,600922,Ferrara,,,,,
+,,2200A,1068825663,ATC,,,,11.6903718,,,,Ferrara - Consandolo 110,,bus_stop,,,Monestirolo,,,44.7347236,,,600748,Ferrara,,,,,
+,,2200R,1068825669,ATC,,,,11.6594825,,,,Ferrara - Consandolo 697,,bus_stop,,,Oltremare,,,44.746259,,,600743,Ferrara,,,,,
+,,2500A,1068825670,ATC,,,,11.7487783,,,,Via Europa 1,,bus_stop,,,Voghiera Giardino,,,44.7603634,,,623020,Voghiera,,,,,
+,,5200A,1068825671,FER,,,,11.7250179,,,,Via Giacomo Matteotti,,bus_stop,,,Montesanto,,,44.7303542,,,623001,Voghiera,,,,,
+,,2200R,1068825674,ATC,,,,11.692398,,,,Via Zenzalino 61,,bus_stop,,,Bova Di Marrara,,,44.6982514,,,601055,Argenta,,,,,
+,,2500R,1068825675,ATC,,,,11.7464286,,,,Cona - Portomaggiore 36,,bus_stop,,,Voghenza Mulino,,,44.7718429,,,623006,Voghiera,,,,,
+,,2200R;5200R,1068825677,ATC,,,,11.6927411,,,,Ferrara - Consandolo 85,,bus_stop,,,Bivio Marrara - Borgo Conventone,,,44.726348,,,600752,Ferrara,,,,,
+,,2200R,1068825684,ATC,,,,11.6808991,,,,Ferrara - Consandolo F28,,bus_stop,,,Monestirolo Frigo,,,44.7370855,,,600747,Ferrara,,,,,
+,,2200A,1068825687,ATC,,,,11.6299562,,,,Via Ravenna 544,,bus_stop,,,Fossanova San Marco,,,44.7961369,,,600731,Ferrara,,,,,
+,,,1068825688,ATC,,,,11.5680372,,,,Via Imperiale,,bus_stop,,,Possessione San Maurelio,,,44.7364504,,,600719,Ferrara,,,,,
+,,2200A,1068825691,ATC,,,,11.6812331,,,,Ferrara - Consandolo 32,,bus_stop,,,Monestirolo Frigo,,,44.7369348,,,600746,Ferrara,,,,,
+,,,1068825693,ATC,,,,11.5785321,,,,Poggiorenatico - Santa Maria Codifiume 219,,bus_stop,,,Predio Gallo,,,44.7261949,,,600720,Ferrara,,,,,
+,,,1068825696,ATC,,,,11.5968524,,,,Poggiorenatico - Santa Maria Codifiume 289,,bus_stop,,,Bivio Passo Segni,,,44.7081652,,,600723,Ferrara,,,,,
+,,2200R,1068825697,ATC,,,,11.706434,,,,Via Nazionale 39,,bus_stop,,,Corte Zagni - Luogo Corti,,,44.7052126,,,601058,Argenta,,,,,
+,,2200R,1068825700,ATC,,,,11.6553379,,,,Ferrara - Consandolo F1048,,bus_stop,,,Gaibana,,,44.7534649,,,600741,Ferrara,,,,,
+,,2500A,1068825701,ATC,,,,11.7490817,,,,Via Kenneny John Fitzgerald 4,,bus_stop,,,Voghenza,,,44.7664053,,,623022,Voghiera,,,,,
+,,2200A,1068825706,ATC,,,,11.7267102,,,,Ferrara - Consandolo F115,,bus_stop,,,Rastelli Rossi,,,44.7022086,,,601066,Argenta,,,,,
+,,2500R;5200R,1068825707,ATC,,,,11.7650134,,,,Cona - Portomaggiore 82,,bus_stop,,,Borgo Runco - Borgo Lodi,,,44.7441818,,,619016,Portomaggiore,,,,,
+,,2500A,1068825708,ATC,,,,11.7366344,,,,Cona - Portomaggiore 39,,bus_stop,,,Gualdo,,,44.7833126,,,623009,Voghiera,,,,,
+,,2200A,1068825711,ATC,,,,11.6326597,,,,Via Ravenna 432,,bus_stop,,,Via Ravenna Mulino,,,44.8036585,,,600729,Ferrara,,,,,
+,,,1068825713,ATC,,,,11.597514,,,,Via A. Guidetti,,bus_stop,,,Bivio Passo Segni,,,44.7072051,,,600722,Ferrara,,,,,
+,,2500R;5200R,1068825717,ATC,,,,11.7516829,,,,Cona - Portomaggiore 184,,bus_stop,,,Voghiera,,,44.758055,,,623019,Voghiera,,,,,
+,,2200R,1068825719,ATC,,,,11.6750149,,,,Ferrara - Consandolo 39,,bus_stop,,,Ponte Zanardi,,,44.7387551,,,600745,Ferrara,,,,,
+,,2200R,1068825722,ATC,,,,11.6331983,,,,Via Ravenna 275,,bus_stop,,,Via Ravenna Mulino,,,44.803628,,,600730,Ferrara,,,,,
+,,,1068825723,ATC,,,,11.5882735,,,,Via A. Guidetti,,bus_stop,,,Passo Segni,,,44.7042421,,,663001,Bentivoglio,,,,,
+,,2200A,1068825724,ATC,,,,11.7156779,,,,Ferrara - Consandolo 134,,bus_stop,,,Fondo Passerini,,,44.7050464,,,601064,Argenta,,,,,
+,,2200A,1068825725,ATC,,,,11.6498715,,,,Via Ravenna 776,,bus_stop,,,Colombina,,,44.770236,,,600735,Ferrara,,,,,
+,,2500R,1068825726,ATC,,,,11.7574515,,,,Cona - Portomaggiore 284,,bus_stop,,,Belriguardo,,,44.7536682,,,623017,Voghiera,,,,,
+,,2500A,1068825731,ATC,,,,11.757269,,,,Cona - Portomaggiore 234,,bus_stop,,,Belriguardo,,,44.7539498,,,623005,Voghiera,,,,,
+,,2500A;5200A,1068825734,ATC,,,,11.7651252,,,,Cona - Portomaggiore F82,,bus_stop,,,Borgo Runco - Borgo Lodi,,,44.7446356,,,619015,Portomaggiore,,,,,
+,,2500R,1068825735,ATC,,,,11.7491592,,,,Via Kenneny John Fitzgerald 1,,bus_stop,,,Voghenza,,,44.7661893,,,623023,Tresigallo,,,,,
+,,2200R;5200R,1068825737,ATC,,,,11.7083807,,,,Via Nazionale 43,,bus_stop,,,San Nicolo',,,44.7090523,,,601060,Argenta,,,,,
+,,1800R;1800fR;1900R;2200R,1068825739,ATC,,,,11.635359,,,,Via Ravenna F350,,bus_stop,,,Borgo Garbini,,,44.8091778,,,600773,Ferrara,,,,,
+,,,1068825745,ATC,,,,11.6254517,,,,Via Del Taglione 12/ F,,bus_stop,,,Spinazzino,,,44.7060919,,,600116,Ferrara,,,,,
+,,,1068825760,ATC,,,,11.6100472,,,,Via Imperiale,,bus_stop,,,Tenuta Penne,,,44.6950962,,,600727,Ferrara,,,,,
+,,2200A,1068825762,ATC,,,,11.6291051,,,,Via Ravenna 620,,bus_stop,,,Fossanova Distilleria,,,44.785843,,,600733,Ferrara,,,,,
+,,2500R,1068825770,ATC,,,,11.7432686,,,,Cona - Portomaggiore 26,,bus_stop,,,San Cristoforo,,,44.7767634,,,623008,Voghiera,,,,,
+,,2200R,1068825776,ATC,,,,11.7151755,,,,Ferrara - Consandolo 97,,bus_stop,,,Fondo Passerini,,,44.7051489,,,601065,Argenta,,,,,
+,,2500A,1068825787,ATC,,,,11.746563,,,,Cona - Portomaggiore 83,,bus_stop,,,Voghenza Mulino,,,44.7720275,,,623024,Tresigallo,,,,,
+,,2200A;5200A,1068825788,ATC,,,,11.6925864,,,,Ferrara - Consandolo 192,,bus_stop,,,Bivio Marrara - Borgo Conventone,,,44.7260423,,,600751,Ferrara,,,,,
+,,,1069881153,,,,,11.3502959,yes,,,,,bus_stop,,,,yes,,44.499791,,,,,,,yes,no,
+,,,1069881156,,,,,11.3503025,no,,,,,bus_stop,,,,no,,44.4996464,,,,,,,yes,no,
+,,93,1086986512,,,,,11.4013567,,,,,,bus_stop,,,San Sisto,,,44.5201124,,,,,,,,,
+,,,1089210493,,,,,11.396382,,,,,,bus_stop,,,Menarini,no,,44.5180164,,,,,,,,,
+,,,1089210496,,,,,11.3902728,,,,,,bus_stop,,,Virgolone,,,44.5148651,,,,,,,,,
+,,1000R;600R,1097853231,ATC,,,,12.0906506,,,,Di Codigoro 34,,bus_stop,,,Casa Pierini,,,44.881216,,,605008,Codigoro,,,,,
+,,1000A;600A;600R,1097853237,ATC,,,,12.099018,,,,Via Bengasi F211,,bus_stop,,,Passerella Schiavi,,,44.8965738,,,605003,Codigoro,,,,,
+,,1000A;600A;600R,1097853248,ATC,,,,12.0904756,,,,Di Codigoro F34,,bus_stop,,,Casa Pierini,,,44.8812525,,,605007,Codigoro,,,,,
+,,1000R;600A;600R,1097853253,ATC,,,,12.0987745,,,,Via Piave 24,,bus_stop,,,Mezzogoro,,,44.9016434,,,605002,Codigoro,,,,,
+,,1000R;600A;600R,1097853259,ATC,,,,12.0989616,,,,Via Bengasi 211,,bus_stop,,,Passerella Schiavi,,,44.8954172,,,605004,Codigoro,,,,,
+,,1000R;600R,1097853263,ATC,,,,12.0923247,,,,Di Codigoro 27,,bus_stop,,,Mezzogoro Consorzio,,,44.887732,,,605006,Codigoro,,,,,
+,,1000A;600A;600R,1097853267,ATC,,,,12.0986124,,,,Via Piave 55,,bus_stop,,,Mezzogoro,,,44.9013688,,,605001,Codigoro,,,,,
+,,1000A;600A;600R,1097853284,ATC,,,,12.0922303,,,,Di Codigoro 25 A,,bus_stop,,,Mezzogoro Consorzio,,,44.8875433,,,605005,Codigoro,,,,,
+,,,1098153744,,,,,11.7369721,,,,,,bus_stop,,,Linea 153,,,44.4183968,,,,,,,,,
+,,4000A,1101633586,ATC,,,,11.1163997,,,,,,bus_stop,,,Morotorto,,,44.7185601,,,661009,Argelato,,,,,
+,,356A;356R,1101633601,,,,,11.4468496,,,,,,bus_stop,,,Passarella,,,44.6103538,,,674011,Minerbio,,,,,
+,,356R,1101633619,,,,,11.4742102,,,,,,bus_stop,,,Melo (Bivio),,,44.6038688,,,674000,Minerbio,,,,,
+,,353A;356A;356R,1101633642,,,,,11.4625664,,,,Via Nazionale,,bus_stop,,,Casoni,,,44.6287809,,,673001,Malalbergo,,,,,
+,,4000A,1101633651,ATC,,,,11.1198784,,,,,,bus_stop,,,Crevalcore Cemab,,,44.7293851,,,670016,Crevalcore,,,,,
+,,4000R,1101633674,ATC,,,,11.1034189,,,,Via Roma,,bus_stop,,,Ravarino Cimitero,,,44.7225644,,,661000,Ravarino,,,,,
+,,353R;356A;356R,1101633683,,,,,11.4881877,,,,Via Nazionale,,bus_stop,,,Altedo Case Nuove,,,44.6562932,,,673006,Malalbergo,,,,,
+,,4000A;4000R;554A;554R,1101633708,ATC,,,,11.1476959,,,,,,bus_stop,,,Crevalcore (C. Comm.Le),,,44.7200571,,,670014,Crevalcore,,,,,
+,,353R;356A;356R,1101633717,,,,,11.4725026,,,,Via Nazionale,,bus_stop,,,Canaletto,,,44.6393862,,,673002,Malalbergo,,,,,
+,,554A,1101633728,ATC,,,,11.1736333,,,,Via Casoni,,bus_stop,,,Caselle,,,44.790206,,,670006,Crevalcore,,,,,
+,,353A;356A,1101633750,,,,,11.4700285,,,,,,bus_stop,,,Z.I. Ca` De Fabbri Ii,,,44.6134927,,,674003,Minerbio,,,,,
+,,356A;356R,1101633754,,,,,11.4529629,,,,,,bus_stop,,,Ca` De Fabbri,,,44.6181176,,,674012,Minerbio,,,,,
+,,3500R,1101633781,ATC,,,,11.3753487,,,,Via Libert,,bus_stop,,,San Giorgio Di Piano,,,44.6466272,,,677000,San Giorgio di Piano,,,,,
+,,356R,1101633788,,,,,11.4638571,,,,,,bus_stop,,,Armarolo,,,44.5949404,,,666031,Budrio,,,,,
+,,4000R,1101633807,ATC,,,,11.1536069,,,,,,bus_stop,,,Crevalcore Tabaccheria,,,44.72137,,,670020,Crevalcore,,,,,
+,,353A;356A,1101633814,,,,,11.4575677,,,,,,bus_stop,,,Ca` De Fabbri Scuole,,,44.6184672,,,674005,Minerbio,,,,,
+,,353R;356A;356R,1101633839,,,,,11.4874814,,,,Via Nazionale,,bus_stop,,,Altedo,,,44.6657412,,,673010,Malalbergo,,,,,
+,,4000R,1101633848,ATC,,,,11.0989933,,,,Via Roma,,bus_stop,,,Ravarino,,,44.7238818,,,661006,Ravarino,,,,,
+,,356R,1101633871,,,,,11.4603338,,,,,,bus_stop,,,Trapanino Bivio,,,44.5842327,,,666029,Budrio,,,,,
+,,353A;353R,1101633881,,,,,11.4734604,,,,,,bus_stop,,,Minerbio Z. I.,,,44.6140309,,,674014,Molinella,,,,,
+,,353R;356R,1101633893,,,,,11.4657331,,,,,,bus_stop,,,"""Z.I. Ca` De Fabbri """"Ronchi Inferiore""""""",,,44.6155781,,,674007,Minerbio,,,,,
+,,4000A,1101633895,ATC,,,,11.102983,,,,Via Roma,,bus_stop,,,Ravarino Cimitero,,,44.7229282,,,661001,Ravarino,,,,,
+,,353R;356R,1101633921,,,,,11.4696746,,,,,,bus_stop,,,Z.I. Ca` De Fabbri Ii,,,44.6139096,,,674002,Minerbio,,,,,
+,,3500R,1101633923,ATC,,,,11.3684162,,,,,,bus_stop,,,Funo,,,44.5912685,,,662001,Baricella,,,,,
+,,356A,1101633931,,,,,11.4705159,,,,,,bus_stop,,,Armarolo Chiesa,,,44.5997946,,,666034,Castello d'Argile,,,,,
+,,4000A,1101633947,ATC,,,,11.0984073,,,,Via Roma,,bus_stop,,,Ravarino,,,44.7241886,,,661007,Ravarino,,,,,
+,,4000A,1101633971,ATC,,,,11.0806538,,,,Via Maestra,,bus_stop,,,Rami Di Ravarino,,,44.7295805,,,661003,Ravarino,,,,,
+,,353A;356A;356R,1101633981,,,,,11.490526,,,,Via Nazionale,,bus_stop,,,Altedo Z.I.,,,44.6725612,,,673013,Malalbergo,,,,,
+,,356A;356R,1101634002,,,,,11.4469516,,,,,,bus_stop,,,Passarella,,,44.610346,,,674010,Minerbio,,,,,
+,,356A;356R,1101634007,,,,,11.4257162,,,,,,bus_stop,,,Lovoleto,,,44.5857481,,,671040,Granarolo dell'Emilia,,,,,
+,,4000A,1101634012,ATC,,,,11.0866541,,,,Via Maestra,,bus_stop,,,Loberso,,,44.7264693,,,661005,Ravarino,,,,,
+,,356A;356R,1101634023,,,,,11.4380122,,,,,,bus_stop,,,Argini,,,44.5979372,,,674008,Minerbio,,,,,
+,,353A;356A;356R,1101634044,,,,,11.4873028,,,,Via Nazionale,,bus_stop,,,Altedo,,,44.6656381,,,673011,Malalbergo,,,,,
+,,4000A,1101634050,ATC,,,,11.1540188,,,,Via Mezzo Levante,,bus_stop,,,Crevalcore Tabaccheria,,,44.7214139,,,670019,Crevalcore,,,,,
+,,356A,1101634052,,,,,11.4745833,,,,,,bus_stop,,,Melo (Bivio),,,44.6045486,,,674001,Minerbio,,,,,
+,,4000R,1101634072,ATC,,,,11.1294561,,,,Via Mezzo Ponente,,bus_stop,,,Ponente Di Mezzo,,,44.7288709,,,670017,Crevalcore,,,,,
+,,356A,1101634078,,,,,11.4637125,,,,,,bus_stop,,,Armarolo,,,44.594968,,,666032,Budrio,,,,,
+,,353A;356A;356R,1101634101,,,,,11.4805313,,,,Via Nazionale,,bus_stop,,,Casoni Bv Saletto,,,44.6481077,,,673005,Malalbergo,,,,,
+,,554R,1101634124,ATC,,,,11.1735676,,,,Via Casoni,,bus_stop,,,Caselle,,,44.7904349,,,670007,Crevalcore,,,,,
+,,3500A,1101634152,ATC,,,,11.3752092,,,,Via Libert,,bus_stop,,,San Giorgio Di Piano,,,44.6464567,,,677001,San Giovanni in Persiceto,,,,,
+,,356A;356R,1101634162,,,,,11.4527627,,,,,,bus_stop,,,Ca` De Fabbri,,,44.6182173,,,674013,Molinella,,,,,
+,,4000R,1101634168,ATC,,,,11.0870284,,,,Via Maestra,,bus_stop,,,Loberso,,,44.7261514,,,661004,Ravarino,,,,,
+,,356A;356R,1101634193,,,,,11.4256523,,,,,,bus_stop,,,Lovoleto,,,44.5855357,,,671039,Granarolo dell'Emilia,,,,,
+,,353R;356A;356R,1101634197,,,,,11.4621181,,,,Via Nazionale,,bus_stop,,,Casoni,,,44.6281316,,,673000,Malalbergo,,,,,
+,,4000A,1101634230,ATC,,,,11.1300147,,,,Via Mezzo Ponente,,bus_stop,,,Ponente Di Mezzo,,,44.7288031,,,670018,Crevalcore,,,,,
+,,356R,1101634256,,,,,11.47042,,,,,,bus_stop,,,Armarolo Chiesa,,,44.5993916,,,666033,Castello d'Argile,,,,,
+,,4000R,1101634267,ATC,,,,11.080564,,,,Via Maestra,,bus_stop,,,Rami Di Ravarino,,,44.7294251,,,661002,Ravarino,,,,,
+,,353A;356A;356R,1101634276,,,,,11.4875496,,,,Via Nazionale,,bus_stop,,,Altedo Scuole,,,44.6620386,,,673009,Malalbergo,,,,,
+,,554A,1101634293,ATC,,,,11.1714882,,,,Via Del Papa,,bus_stop,,,Sammartini,,,44.7603377,,,670011,Crevalcore,,,,,
+,,353R;356A;356R,1101634301,,,,,11.480591,,,,Via Nazionale,,bus_stop,,,Casoni Bv Saletto,,,44.6480922,,,673004,Malalbergo,,,,,
+,,4000R,1101634328,ATC,,,,11.1454896,,,,Via Gramsci 151,,bus_stop,,,Crevalcore (P.Ta Modena),,,44.7238974,,,670013,Crevalcore,,,,,
+,,356A,1101634351,,,,,11.4596353,,,,,,bus_stop,,,Trapanino Bivio,,,44.5850299,,,666030,Budrio,,,,,
+,,3500A,1101634357,ATC,,,,11.36822,,,,,,bus_stop,,,Funo,,,44.5911618,,,662000,Baricella,,,,,
+,,356A;356R,1101634364,,,,,11.4385158,,,,,,bus_stop,,,Argini,,,44.5996199,,,674009,Minerbio,,,,,
+,,4000R,1101634386,ATC,,,,11.1173833,,,,Via Morotorto,,bus_stop,,,Morotorto,,,44.7180228,,,661008,Argelato,,,,,
+,,4000A,1101634424,ATC,,,,11.1451911,,,,Via Gramsci 168,,bus_stop,,,Crevalcore Porta Modena,,,44.723795,,,670012,Crevalcore,,,,,
+,,353R;356R,1101634433,,,,,11.457939,,,,,,bus_stop,,,Ca` De Fabbri Scuole,,,44.6186438,,,674004,Minerbio,,,,,
+,,353R;356A;356R,1101634459,,,,,11.4905617,,,,Via Nazionale,,bus_stop,,,Altedo Z.I.,,,44.672549,,,673012,Malalbergo,,,,,
+,,554R,1101634465,ATC,,,,11.1711983,,,,Via Del Papa,,bus_stop,,,Sammartini,,,44.7607043,,,670010,Crevalcore,,,,,
+,,353R;356A;356R,1101634498,,,,,11.4877007,,,,Via Nazionale,,bus_stop,,,Altedo Scuole,,,44.662209,,,673008,Malalbergo,,,,,
+,,353A;356A;356R,1101634507,,,,,11.4881104,,,,Via Nazionale,,bus_stop,,,Altedo Case Nuove,,,44.6563287,,,673007,Malalbergo,,,,,
+,,353A;356A,1101634517,,,,,11.4661138,,,,,,bus_stop,,,"""Z.I. Ca` De Fabbri """"Ronchi Inferiore""""""",,,44.6150994,,,674006,Minerbio,,,,,
+,,4000R,1101634548,ATC,,,,11.119902,,,,Sp1,,bus_stop,,,Crevalcore Cemab,,,44.7287366,,,670015,Crevalcore,,,,,
+,,353A;356A;356R,1101634555,,,,,11.4724949,,,,Via Nazionale,,bus_stop,,,Canaletto,,,44.6394601,,,673003,Malalbergo,,,,,
+,,,1109612514,,13,,,10.8742497,,,,,,bus_stop,,,,,,44.6050191,,,,,,,,,
+,,,1109618947,,"13, 800",,,10.8696518,,,,,,bus_stop,,,,,,44.6083888,,,,,,,,,
+,,,1109618955,,13,,,10.8745876,,,,,,bus_stop,,,,,,44.6037015,,,,,,,,,
+,,,1109618958,,"13, 800",,,10.8692763,,,,,,bus_stop,,,,,,44.6084346,,,,,,,,,
+,,,1111513904,,,,,11.3728986,,,,,,bus_stop,,,Rimesse,no,,44.4943416,,,,,,,,,
+,,,1112926965,,,,,11.3254983,,,,,,bus_stop,,,Guidotti,no,,44.4924699,,,,,,,,,
+,,,1112926968,,,,,11.3217561,,,,,,bus_stop,,,Turati,no,,44.491469,,,,,,,,,
+,,,1112926977,,,,,11.3220038,,,,,,bus_stop,,,Turati,no,,44.4917355,,,,,,,,,
+,,,1112926980,,,,,11.3238449,,,,,,bus_stop,,,Piazza Volta,yes,,44.4927869,,,,,,,,,
+,,,1112926990,,,,,11.3234221,,,,,,bus_stop,,,Piazza Volta,yes,,44.4927756,,,,,,,,,
+,,,1118949660,,,,,10.8676944,,,,,,bus_stop,,,,,,44.6048351,,,,,,,,,
+,,,1118949661,,,,,10.864052,,,,,,bus_stop,,,,,,44.6001175,,,,,,,,,
+,,,1118949673,,,,,10.8586997,,,,,,bus_stop,,,,,,44.594487,,,,,,,,,
+,,,1118949677,,,,,10.8578077,,,,,,bus_stop,,,,,,44.5939453,,,,,,,,,
+,,,1118949680,,,,,10.8666729,,,,,,bus_stop,,,,,,44.603233,,,,,,,,,
+,,,1118949683,,,,,10.8646018,,,,,,bus_stop,,,,,,44.6004415,,,,,,,,,
+,,,1119013099,,,,,10.8639388,,,,,,bus_stop,,,,,,44.6037523,,,,,,,,,
+,,,1119013132,,,,,10.8627493,,,,,,bus_stop,,,,,,44.607337,,,,,,,,,
+,,,1119013139,,,,,10.8647016,,,,,,bus_stop,,,,,,44.603439,,,,,,,,,
+,,,1126636617,,,,,12.0360946,,"Linea 3: [Via Lunga, Ravegnana, Centro, Pz.le Vittoria, Scientifico, Ospedale] / Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino]",,,,bus_stop,,,,,,44.2026213,,,,,,,,,
+,,,1126752360,,,,,12.0416511,,"Linea 1: [Fiera, Cimitero, Centro, Pz.le Vittoria, Stadio, S.Martino] / Linea 96 96A: [Piazza, Pz.le Vittoria, Scientifico, Venturini, Mazzatinti, S.Martino]",,,,bus_stop,,,,,,44.194451,,,,,,,,,
+,,,1126752368,,,,,12.041812,,"Linea 1: [S.Martino, Stadio, Pz.le Vittoria, Centro, Cimitero, Fiera] / Linea 96 96A: [S.Martino, Mazzatinti, Venturini, Scientifico, Pz.le Vittoria, Piazza]",,,,bus_stop,,,,,,44.1947048,,,,,,,,,
+,,,1126752377,,,,,12.0438201,,"Linea 1: [S.Martino, Stadio, Pz.le Vittoria, Centro, Cimitero, Fiera] / Linea 96 96A: [S.Martino, Mazzatinti, Venturini, Scientifico, Pz.le Vittoria, Piazza]",,,,bus_stop,,,,,,44.1988918,,,,,,,,,
+,,,1126752381,,,,,12.034613,,,,,,bus_stop,,,,,,44.1937117,,,,,,,,,
+,,,1126752426,,,,,12.0342773,,"Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.1985282,,,,,,,,,
+,,,1127950301,ATC,,ATC,,11.3697373,,,,,,bus_stop,,,Parisio,,yes,44.4721534,,,,,,yes,,,stop_position
+,,,1133044282,ATC,,ATC,,11.3418886,,,,,,bus_stop,,,San Michele in Bosco,,yes,44.4823482,,,,,,,,,stop_position
+,,,1133044298,ATC,,ATC,,11.3443838,,,,,,bus_stop,,,Piazzale Bacchelli,,yes,44.4805528,,,,,,,,,stop_position
+,,,1133044329,ATC,,ATC,,11.3425316,,,,,,bus_stop,,,Istituto Ortopedico Rizzoli,,yes,44.4812407,,,,,,,,,stop_position
+,,2200A;5200R,1133597656,ATC,,,,11.6454828,,,,Via Fascinata 20,,bus_stop,,,Bivio Confina - Santa Maria Codifiume,,,44.6620647,,,601124,Argenta,,,,,
+,,,1133597658,ATC,,,,11.6427215,,,,Via Dell'Artigianato,,bus_stop,,,Deposito Santa Maria Codifiume,,,44.6635513,,,601141,Berra,,,,,
+,,2200R,1133597660,ATC,,,,11.6918161,,,,Via Zenzalino 168,,bus_stop,,,Ponte Fascinata,,,44.6902291,,,601053,Argenta,,,,,
+,,5200R,1133597662,FER,,,,11.6353218,,,,Via Severino Ferrari,,bus_stop,,,San Pietro Capofiume - Chiesa,,,44.6441197,,,675003,Molinella,,,,,
+,,2200A;2200R,1133597665,ATC,,,,11.6725254,,,,Via Provinciale Inferiore,,bus_stop,,,Molinella - Centro Carni,,,44.6325067,,,601137,Argenta,,,,,
+,,2200A;2200R,1133597666,ATC,,,,11.6895138,,,,Via Zenzalino F24,,bus_stop,,,Traghetto,,,44.6378869,,,601038,Argenta,,,,,
+,,,1133597668,ATC,,,,11.618371,,,,Poggiorenatico - Santa Maria Codifiume F33,,bus_stop,,,Gandazzolo,,,44.6868309,,,601043,Argenta,,,,,
+,,2200R;5200A,1133597670,ATC,,,,11.6452261,,,,Via Fascinata 3,,bus_stop,,,Bivio Confina - Santa Maria Codifiume,,,44.6619098,,,601007,Argenta,,,,,
+,,2200A,1133597671,ATC,,,,11.6955193,,,,Via Zenzalino 5,,bus_stop,,,Podere Abbisa,,,44.6512541,,,601044,Argenta,,,,,
+,,5200R,1133597673,FER,,,,11.6902523,,,,Via Fascinata,,bus_stop,,,Ponte Fascinata,,,44.6900267,,,601001,Argenta,,,,,
+,,2200A;2200R,1133597675,ATC,,,,11.673758,,,,Sp7,,bus_stop,,,Molinella Zuccherificio,,,44.6324139,,,601135,Argenta,,,,,
+,,,1133597676,ATC,,,,11.6248957,,,,Poggiorenatico - Santa Maria Codifiume 39,,bus_stop,,,Bivio Strada Della Pozza,,,44.6802353,,,601056,Argenta,,,,,
+,,5200R,1133597677,FER,,,,11.6817831,,,,Via Fascinata,,bus_stop,,,Podere Liguria,,,44.6884077,,,601003,Argenta,,,,,
+,,2200A;2200R,1133597678,ATC,,,,11.6723533,,,,Via Provinciale Inferiore,,bus_stop,,,Molinella - Centro Carni,,,44.6324447,,,601138,Argenta,,,,,
+,,2200A;5200R,1133597679,ATC,,,,11.6471349,,,,Via Fascinata 34,,bus_stop,,,Santa Maria Codifiume - Chiesa,,,44.6644283,,,601018,Argenta,,,,,
+,,5200A,1133597681,FER,,,,11.6267877,,,,Via Malvezza,,bus_stop,,,Giovagnoni,,,44.6295014,,,675004,Molinella,,,,,
+,,,1133597682,ATC,,,,11.6245984,,,,Poggiorenatico - Santa Maria Codifiume 66,,bus_stop,,,Bivio Strada Della Pozza,,,44.6806349,,,601068,Argenta,,,,,
+,,2200A;5200R,1133597685,ATC,,,,11.6423795,,,,Via Fascinata,,bus_stop,,,Ristorante Pezzini,,,44.6566639,,,675024,Molinella,,,,,
+,,2200R,1133597686,ATC,,,,11.7008386,,,,Via Zenzalino 48,,bus_stop,,,Borgo Pulizia,,,44.6583046,,,601047,Argenta,,,,,
+,,,1133597688,ATC,,,,11.6186544,,,,Poggiorenatico - Santa Maria Codifiume 33,,bus_stop,,,Gandazzolo,,,44.6864531,,,601006,Argenta,,,,,
+,,5200R,1133597690,FER,,,,11.6535298,,,,Via Fascinata,,bus_stop,,,Ruggeri,,,44.6718345,,,601005,Argenta,,,,,
+,,2200A,1133597692,ATC,,,,11.6577872,,,,Via Canale Della Botte,,bus_stop,,,Ponte Tassini,,,44.6467043,,,601139,Argenta,,,,,
+,,5200A,1133597693,FER,,,,11.6901679,,,,Via Fascinata,,bus_stop,,,Ponte Fascinata,,,44.6902016,,,601000,Argenta,,,,,
+,,2200R,1133597694,ATC,,,,11.6579753,,,,Via Canale Della Botte,,bus_stop,,,Ponte Tassini,,,44.6465953,,,601140,Berra,,,,,
+,,2200A;2200R,1133597695,ATC,,,,11.6506815,,,,Via Fascinata F110,,bus_stop,,,Santa Maria Codifiume Capolinea,,,44.6695705,,,601035,Argenta,,,,,
+,,2200A;2200R,1133597697,ATC,,,,11.67003,,,,Corso Giuseppe Mazzini,,bus_stop,,,Molinella Stazione,,,44.6273267,,,675027,Molinella,,,,,
+,,,1133597698,ATC,,,,11.6356448,,,,Via Imperiale,,bus_stop,,,Podera Treacchine,,,44.6696801,,,601102,Argenta,,,,,
+,,2200R;5200A,1133597701,ATC,,,,11.6485763,,,,Via Severino Ferrari,,bus_stop,,,Alberino Piazza,,,44.6520345,,,675030,Pieve di Cento,,,,,
+,,2200A;5200R,1133597703,ATC,,,,11.6489674,,,,Via Severino Ferrari,,bus_stop,,,Alberino Piazza,,,44.6520873,,,675029,Pieve di Cento,,,,,
+,,2200A,1133597705,ATC,,,,11.700349,,,,Zenzalino 48,,bus_stop,,,Borgo Pulizia,,,44.6580376,,,601048,Argenta,,,,,
+,,5200A,1133597707,FER,,,,11.6350409,,,,Via Severino Ferrari,,bus_stop,,,San Pietro Capofiume - Chiesa,,,44.6442166,,,675002,Molinella,,,,,
+,,2200R;5200A,1133597709,ATC,,,,11.6427607,,,,Via Carreggiata,,bus_stop,,,Ristorante Pezzini,,,44.6561291,,,675025,Molinella,,,,,
+,,5200A,1133597710,FER,,,,11.6440134,,,,Via Severino Ferrari,,bus_stop,,,Mezza Strada,,,44.6492777,,,675000,Molinella,,,,,
+,,2200R,1133597711,ATC,,,,11.6655252,,,,Via Canale Della Botte,,bus_stop,,,Ponte Fornace,,,44.6403979,,,601037,Argenta,,,,,
+,,2200A;2200R,1133597713,ATC,,,,11.6690952,,,,Via Provinciale Di Circonvallazione,,bus_stop,,,Molinella Stazione,,,44.6274881,,,675028,Molinella,,,,,
+,,2200A,1133597715,ATC,,,,11.7001952,,,,Via Zenzalino,,bus_stop,,,Ospital Monacale,,,44.6665133,,,601050,Argenta,,,,,
+,,2200R,1133597718,ATC,,,,11.7002412,,,,Via Zenzalino 100,,bus_stop,,,Ospital Monacale,,,44.6668428,,,601049,Argenta,,,,,
+,,5200A,1133597719,FER,,,,11.6534762,,,,Via Fascinata,,bus_stop,,,Ruggeri,,,44.6719279,,,601004,Argenta,,,,,
+,,2200R,1133597720,ATC,,,,11.695781,,,,Via Zenzalino 16,,bus_stop,,,Podere Abbisa,,,44.6514245,,,601042,Argenta,,,,,
+,,2200R;5200A,1133597722,ATC,,,,11.6468666,,,,Via Fascinata 17,,bus_stop,,,Santa Maria Codifiume - Chiesa,,,44.6643541,,,601030,Argenta,,,,,
+,,2200A,1133597724,ATC,,,,11.6973738,,,,Via Zenzalino 279,,bus_stop,,,La Corte,,,44.6715796,,,601052,Argenta,,,,,
+,,,1133597726,ATC,,,,11.627194,,,,Poggiorenatico - Santa Maria Codifiume 43,,bus_stop,,,Via Confina Superiore 60,,,44.6779028,,,601080,Argenta,,,,,
+,,2200R,1133597728,ATC,,,,11.6915646,,,,Via Zenzalino F6,,bus_stop,,,Via Delle Cavalle,,,44.6454741,,,601040,Argenta,,,,,
+,,,1133597729,ATC,,,,11.6354158,,,,Via Imperiale,,bus_stop,,,Podere Treacchine,,,44.6701493,,,601113,Argenta,,,,,
+,,5200R,1133597730,FER,,,,11.626826,,,,Via Malvezza,,bus_stop,,,Giovagnoni,,,44.6295296,,,675005,Molinella,,,,,
+,,,1133597732,ATC,,,,11.6271078,,,,Poggiorenatico - Santa Maria Codifiume 60,,bus_stop,,,Via Confina Superiore 60,,,44.6782531,,,601091,Argenta,,,,,
+,,2200A,1133597733,ATC,,,,11.6656585,,,,Strada Imperiale 65,,bus_stop,,,Ponte Fornace,,,44.6403852,,,601036,Argenta,,,,,
+,,2200A,1133597736,ATC,,,,11.6918973,,,,Via Zenzalino F168,,bus_stop,,,Ponte Fascinata,,,44.6899746,,,601054,Argenta,,,,,
+,,5200R,1133597737,FER,,,,11.6439993,,,,Via Severino Ferrari,,bus_stop,,,Mezza Strada,,,44.6491407,,,675001,Molinella,,,,,
+,,5200A,1133597739,FER,,,,11.6818053,,,,Via Fascinata,,bus_stop,,,Podere Liguria,,,44.6886178,,,601002,Argenta,,,,,
+,,2200R,1133597740,ATC,,,,11.6973467,,,,Via Zenzalino 140,,bus_stop,,,La Corte,,,44.6721519,,,601051,Argenta,,,,,
+,,2200A,1133597741,ATC,,,,11.6891126,,,,Via Zenzalino 24,,bus_stop,,,Traghetto,,,44.6380411,,,601039,Argenta,,,,,
+,,2200A,1133597742,ATC,,,,11.6915484,,,,Via Zenzalino 6,,bus_stop,,,Via Delle Cavalle,,,44.6459938,,,601041,Argenta,,,,,
+,,,1133623906,ATC,,,,11.8395682,,,,,,bus_stop,,,Argenta - Piscina,,,44.6109328,,,,Argenta,,,,,
+,,,1133623921,ATC,,,,11.8235387,,,,,,bus_stop,,,Argenta Ipercoop,,,44.6208895,,,,Argenta,,,,,
+,,,1133623956,ATC,,,,11.8352632,,,,,,bus_stop,,,Argenta - Ospedale,,,44.6126682,,,,Argenta,,,,,
+,,,1133623990,ATC,,,,11.8352741,,,,,,bus_stop,,,Argenta - Ospedale,,,44.6124354,,,,Argenta,,,,,
+,,,1134158646,ATC,,ATC,,11.3696238,,,,,,bus_stop,,,San Ruffillo,,yes,44.4572829,,,,,,yes,,,stop_position
+,,,1134545214,ATC,,ATC,,11.3610546,,,,,,bus_stop,,,Toscana Pavese 1,,yes,44.4497603,,,,,,yes,,,stop_position
+,,,1134545272,ATC,,ATC,,11.3615158,,,,,,bus_stop,,,Toscana Pavese 1,,yes,44.4502756,,,,,,,,,stop_position
+,,,1134545291,ATC,,ATC,,11.3669577,,,,,,bus_stop,,,Ponte Savena,,yes,44.4542877,,,,,,yes,,,stop_position
+,,,1134545304,ATC,,ATC,,11.3647795,,,,,,bus_stop,,,Toscana Pietro Da Anzola,,yes,44.452638,,,,,,yes,,,stop_position
+,,,1134545321,ATC,,ATC,,11.3679993,,,,,,bus_stop,,,Del Pozzo,,yes,44.4550459,,,,,,yes,,,stop_position
+,,3500,1135457443,ATC,,,,11.3067826,,,,,,bus_stop,,,Pieve Di Cento - AE Carraro,,,44.6986482,,,,,,,,,
+,,,1137345243,,,,,11.3997617,,,,,,bus_stop,,,Croara Bivio,,,44.4645089,,,,,,,,,stop_position
+,,,1137779973,,,,,12.0375178,,"Linea 3: [Via Lunga, Ravegnana, Centro, Pz.le Vittoria, Scientifico, Ospedale] / Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino]",,,,bus_stop,,,,,,44.2045087,,,,,,,,,
+,,,1137779989,,,,,12.0337413,,"Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino]",,,,bus_stop,,,,,,44.1986324,,,,,,,,,
+,,,1137779992,,,,,12.0339719,,"Linea 3: [Ospedale, Scientifico, Pz.le Vittoria, Centro, Ravegnana, Via Lunga] / Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.1996747,,,,,,,,,
+,,,1137779994,,,,,12.0361821,,"Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.1966864,,,,,,,,,
+,,,1137780000,,,,,12.0415936,,"Linea 3: [Ospedale, Scientifico, Pz.le Vittoria, Centro, Ravegnana, Via Lunga] / Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera] / Linea 96 96A: [S.Martino, Mazzatinti, Venturini, Scientifico, Pz.le Vittoria, Piazza]",,,,bus_stop,,,,,,44.209488,,,,,,,,,
+,,,1137780002,,,,,12.0419186,,"Linea 1: [Fiera, Cimitero, Centro, Pz.le Vittoria, Stadio, S.Martino] / Linea 96 96A: [Piazza, Pz.le Vittoria, Scientifico, Venturini, Mazzatinti, S.Martino]",,,,bus_stop,,,,,,44.1970221,,,,,,,,,
+,,,1137780004,,,,,12.0338968,,"Linea 3: [Via Lunga, Ravegnana, Centro, Pz.le Vittoria, Scientifico, Ospedale] / Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino]",,,,bus_stop,,,,,,44.1999208,,,,,,,,,
+,,,1137780006,,,,,12.0421135,,"Linea 1: [S.Martino, Stadio, Pz.le Vittoria, Centro, Cimitero, Fiera] / Linea 96 96A: [S.Martino, Mazzatinti, Venturini, Scientifico, Pz.le Vittoria, Piazza]",,,,bus_stop,,,,,,44.1966996,,,,,,,,,
+,,,1137780012,,,,,12.0394383,,"Linea 3: [Via Lunga, Ravegnana, Centro, Pz.le Vittoria, Scientifico, Ospedale] / Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino] / Linea 96 96A: [Piazza, Pz.le Vittoria, Scientifico, Venturini, Mazzatinti, S.Martino]",,,,bus_stop,,,,,,44.2069274,,,,,,,,,
+,,,1137780014,,,,,12.0405273,,"Linea 3: [Via Lunga, Ravegnana, Centro, Pz.le Vittoria, Scientifico, Ospedale] / Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino] / Linea 96 96A: [Piazza, Pz.le Vittoria, Scientifico, Venturini, Mazzatinti, S.Martino]",,,,bus_stop,,,,,,44.2085079,,,,,,,,,
+,,,1137780017,,,,,12.0431558,,"Linea 1: [Fiera, Cimitero, Centro, Pz.le Vittoria, Stadio, S.Martino] / Linea 96 96A: [Piazza, Pz.le Vittoria, Scientifico, Venturini, Mazzatinti, S.Martino]",,,,bus_stop,,,,,,44.1984632,,,,,,,,,
+,,,1137780018,,,,,12.037888,,"Linea 3: [Ospedale, Scientifico, Pz.le Vittoria, Centro, Ravegnana, Via Lunga] / Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.2046548,,,,,,,,,
+,,,1137780021,,,,,12.0320407,,"Linea 3: [Ospedale, Scientifico, Pz.le Vittoria, Centro, Ravegnana, Via Lunga]",,,,bus_stop,,,,,,44.1971094,,,,,,,,,
+,,,1137780022,,,,,12.0394758,,"Linea 3: [Ospedale, Scientifico, Pz.le Vittoria, Centro, Ravegnana, Via Lunga] / Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera] / Linea 96 96A: [S.Martino, Mazzatinti, Venturini, Scientifico, Pz.le Vittoria, Piazza]",,,,bus_stop,,,,,,44.2066621,,,,,,,,,
+,,,1137780027,,,,,12.0357797,,"Linea 3: [Ospedale, Scientifico, Pz.le Vittoria, Centro, Ravegnana, Via Lunga] / Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.2019629,,,,,,,,,
+,,,1139091206,,,,,12.0722544,,,,,,bus_stop,,,,,,44.2090368,,,,,,,,,
+,,,1139476588,,,,,11.3964442,,,,,,bus_stop,,,Menarini,no,,44.5182416,,,,,,,,,
+,,93,1139476627,,,,,11.4010196,,,,,,bus_stop,,,San Sisto,yes,,44.5201528,,,,,,,,,
+,,,1146898822,,,,,12.0357992,,"Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino]",,,,bus_stop,,,,,,44.19657,,,,,,,,,
+,,,1146898823,,,,,12.0350803,,,,,,bus_stop,,,,,,44.1935008,,,,,,,,,
+,,,1146898824,,,,,12.0330097,,,,,,bus_stop,,,,,,44.19142,,,,,,,,,
+,,,1147986227,,,,,12.0415287,,,,,,bus_stop,,,,,,44.2229824,,,,,,,,,
+,,,1155221280,,,,,10.8464627,,,,,,bus_stop,,,,,,44.5862746,,,,,,,,,
+,,,1155221295,,,,,10.8476866,,,,,,bus_stop,,,,,,44.5859038,,,,,,,,,
+,,,1156654517,,,,,10.8947343,,,,,,bus_stop,,,,,,44.6283528,,,,,,,,,
+,,,1166215103,,,,,11.3724064,,,,,,bus_stop,,,Giardino Gino Cervi,no,,44.504939,21B,,,,,,,,
+,,,1166215108,,,,,11.3707437,,,,,,bus_stop,,,Magazzari Capolinea,no,,44.5028565,21,,,,,,,,
+,,,1166215154,,,,,11.3674365,,,,,,bus_stop,,,Campo Savena,,,44.5009981,,,,,,,,,
+,,,1166215169,,,,,11.3723562,,,,,,bus_stop,,,Giardino Gino Cervi,no,,44.5039841,21,,,,,,,,
+,,,1166215189,,,,,11.364674,,,,,,bus_stop,,,Galeotti,yes,,44.5027512,"21, 39",,,,,,,,
+,,,1166497465,,,,,11.8249299,,,,,,bus_stop,,,,,,44.3886349,,,,,,,,,
+,,,1168301829,,,,,12.2790782,,,,,,bus_stop,,,,,,44.4839731,,,,,,,,,
+,,,1183449403,,,,,12.0788951,,"Linea 5: [Fiera, Zona Ind.le, Bertini, Stazione, Liberta, Scientifico, S.Martino]",,,,bus_stop,,,,,,44.2266974,,,,,,,,,
+,,,1183449409,,,,,12.0753923,,"Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.2244947,,,,,,,,,
+,,,1183449411,,,,,12.0796726,,"Linea 5: [S.Martino, Scientifico, Liberta, Bertini, Stazione, Zona Ind.le, Fiera]",,,,bus_stop,,,,,,44.2268132,,,,,,,,,
+,,,1187671027,,,,,12.0542062,,,,,,bus_stop,,,,,,44.2237069,,,,,,,,,
+,,,1187671122,,,,,12.0546499,,,,,,bus_stop,,,,,,44.2235298,,,,,,,,,
+,,,1188021799,,,,,11.5346762,,,,,,bus_stop,,,,,,44.6472884,,,,,,,,,
+,,1600R;1700R,1192552340,ATC,,,,12.212433,,,,Via Delle Industrie,,bus_stop,,,Ravenna - Farmacia,,,44.4249959,,,684026,Ravenna,,,,,
+,,1600A;1700A,1192552342,ATC,,,,12.2173257,,,,Via Giuseppe Di Vittorio,,bus_stop,,,Viale Di Vittorio - Bassette,,,44.448955,,,684021,Ravenna,,,,,
+,,1600A;1700A,1192552351,ATC,,,,12.2531476,,,,Via Romea Nord,,bus_stop,,,Azienda Agricola S. Alberto,,,44.5710986,,,684004,Ravenna,,,,,
+,,1600A;1700A,1192552353,ATC,,,,12.2093483,,,,S. S. Romea,,bus_stop,,,Bassette - Hera,,,44.4477351,,,684019,Ravenna,,,,,
+,,1600R;1700A;1700R,1192552363,ATC,,,,12.1919425,,,,Via Guglielmo Marconi,,bus_stop,,,Ravenna Itis,,,44.4072394,,,684025,Ravenna,,,,,
+,,1600R;1700R,1192552367,ATC,,,,12.2105973,,,,Via Delle Industrie,,bus_stop,,,Ravenna Mausoleo Di Teodorico,,,44.4243037,,,684015,Ravenna,,,,,
+,,1600R;1700R,1192552382,ATC,,,,12.2534945,,,,Via Romea Nord,,bus_stop,,,Azienda Agricola S. Alberto,,,44.5713488,,,684005,Ravenna,,,,,
+,,1600A;1700A,1192552385,ATC,,,,12.2119315,,,,Via Romea Nord,,bus_stop,,,Le Bassette,,,44.4377611,,,684010,Ravenna,,,,,
+,,1600R;1700R,1192552397,ATC,,,,12.2127284,,,,Via Romea Nord,,bus_stop,,,Canale Cerba,,,44.4850624,,,684009,Ravenna,,,,,
+,,1600A;1600R;1700A;1700R,1192552413,ATC,,,,12.2097149,,,,Via Darsena,,bus_stop,,,Ravenna Autostazione - P.Le A. Moro,,,44.4174664,,,684014,Ravenna,,,,,
+,,1600A;1700A,1192552418,ATC,,,,12.2123705,,,,Via Romea Nord,,bus_stop,,,Canale Cerba,,,44.4851334,,,684008,Ravenna,,,,,
+,,1600R;1700R,1192552426,ATC,,,,12.2141056,,,,Via Romea Nord,,bus_stop,,,Istituto Agrario,,,44.4321078,,,684013,Ravenna,,,,,
+,,1600A;1700A;1700R,1192552430,ATC,,,,12.2289849,,,,Via Baiona,,bus_stop,,,Ravenna Anic,,,44.4493526,,,684024,Ravenna,,,,,
+,,1600R;1700R,1192552443,ATC,,,,12.2495489,,,,Via Romea Nord,,bus_stop,,,Bivio Cascina,,,44.5628531,,,684007,Ravenna,,,,,
+,,1600A;1700A,1192552445,ATC,,,,12.2104798,,,,Via Delle Industrie,,bus_stop,,,Ravenna Mausoleo Di Teodorico,,,44.4243969,,,684016,Ravenna,,,,,
+,,1600R;1700R,1192552456,ATC,,,,12.2115651,,,,Via Romea Nord,,bus_stop,,,Le Bassette,,,44.4403331,,,684011,Ravenna,,,,,
+,,1700R,1192552458,ATC,,,,12.2118489,,,,Via Giuseppe Di Vittorio,,bus_stop,,,Bassette - Ravenna,,,44.4488525,,,684020,Ravenna,,,,,
+,,1600A;1700A,1192552468,ATC,,,,12.2493591,,,,Via Romea Nord,,bus_stop,,,Bivio Cascina,,,44.562893,,,684006,Ravenna,,,,,
+,,1600A;1700A,1192552484,ATC,,,,12.2121919,,,,Via Delle Industrie 60,,bus_stop,,,Ravenna - Farmacia,,,44.4250916,,,684023,Ravenna,,,,,
+,,1700R,1192552487,ATC,,,,12.2170831,,,,Via Giuseppe Di Vittorio 14,,bus_stop,,,Viale Di Vittorio - Bassette,,,44.4491723,,,684022,Ravenna,,,,,
+,,1600A;1700A,1192552493,ATC,,,,12.2138961,,,,Via Romea Nord,,bus_stop,,,Istituto Agrario,,,44.4320866,,,684012,Ravenna,,,,,
+,,2200A,1195293026,ATC,,,,11.7504894,,,,Ferrara - Consandolo 89,,bus_stop,,,Fondo Cascinetto,,,44.6780031,,,601073,Argenta,,,,,
+,,2500R,1195293037,ATC,,,,11.7998426,,,,Strada Esterna Sandolo-Gambulaga,,bus_stop,,,Gambulaga Cimitero,,,44.7375526,,,619009,Portomaggiore,,,,,
+,,NewHoR,1195293052,ATC,,,,11.7912887,,,,Strada Esterna Provinciale Per Consandolo,,bus_stop,,,Ripapersico,,,44.6878816,,,619004,Portomaggiore,,,,,
+,,1900fR;2100A;2100R;5200R;NewHoR,1195293059,ATC,,AMIFE,,11.8891449,,,,Via Codigoro 16,,bus_stop,,,Dogato,,,44.7505328,,,617036,Ostellato,,,,,
+,,2100R;2200R;2500A;2500R,1195293081,ATC,,,,11.8110692,,,,Via Xxv Aprile 6,,bus_stop,,,Portomaggiore - Xxv Aprile,,,44.6959522,,,619026,Portomaggiore,,,,,
+,,340,1195293090,FER,,AMIFE,,11.8037371,,,,Via Sant'Anna,,bus_stop,,,Borgo Sant'Anna,,,44.7808335,,,612008,Masi Torello,,,,,
+,,2200R;2500R,1195293097,ATC,,,,11.8341929,,,,Portomaggiore - Argenta 39,,bus_stop,,,Portoverrara,,,44.6926392,,,619024,Portomaggiore,,,,,
+,,2100R;5200R;NewHoR,1195293107,ATC,,,,11.8760377,,,,Via Codigoro 2,,bus_stop,,,Bivio San Vito - San Vitale,,,44.7506675,,,617034,Ostellato,,,,,
+,,2100R;2500A;NewHoR,1195293122,ATC,,,,11.8173115,,,,Strada Esterna Provinciale Per San Vito,,bus_stop,,,Fasola,,,44.7140632,,,619030,Portomaggiore,,,,,
+,,2100R;2200R;2500A;2500R,1195293137,ATC,,,,11.7999725,,,,Via Battisti Cesare 15,,bus_stop,,,Portomaggiore - Stazione,,,44.6970538,,,619028,Portomaggiore,,,,,
+,,2100A;2500R;NewHoA,1195293158,ATC,,,,11.8100352,,,,Via Edmondo De Amicis,,bus_stop,,,Portomaggiore Ospedale,,,44.7009429,,,619031,Portomaggiore,,,,,
+,,2100A;2100R;2200A;2200R;2500A;2500R;NewHoA;NewHoR,1195293167,ATC,,,,11.803592,,,,Via Valmolino 88,,bus_stop,,,Portomaggiore Scuole,,,44.701612,,,619033,Ro,,,,,
+,,2200R,1195293192,ATC,,,,11.7351755,,,,Ferrara - Consandolo 123,,bus_stop,,,Beicamini,,,44.6937028,,,601070,Argenta,,,,,
+,,2500A;5200A,1195293202,ATC,,,,11.8154995,,,,Strada Sandolo Gambulaga 25,,bus_stop,,,Sandolo,,,44.7246001,,,619002,Portomaggiore,,,,,
+,,NewHoA,1195293215,ATC,,,,11.7908206,,,,Strada Esterna Provinciale Per Consandolo,,bus_stop,,,Ripapersico,,,44.6879467,,,619003,Portomaggiore,,,,,
+,,330,1195293223,FER,,AMIFE,,11.9117591,,,,Via Lidi Ferraresi,,bus_stop,,,Bivio Migliarino,,,44.7486851,,,615000,Migliarino,,,,,
+,,2500A,1195293245,ATC,,,,11.8092716,,,,Strada Sandolo Gambulaga 58,,bus_stop,,,Bivio Verginese,,,44.7319987,,,619006,Portomaggiore,,,,,
+,,2500R,1195293266,ATC,,,,11.8094101,,,,Strada Sandolo Gambulaga 57,,bus_stop,,,Bivio Verginese,,,44.7317624,,,619007,Portomaggiore,,,,,
+,,2500A,1195293283,ATC,,,,11.7994873,,,,Strada Esterna Sandolo-Gambulaga,,bus_stop,,,Gambulaga Cimitero,,,44.737852,,,619008,Portomaggiore,,,,,
+,,2200A,1195293290,ATC,,,,11.7351513,,,,Ferrara - Consandolo F123,,bus_stop,,,Beicamini,,,44.6933225,,,601069,Argenta,,,,,
+,,2100A;5200A;NewHoA,1195293300,ATC,,,,11.8756877,,,,Via Codigoro 3,,bus_stop,,,Bivio San Vito - San Vitale,,,44.7506291,,,617033,Ostellato,,,,,
+,,2500R;5200R,1195293306,ATC,,,,11.7875438,,,,Via Runco Gambulaga 63,,bus_stop,,,Gambulaga,,,44.7439353,,,619011,Portomaggiore,,,,,
+,,2200A;2500A,1195293315,ATC,,,,11.8339298,,,,Portomaggiore - Argenta F34,,bus_stop,,,Portoverrara,,,44.6930258,,,619023,Portomaggiore,,,,,
+,,2100A;2100R;2500A;2500R,1195293324,ATC,,,,11.8287134,,,,Via Maiero Prondolo 2,,bus_stop,,,Maiero,,,44.7241381,,,619025,Portomaggiore,,,,,
+,,2200R,1195293344,ATC,,,,11.7503874,,,,Ferrara - Consandolo F89,,bus_stop,,,Fondo Cascinetto,,,44.6780961,,,601074,Argenta,,,,,
+,,2100R;2200R;2500A;2500R,1195293355,ATC,,,,11.8034261,,,,Via Battisti Cesare 3,,bus_stop,,,Portomaggiore - Enel,,,44.6959112,,,619027,Portomaggiore,,,,,
+,,330,1195293377,FER,,,,11.9116496,,,,Via Lidi Ferraresi,,bus_stop,,,Bivio Migliarino,,,44.7487889,,,615001,Migliarino,,,,,
+,,5200A;NewHoA,1195293397,FER,,,,11.8585641,,,,Sp68,,bus_stop,,,Colombara,,,44.7456682,,,617000,Ostellato,,,,,
+,,5100A;5100R,1195293409,FER,,AMIFE,,11.7953713,,,,Piazza Giacomo Matteotti,,bus_stop,,,Masi San Giacomo Capolinea,,,44.7744423,,,612009,Masi Torello,,,,,
+,,1900fR;2100A;2100R;5200A;NewHoA,1195293438,ATC,,,,11.8885947,,,,Via Codigoro 120,,bus_stop,,,Dogato,,,44.7506031,,,617035,Ostellato,,,,,
+,,,1195293439,ATC,,,,11.8124316,,,,Via Venezuela,,bus_stop,,,Deposito Portomaggiore,,,44.7031036,,,619000,Portomaggiore,,,,,
+,,2100A;2500A;2500R;5200A;NewHoA,1195293466,ATC,,,,11.8277083,,,,Di Codigoro 35,,bus_stop,,,Maiero Lidi,,,44.7238715,,,619001,Portomaggiore,,,,,
+,,340,1195293478,FER,,AMIFE,,11.8039433,,,,Via Sant'Anna,,bus_stop,,,Borgo Sant'Anna,,,44.7808146,,,612012,Massa Fiscaglia,,,,,
+,,2100R;2500A;NewHoR,1195293482,ATC,,,,11.8099678,,,,Via Edmondo De Amicis,,bus_stop,,,Portomaggiore Ospedale,,,44.7006389,,,619032,Ro,,,,,
+,,2100A;2500R;NewHoA,1195293489,ATC,,,,11.8171041,,,,Strada Esterna Provinciale Per San Vito,,bus_stop,,,Fasola,,,44.7137428,,,619029,Portomaggiore,,,,,
+,,5200R;NewHoR,1195293496,FER,,,,11.8581523,,,,Sp68,,bus_stop,,,Colombara,,,44.7453401,,,617001,Ostellato,,,,,
+,,2500R;5200R,1195293504,ATC,,,,11.8153089,,,,Strada Sandolo Gambulaga 26,,bus_stop,,,Sandolo,,,44.7247611,,,619005,Portomaggiore,,,,,
+,,2500A;5200A,1195293517,ATC,,,,11.787706,,,,Via Runco Gambulaga 62,,bus_stop,,,Gambulaga,,,44.7439704,,,619010,Portomaggiore,,,,,
+,,2200A,1195293523,ATC,,,,11.7370834,,,,Ferrara - Consandolo 178,,bus_stop,,,Benvignante,,,44.6823912,,,601071,Argenta,,,,,
+,,2100R;2500A;2500R;5200R;NewHoR,1195293531,ATC,,,,11.8278415,,,,Di Codigoro 33,,bus_stop,,,Maiero Lidi,,,44.7239216,,,619014,Portomaggiore,,,,,
+,,32,1195852382,,,,,11.3293846,,,,,,bus_stop,,,Liceo Righi,yes,,44.4921755,,,,,,,,,
+,,,1196822469,,,,,11.3268935,,,,,,bus_stop,,,Porta San Felice,no,,44.4986657,,,,,,,,,
+,,,1196822534,,,,,11.3284684,,,,,,bus_stop,,,Porta Sant'Isaia,yes,,44.4935166,33,,,,,,,,
+,,,1196822555,,,,,11.3275911,,,,,,bus_stop,,,Vicini,yes,,44.496466,,,,,,,,,
+,,,1201449201,,,,,11.6038351,,,,,,bus_stop,,,Via Eridania,,,44.9099675,,,,Occhiobello,,,,,
+,,,1201449206,,,,,11.6070607,,,,,,bus_stop,,,Via Costituzione,,,44.9039002,,,,Occhiobello,,,,,
+,,,1201449210,,,,,11.6196918,,,,,,bus_stop,,,Via Pepoli,,,44.8943896,,,,Occhiobello,,,,,
+,,,1201449243,,,,,11.6194472,,,,,,bus_stop,,,Via Pepoli,,,44.894232,,,,Occhiobello,,,,,
+,,,1201449246,,,,,11.6084689,,,,,,bus_stop,,,Corso Berlinguer,,,44.9008209,,,,Occhiobello,,,,,
+,,,1201449248,,,,,11.5938856,,,,,,bus_stop,,,Piscina Comunale,,,44.915728,,,,Occhiobello,,,,,
+,,,1201449250,,,,,11.6037212,,,,,,bus_stop,,,Via Eridania,,,44.9098012,,,,Occhiobello,,,,,
+,,,1201449264,,,,,11.6068914,,,,,,bus_stop,,,Via Costituzione,,,44.9039014,,,,Occhiobello,,,,,
+,,,1201449271,,,,,11.5853878,,,,,,bus_stop,,,Via Savonarola,,,44.9220022,,,646003,Occhiobello,,,,,
+,,,1201449275,,,,,11.5797138,,,,,,bus_stop,,,Occhiobello - Centro,,,44.9198767,,,,Occhiobello,,,,,
+,,,1201449285,,,,,11.5788653,,,,,,bus_stop,,,Via Roma - Secondo Tronco,,,44.9227592,,,,,,,,,
+,,,1201449302,,,,,11.5787966,,,,,,bus_stop,,,Via Roma - Secondo Tronco,,,44.9226508,,,,,,,,,
+,,,1201449307,,,,,11.5855942,,,,,,bus_stop,,,Via Savonarola,,,44.921972,,,646003,Occhiobello,,,,,
+,,,1201449308,,,,,11.6104323,,,,,,bus_stop,,,S. M. Maddalena - Chiesa,,,44.8922604,,,,Occhiobello,,,,,
+,,,1201449311,,,,,11.5781711,,,,,,bus_stop,,,Via Roma - Via Eridania,,,44.9249054,,,,,,,,,
+,,,1201449335,,,,,11.6085159,,,,,,bus_stop,,,Corso Berlinguer,,,44.9006535,,,,Occhiobello,,,,,
+,,,1201449343,,,,,11.5781077,,,,,,bus_stop,,,Via Roma - Via Eridania,,,44.9247517,,,,,,,,,
+,,,1204115393,,,,,11.3295707,,,,,,bus_stop,,,Porta Sant'Isaia,no,,44.4945117,,,,,,,,,
+,,,1204115396,,,,,11.3299185,,,,,,bus_stop,,,Porta Sant'Isaia,no,,44.4943457,,,,,,,,,
+,,,1214754598,,,,,11.6118132,,,,,,bus_stop,,,Corso Berlinguer,,,44.899366,,,,Occhiobello,,,,,
+,,,1217512340,,,,,11.5343348,,,,,,bus_stop,,,,,,44.6471745,,,,,,,,,
+,,,1237306746,,,,,11.2902805,no,,,,,bus_stop,,,Croce di Casalecchio,,,44.4850589,,,,,,,,,
+,,,1237306747,,,,,11.2893497,,,,,,bus_stop,,,Croce di Casalecchio,yes,,44.4848751,,,,,,,,,
+,,,1242905065,,,,,11.3553608,,,,,,bus_stop,,,Porta San Vitale,,yes,44.4940455,,,,,,,,,stop_position
+,,2200A;2200R,1270253806,ATC,,,,11.669482,,,,,,bus_stop,,,Molinella,,,44.6193916,,,675026,Molinella,,,,,
+,,2200A;2200R,1270253807,ATC,,,,11.6745983,,,,Sp7,,bus_stop,,,Molinella Zuccherificio,,,44.6326148,,,,Argenta,,,,,
+,,,1272979176,,,,,11.2714579,,,,,,bus_stop,,,Calderara MUNICIPIO,,,44.5660798,,,,,,,,,
+,,,1272979454,,,,,11.2721875,,,,,,bus_stop,,,Calderara ROMA,,,44.5652313,,,,,,,,,
+,,,1280191898,ATC,,ATC,,11.3707722,,,,,,bus_stop,,,Croce di Camaldoli,,yes,44.4663777,,,,,,yes,,,stop_position
+,,,1280191908,ATC,,ATC,,11.3707694,,,,,,bus_stop,,,Croce di Camaldoli,,yes,44.4664746,,,,,,yes,,,stop_position
+,,,1280810585,ATC,,ATC,,11.3669315,,,,,,bus_stop,,,Varthema,,yes,44.4762603,,,,,,yes,,,stop_position
+,,,1280810591,ATC,,ATC,,11.3710039,,,,,,bus_stop,,,Villa Mazzacorati,,yes,44.4689522,,,,,,yes,,,stop_position
+,,,1280810593,ATC,,ATC,,11.3663578,,,,,,bus_stop,,,Varthema,,yes,44.4772114,,,,,,yes,,,stop_position
+,,,1280810594,ATC,,ATC,,11.3702302,,,,,,bus_stop,,,Angelo Custode,,yes,44.459837,,,,,,yes,,,stop_position
+,,,1280810597,ATC,,ATC,,11.3703727,,,,,,bus_stop,,,Angelo Custode,,yes,44.4605453,,,,,,yes,,,stop_position
+,,,1280810598,ATC,,ATC,,11.3685878,,,,,,bus_stop,,,Chiesa Nuova,,yes,44.4736706,,,,,,yes,,,stop_position
+,,,1280810599,ATC,,ATC,,11.3667385,,,,,,bus_stop,,,Ponte Savena,,yes,44.4541264,,,,,,yes,,,stop_position
+,,,1280810600,ATC,,ATC,,11.3708691,,,,,,bus_stop,,,Direttissima,,yes,44.4637729,,,,,,yes,,,stop_position
+,,,1282221414,ATC,,ATC,,11.3644178,,,,,,bus_stop,,,Toscana Pietro Da Anzola,,yes,44.4524224,,,,,,yes,,,stop_position
+,,,1282529687,ATC,,ATC,,11.3641657,,,,,,bus_stop,,,Ragno,,yes,44.479754,,,,,,yes,,,stop_position
+,,,1282529690,ATC,,ATC,,11.3656624,,,,,,bus_stop,,,Ragno,,yes,44.4780013,,,,,,yes,,,stop_position
+,,,1282534237,,,,,11.3612801,,,,,,bus_stop,,,Sterlino,,yes,44.4814203,,,,,,yes,,,stop_position
+,,,1282534238,ATC,,ATC,,11.3636554,,,,,,bus_stop,,,Sterlino,,yes,44.4801405,,,,,,yes,,,stop_position
+,,,1282547271,,,,,11.3597158,,,,,,bus_stop,,,Murri,,yes,44.4823498,,,,,,yes,,,stop_position
+,,,1282569525,,,,,11.3575312,,,,,,bus_stop,,,Porta Santo Stefano,,yes,44.4838505,,,,,,yes,,,stop_position
+,,,1286702769,,,,,12.0693252,,,,,,bus_stop,,,,,,44.1768456,,,,,,,,,
+,,,1286945077,,,,,12.0637333,,,,,,bus_stop,,,,,,44.1857144,,,,,,,,,
+,,,1291382048,,,,,11.3566494,,,,,,bus_stop,,,Monte Donato,no,,44.4617979,51,,,,,,,,
+,,,1292095689,,,,,12.0721977,,,,,,bus_stop,,,,,,44.1537759,,,,,,,,,
+,,,1297685125,,,,,10.9056244,,,,,,bus_stop,,,Direzionale,,,44.637783,,,,,,,,,
+,,,1299949002,,,,,11.3358224,,,,,,bus_stop,,,Piazza San Francesco,yes,,44.4952575,,,,,,,,,
+,,,1315384524,,,,,11.3159586,,,,,,bus_stop,,,Ospedale Maggiore,,,44.5041251,,,,,,,yes,,
+,,,1315384528,,,,,11.3147757,,,,,,bus_stop,,,Ospedale Maggiore Maternità,,,44.5068242,,,,,,,,,
+,,,1315384532,,,,,11.3154382,,,,,,bus_stop,,,Ospedale Maggiore Maternità,,,44.5065794,,,,,,,,,
+,,,1324396808,,,,,11.4365451,,,,,,bus_stop,,,Idice,yes,,44.4600621,,,,,,,,,
+,,,1324396832,,,,,11.3811039,,,,,,bus_stop,,,Sottovia Massarenti,no,,44.4935528,,,,,,,,,
+,,,1324396840,,,,,11.4365698,,,,,,bus_stop,,,Idice,yes,,44.4597938,,,,,,,,,
+,,,1336557105,,,,,11.3061646,,,,,,bus_stop,,,Lino,yes,,44.4931501,,,,,,,,,
+,,,1336557115,,,,,11.3060986,,,,,,bus_stop,,,Lino,yes,,44.4933322,,,,,,,,,
+,,,1353955363,,,,,11.3699567,,,,,,bus_stop,,,Largo Lercaro,no,,44.4796098,,,,,,,,,
+,,,1353955370,,,,,11.3700862,,,,,,bus_stop,,,Largo Lercaro,yes,,44.4800561,,,,,,,,,
+,,,1356232553,,,,,11.2479583,,,,,,bus_stop,,,,,,44.3969794,,,,,,,,,
+,,,1356232597,,,,,11.246725,,,,,,bus_stop,,,,,,44.3935603,,,,,,,,,
+,,3500A;3500R;4000A;6200R,1359178080,ATC,,,,11.2929625,,,,,,bus_stop,,,Cento Cimitero,,,44.7301534,,,604098,Cento,,,,,
+,,3500A;3500R;4000A;6200R,1359178091,ATC,,,,11.2927119,,,,,,bus_stop,,,Cento Cimitero,,,44.7301797,,,604099,Cento,,,,,
+,,1600A;1700A;1700R;1800R;1900R,1365279137,ATC,,,,12.2347648,,,,Viale Degli Scacchi 47,,bus_stop,,,Lido Scacchi - Via Cima Vignola,,,44.7080171,,,606114,Comacchio,,,,,
+,,1600A;1700A;1700R;1800R;1900R,1366380487,ATC,,,,12.2364925,,,,Via Monte San Michele F15,,bus_stop,,,Lido Scacchi - Via Monte San Michele,,,44.7113127,,,,Comacchio,,,,,
+,,,1368144775,,,,,11.3038318,,,,,,bus_stop,,,Certosa,yes,,44.4928378,,,,,,,,,
+,,,1368144779,,,,,11.3033749,,,,,,bus_stop,,,Certosa,yes,,44.4929722,,,,,,,,,
+,,,1368144782,,,,,11.3090712,,,,,,bus_stop,,,Stadio,yes,,44.4937539,,,,,,,yes,,
+,,,1368144784,,,,,11.310667,,,,,,bus_stop,,,Stadio,yes,,44.4937791,,,,,,,,,
+,,,1387629301,,,,,11.6240731,,,,,,bus_stop,,,Fabbri Betlem,,,44.8199104,,,,,,,,,
+,,,1389222262,SETA,,local,,10.8979748,,,,,,bus_stop,,,,,yes,44.5306667,,,,,,,,,stop_position
+,,,1420933887,,,,,10.8980817,,,,,,bus_stop,,,Copit,,,44.0659815,,,,,,,,,
+,,,1420933889,,,,,10.895283,,,,,,bus_stop,,,Copit,,,44.068112,,,,,,,,,
+,,,1420933891,,,,,10.8936562,,,,,,bus_stop,,,Copit,,,44.0694243,,,,,,,,,
+,,,1427007717,AMI,,AMIFE,,11.6197304,,,,,,bus_stop,,,Viale XXV Aprile - Sussidiaria,,,44.8475523,,,600171,,,,,,
+,,,1446993310,,,AMIFE,,11.6961168,,,,,,bus_stop,,,Ospedale Ambulatori,,,44.7981108,,,600921,,,,,,
+,,,1446993323,,,AMIFE,,11.694073,,,,,,bus_stop,,,Ospedale Degenze,,,44.7998577,,,600929,,,,,,
+,,,1450809796,,,,,11.3556097,,,,,,bus_stop,,,Porta Santo Stefano,,yes,44.4845578,,,,,,,,,stop_position
+,,,1450809800,,,,,11.3300605,,,,,,bus_stop,,,Porta Saragozza,,yes,44.4899064,,,,,,,,,stop_position
+,,,1450809832,,,,,11.3301973,,,,,,bus_stop,,,Porta Saragozza,,yes,44.4900595,,,,,,,,,stop_position
+,,,1450809835,,,,,11.343361,,,,,,bus_stop,,,Stazione Centrale J,,yes,44.5050631,,,,,,,,,stop_position
+,,,1450809838,,,,,11.3431723,,,,,,bus_stop,,,Stazione Centrale K,,yes,44.505186,,,,,,,,,stop_position
+,,,1452419076,,,,,11.3292695,,,,,,bus_stop,,,Liceo Righi,,yes,44.4914004,,,,,,,,,stop_position
+,,,1453914672,ATC,,ATC,,11.370483,,,,,,bus_stop,,,Agnesi,,yes,44.4876577,,,,,,,yes,,stop_position
+,,,1453914684,ATC,,ATC,,11.3665937,,,,,,bus_stop,,,Beroaldo,,yes,44.5023811,,,,,,,,,stop_position
+,,,1453914688,ATC,,ATC,,11.3708278,,,,,,bus_stop,,,Calindri,,yes,44.5007444,,,,,,,,,stop_position
+,,,1453914689,ATC,,ATC,,11.368261,,,,,,bus_stop,,,Dagnini,,yes,44.4775953,,,,,,,,,stop_position
+,,,1453914692,ATC,,ATC,,11.3689185,,,,,,bus_stop,,,Duse,,yes,44.5014411,,,,,,,,,stop_position
+,,,1453914693,Tper,,Tper,,11.3630715,,,,,,bus_stop,,,Fiera District,,yes,44.5090833,,,,,,,yes,,stop_position
+,,,1453914695,ATC,,ATC,,11.3696845,,,,,,bus_stop,,,Largo Lercaro,,yes,44.479427,,,,,,,,,stop_position
+,,,1453914697,ATC,,ATC,,11.3688947,,,,,,bus_stop,,,Laura Bassi,,yes,44.4852758,,,,,,,,,stop_position
+,,,1453914699,ATC,,ATC,,11.3717382,,,,,,bus_stop,,,Mengoli,,yes,44.4895193,,,,,,,yes,,stop_position
+,,,1453914702,ATC,,ATC,,11.3632683,,,,,,bus_stop,,,Novelli,,yes,44.5056259,,,,,,,,,stop_position
+,,,1453914704,ATC,,ATC,,11.3728547,,,,,,bus_stop,,,Rimesse,,yes,44.494169,,,,,,,,,stop_position
+,,,1453914705,ATC,,ATC,,11.3726482,,,,,,bus_stop,,,Vermiglia,,yes,44.4916719,,,,,,,,,stop_position
+,,,1453914708,ATC,,ATC,,11.3645395,,,,,,bus_stop,,,Zacconi,,yes,44.5043258,,,,,,,,,stop_position
+,,,1455212843,ATC,,ATC,,11.340407,,,,,,bus_stop,,,Fioravanti Piazza Liber Paradisus,,yes,44.5086248,,,30,,,,,,stop_position
+,,,1455212850,ATC,,ATC,,11.3428103,,,,,,bus_stop,,,Tiarini,,yes,44.5086422,,,,,,,,,stop_position
+,,,1455326826,ATC,,ATC,,11.343144,,,,,,bus_stop,,,Carracci Nicolò dall'Arca,,yes,44.5073657,,,,,,,,,stop_position
+,,,1455326834,ATC,,ATC,,11.3362585,,,,,,bus_stop,,,Piazza Malpighi,,yes,44.4939568,,,,,,,yes,,stop_position
+,,,1455326838,ATC,,ATC,,11.3363657,,,,,,bus_stop,,,Piazza Malpighi,,yes,44.4941691,,,,,,,,,stop_position
+,,,1455326849,ATC,,ATC,,11.3439042,,,,,,bus_stop,,,Piazzale Bacchelli,,yes,44.4806268,,,,,,,,,stop_position
+,,,1467420947,,,,,11.2713326,,,,,,bus_stop,,,San Biagio,,,44.455237,,,,,,,,,
+,,,1467421131,,,,,11.2704421,,,,,,bus_stop,,,San Biagio,,,44.4552064,,,,,,,,,
+,,,1467421668,,,,,11.2744762,,,,,,bus_stop,,,,,,44.4552447,,,,,,,,,
+,,,1467421676,,,,,11.2748195,,,,,,bus_stop,,,,,,44.4571515,,,,,,,,,
+,,,1467422984,,,,,11.2794973,,,,,,bus_stop,,,,,,44.4611258,,,,,,,,,
+,,,1468377934,,,,,11.2750508,,,,,,bus_stop,,,,,,44.4573521,,,,,,,,,
+,,,1468378297,,,,,11.2742997,,,,,,bus_stop,,,,,,44.4561268,,,,,,,,,
+,,,1468378596,,,,,11.2700189,,,,,,bus_stop,,,,,,44.4552844,,,,,,,,,
+,,,1468378830,,,,,11.2706557,,,,,,bus_stop,,,,,,44.4607251,,,,,,,,,
+,,,1468379077,,,,,11.279235,,,,,,bus_stop,,,,,,44.4610125,,,,,,,,,
+,,,1468379352,,,,,11.2780763,,,,,,bus_stop,,,,,,44.4653541,,,,,,,,,
+,,,1468379354,,,,,11.2778402,,,,,,bus_stop,,,,,,44.4650555,,,,,,,,,
+,,,1468381386,,,,,11.2762309,,,,,,bus_stop,,,,,,44.4781703,,,,,,,,,
+,,,1468381389,,,,,11.2775506,,,,,,bus_stop,,,,,,44.4702849,,,,,,,,,
+,,,1468381391,,,,,11.2814666,,,,,,bus_stop,,,,,,44.4769225,,,,,,,,,
+,,,1468381395,,,,,11.2762524,,,,,,bus_stop,,,,,,44.4746335,,,,,,,,,
+,,,1468381396,,,,,11.2775398,,,,,,bus_stop,,,,,,44.4771062,,,,,,,,,
+,,,1468381397,,,,,11.2774111,,,,,,bus_stop,,,,,,44.4690523,,,,,,,,,
+,,,1468381398,,,,,11.2764133,,,,,,bus_stop,,,,,,44.474733,,,,,,,,,
+,,,1468381401,,,,,11.2767402,,,,,,bus_stop,,,,,,44.4783539,,,,,,,,,
+,,,1510325351,,,,,11.3972744,,,,,,bus_stop,,,Antonini,yes,,44.4943622,,,,,,,,,
+,,,1510325361,,,,,11.3971511,,,,,,bus_stop,,,Antonini,yes,,44.4945032,,,,,,,,,
+,,,1510325362,,,,,11.4001515,,,,,,bus_stop,,,Barelli,yes,,44.4947073,,,,,,,,,
+,,,1510325365,,,,,11.3997419,,,,,,bus_stop,,,Barelli,yes,,44.4948199,,,,,,,,,
+,,,1520031872,,,,,11.6868882,,,,,,bus_stop,,,Palazzi,,,44.3426449,,,,,,,,,
+,,,1520031890,,,,,11.6880362,,,,,,bus_stop,,,Respighi,,,44.3490323,,,,,,,,,
+,,,1520031901,,,,,11.6800969,,,,,,bus_stop,,,Pasolini,,,44.3438073,,,,,,,,,
+,,,1520031906,,,,,11.6816418,,,,,,bus_stop,,,Vivaldi,,,44.3453227,,,,,,,,,
+,,,1520031944,,,,,11.6841473,,,,,,bus_stop,,,Curie,,,44.3427789,,,,,,,,,
+,,,1520031966,,,,,11.6866522,,,,,,bus_stop,,,Donizetti,,,44.3447741,,,,,,,,,
+,,,1520031974,,,,,11.6831653,,,,,,bus_stop,,,Centro Sociale Tozzona,,,44.343485,,,,,,,,,
+,,,1520031982,,,,,11.6861748,,,,,,bus_stop,,,Rossini,,,44.3430937,,,,,,,,,
+,,,1520031986,,,,,11.6824787,,,,,,bus_stop,,,Vivaldi,,,44.3463431,,,,,,,,,
+,,,1520032001,,,,,11.6875963,,,,,,bus_stop,,,Rossini-Corelli,,,44.34487,,,,,,,,,
+,,,1520032007,,,,,11.6870062,,,,,,bus_stop,,,Pedagna Ovest,,,44.346604,,,,,,,,,
+,,,1520032012,,,,,11.6844477,,,,,,bus_stop,,,Mascagni,,,44.3489785,,,,,,,,,
+,,,1520032019,,,,,11.6882401,,,,,,bus_stop,,,Respighi,,,44.3497784,,,,,,,,,
+,,,1520032023,,,,,11.6817867,,,,,,bus_stop,,,Punta,,,44.3424799,,,,,,,,,
+,,,1520032040,,,,,11.6837339,,,,,,bus_stop,,,Centro Sociale Tozzona,,,44.343884,,,,,,,,,
+,,,1520035537,,,,,11.6750543,,,,,,bus_stop,,,,,,44.3417509,,,,,,,,,
+,,,1520040112,,,,,11.6910081,,,,,,bus_stop,,,Pedagna Est,,,44.3421423,,,,,,,,,
+,,,1520040114,,,,,11.6940336,,,,,,bus_stop,,,Campo Rugby,,,44.348288,,,,,,,,,
+,,,1520040122,,,,,11.6907077,,,,,,bus_stop,,,Borgo S. Cristina,,,44.343815,,,,,,,,,
+,,,1520054381,,,,,11.6876017,,,,,,bus_stop,,,Montericco,,,44.3534896,,,,,,,,,
+,,,1520054390,,,,,11.6956,,,,,,bus_stop,,,Montanara,,,44.3461321,,,,,,,,,
+,,,1520054394,,,,,11.6957395,,,,,,bus_stop,,,Montanara,,,44.3465771,,,,,,,,,
+,,,1529941961,,,,,11.2511907,,,,,,bus_stop,,,Casalecchio De Curtis,yes,,44.4859571,,,,,,,,,
+,,,1592497278,,,,,12.1211734,yes,,,Via Valle Oppio,,bus_stop,,,Ospedale del Delta,yes,,44.7758397,,,690130,,,,,,
+,,,1600858809,,,,,11.419294,,,,,,bus_stop,,,Cicogna Fantini,,,44.4608276,,,,,,,,,stop_position
+,,,1602325332,,,,,12.0197402,,,,,,bus_stop,,,Molinetto,,,44.579899,,,601237,,,,,,
+,,,1602325342,,,,,12.0192452,,,,,,bus_stop,,,Molinetto,,,44.5802495,,,601238,,,,,,
+,,,1603698813,,,,,12.2457263,,,,,,bus_stop,,,MICHELANGELO 173 [094],,,44.6469494,,,690094.0,,,,,,
+,,,1603698823,,,,,12.2441203,,,,,,bus_stop,,,MICHELANGELO 85 [095],,,44.650021,,,690095.0,,,,,,
+,,,1603698827,,,,,12.2452103,,,,,,bus_stop,,,RAFFAELLO SANZIO 290 [093],,,44.644985,,,690093.0,,,,,,
+,,,1618294779,,,,,11.3556615,,,,,,bus_stop,,,Roncaglio,,yes,44.5365823,,,,,,,,,stop_position
+,,,1623577482,TPER,,,,11.4968732,no,,,Via Matteotti 3,,bus_stop,,,Vigarano Mainarda Centro,no,,44.8428892,,,,,,,,no,
+,,,1624646087,,,,,10.8788042,,,,,,bus_stop,,,,,,44.5366806,,,,,,,,,
+,,,1628367514,tper,,,,11.3435943,,"Per maggiori informazioni, vedi  http://www.tper.it/",,,,bus_stop,,,Stazione Centrale A,yes,yes,44.5053568,,,,,,,,,stop_position
+,,,1628367519,,,,,11.3428572,,,,,,bus_stop,,,Stazione Centrale E,,yes,44.5054588,,,,,,,,,stop_position
+,,,1628367526,,,,,11.3434982,,"Per maggiori informazioni, vedi  http://www.tper.it/",,,,bus_stop,,,Stazione Centrale B,yes,yes,44.5055153,,,,,,,,,stop_position
+,,,1628367530,,,,,11.3430188,,,,,,bus_stop,,,Stazione Centrale D,,yes,44.5055823,,,,,,,,,stop_position
+,,,1628367568,,,,,11.3431192,,,,,,bus_stop,,,Stazione Centrale C,,yes,44.5056505,,,,,,,,,stop_position
+,,,1628526537,,,,,11.3794521,,,,,,bus_stop,,,Rotonda Mezzini,,yes,44.4623304,,,,,,,,,stop_position
+,,,1628526540,,,,,11.3795536,,,,,,bus_stop,,,Rotonda Mezzini,,yes,44.4623337,,,,,,,,,stop_position
+,,,1628526542,,,,,11.3795504,,,,,,bus_stop,,,Rotonda Mezzini,,yes,44.462424,,,,,,,,,stop_position
+,,,1628526549,,,,,11.3796463,,,,,,bus_stop,,,Rotonda Mezzini,,yes,44.4624303,,,,,,,,,stop_position
+,,,1628754917,,,,,11.345047,,,,,,bus_stop,,,Autostazione,,yes,44.503312,,,,,,,,,stop_position
+,,,1628754922,,,,,11.3452848,,,,,,bus_stop,,,Autostazione,,yes,44.5042446,,,,,,,,,stop_position
+,,,1628754926,,,,,11.3453388,,,,,,bus_stop,,,Autostazione,,yes,44.5044328,,,,,,,,,stop_position
+,,,1628754938,,,,,11.3570731,,,,,,bus_stop,,,Bentini,,yes,44.548763,,,,,,,,,stop_position
+,,,1628754946,,,,,11.3571475,,,,,,bus_stop,,,Bentini,,yes,44.5489628,,,,,,,,,stop_position
+,,,1628754951,,,,,11.3498005,,,,,,bus_stop,,,Caserme Rosse,,yes,44.5257779,,,,,,,,,stop_position
+,,,1628754963,,,,,11.349686,,,,,,bus_stop,,,Caserme Rosse,,yes,44.525816,,,,,,,,,stop_position
+,,,1628754970,,,,,11.3559546,,,,,,bus_stop,,,Colombarola,,yes,44.5430434,,,,,,,,,stop_position
+,,,1628754977,,,,,11.3559116,,,,,,bus_stop,,,Colombarola,,yes,44.5435272,,,,,,,,,stop_position
+,,,1628754983,,,,,11.3544237,,,,,,bus_stop,,,Corticella Stazione,,yes,44.5519143,,,,,,,,,stop_position
+,,,1628754987,,,,,11.3563487,,,,,,bus_stop,,,Corticella,,yes,44.5460786,,,,,,,,,stop_position
+,,,1628754997,,,,,11.3522592,,,,,,bus_stop,,,Croce Coperta,,yes,44.5302315,,,,,,,,,stop_position
+,,,1628755003,,,,,11.3523983,,,,,,bus_stop,,,Croce Coperta,,yes,44.5305958,,,,,,,,,stop_position
+,,,1628755014,,,,,11.3472904,,,,,,bus_stop,,,Cà de' Fiori,,yes,44.5136269,,,,,,,,,stop_position
+,,,1628755022,,,,,11.3473719,,,,,,bus_stop,,,Cà de' Fiori,,yes,44.5139404,,,,,,,,,stop_position
+,,,1628755026,,,,,11.3485037,,,,,,bus_stop,,,De Giovanni,,yes,44.5230288,,,,,,,,,stop_position
+,,,1628755032,,,,,11.3489367,,,,,,bus_stop,,,De Giovanni,,yes,44.5239741,,,,,,,,,stop_position
+,,,1628755036,,,,,11.3546423,,,,,,bus_stop,,,Fonti,,yes,44.5482235,,,,,,,,,stop_position
+,,,1628755039,,,,,11.3546688,,,,,,bus_stop,,,Fonti,,yes,44.5483044,,,,,,,,,stop_position
+,,,1628755043,,,,,11.3430924,,,,,,bus_stop,,,Indipendenza,,yes,44.49663,,,,,,,,,stop_position
+,,,1628755048,,,,,11.343266,,,,,,bus_stop,,,Indipendenza,,yes,44.4972356,,,,,,,,,stop_position
+,,,1628755052,,,,,11.3480285,,,,,,bus_stop,,,Ippodromo,,yes,44.5185081,,,,,,,,,stop_position
+,,,1628755056,,,,,11.3480641,,,,,,bus_stop,,,Ippodromo,,yes,44.5187141,,,,,,,,,stop_position
+,,,1628755059,,,,,11.3481919,,,,,,bus_stop,,,Istituto Aldini,,yes,44.5214519,,,,,,,,,stop_position
+,,,1628755064,,,,,11.3481866,,,,,,bus_stop,,,Istituto Aldini,,yes,44.5218489,,,,,,,,,stop_position
+,,,1628755068,,,,,11.3562567,,,,,,bus_stop,,,Lipparini,,yes,44.540575,,,,,,,,,stop_position
+,,,1628755071,,,,,11.3562367,,,,,,bus_stop,,,Lipparini,,yes,44.5407091,,,,,,,,,stop_position
+,,,1628755076,,,,,11.3477109,,,,,,bus_stop,,,Lombardi,,yes,44.5161237,,,,,,,,,stop_position
+,,,1628755078,,,,,11.3477033,,,,,,bus_stop,,,Lombardi,,yes,44.5162881,,,,,,,,,stop_position
+,,,1628755081,,,,,11.3541702,,,,,,bus_stop,,,Marescalchi,,yes,44.5446742,,,,,,,,,stop_position
+,,,1628755088,,,,,11.3539675,,,,,,bus_stop,,,Marescalchi,,yes,44.5447989,,,,,,,,,stop_position
+,,,1628755089,,,,,11.3471728,,,,,,bus_stop,,,Piazza dell'Unità,,yes,44.510621,,,,,,,,,stop_position
+,,,1628755093,,,,,11.3472133,,,,,,bus_stop,,,Piazza dell'Unità,,yes,44.5107544,,,,,,,,,stop_position
+,,,1628755100,,,,,11.3544299,,,,,,bus_stop,,,Pinardi,,yes,44.5340403,,,,,,,,,stop_position
+,,,1628755101,,,,,11.3544543,,,,,,bus_stop,,,Pinardi,,yes,44.534191,,,,,,,,,stop_position
+,,,1628755103,,,,,11.3445953,,,,,,bus_stop,,,Rizzoli,,yes,44.4945363,,,,,,,,,stop_position
+,,,1628755109,,,,,11.3443925,,,,,,bus_stop,,,Rizzoli,,yes,44.4945691,,,,,,,,,stop_position
+,,,1628755110,,,,,11.3437194,,,,,,bus_stop,,,Rizzoli,,yes,44.4946773,,,,,,,,,stop_position
+,,,1628755111,,,,,11.3559968,,,,,,bus_stop,,,Roncaglio,,yes,44.5371443,,,,,,,,,stop_position
+,,,1628755112,Tper,,,,11.3465511,,,,,,bus_stop,,,Sacro Cuore,,yes,44.5085089,,,,,,,,,stop_position
+,,,1628755113,,,,,11.3466083,,,,,,bus_stop,,,Sacro Cuore,,yes,44.5086962,,,,,,,,,stop_position
+,,,1628755116,,,,,11.3608314,,,,,,bus_stop,,,Sant'Anna,,yes,44.5481192,,,,,,,,,stop_position
+,,,1628755119,,,,,11.3603272,,,,,,bus_stop,,,Sant'Anna,,yes,44.5481316,,,,,,,,,stop_position
+,,,1628755125,,,,,11.3539835,,,,,,bus_stop,,,Sole,,yes,44.5463311,,,,,,,,,stop_position
+,,,1628755131,,,,,11.3541262,,,,,,bus_stop,,,Sole,,yes,44.5467431,,,,,,,,,stop_position
+,,,1628755135,,,,,11.3425276,,,,,,bus_stop,,,Stazione Centrale F,,yes,44.5052017,,,,,,,,,stop_position
+,,,1628755138,,,,,11.3431124,,,,,,bus_stop,,,Stazione Centrale G,,yes,44.505106,,,,,,,,,stop_position
+,,,1628755143,,,,,11.3435999,,,,,,bus_stop,,,Stazione Centrale H,,yes,44.505024,,,,,,,yes,,stop_position
+,,,1628755147,,,,,11.3409678,,,,,,bus_stop,,,Stazione Centrale I,,yes,44.5055356,,,,,,,,,stop_position
+,,,1628755151,,,,,11.350333,,,,,,bus_stop,,,Strada Maggiore,,yes,44.4927,,,,,,,,,stop_position
+,,,1628755159,,,,,11.3551614,,,,,,bus_stop,,,Torleone,,yes,44.4908626,,,,,,,,,stop_position
+,,,1628755162,,,,,11.3574927,,,,,,bus_stop,,,Zanichelli,,yes,44.5477251,,,,,,,,,stop_position
+,,,1628755170,,,,,11.357302,,,,,,bus_stop,,,Zanichelli,,yes,44.5477595,,,,,,,,,stop_position
+,,,1628891552,,,,,11.3629578,,,,,,bus_stop,,,Albertoni,,yes,44.4879382,,,,,,,,,stop_position
+,,,1628891561,,,,,11.3615086,,,,,,bus_stop,,,Albertoni,,yes,44.4884857,,,,,,,,,stop_position
+,,,1628891568,,,,,11.3654701,,,,,,bus_stop,,,Alemanni,,yes,44.4869747,,,,,,,limited,,stop_position
+,,,1628891573,,,,,11.3650725,,,,,,bus_stop,,,Alemanni,,yes,44.4871133,,,,,,,,,stop_position
+,,,1628891577,,,,,11.3846446,,,,,,bus_stop,,,Bitone,,yes,44.4783775,,,,,,,,,stop_position
+,,,1628891578,,,,,11.3836876,,,,,,bus_stop,,,Bitone,,yes,44.4796887,,,,,,,,,stop_position
+,,,1628891589,,,,,11.3825621,,,,,,bus_stop,,,Calabria,,yes,44.4744199,,,,,,,,,stop_position
+,,,1628891590,,,,,11.3828475,,,,,,bus_stop,,,Calabria,,yes,44.4745852,,,,,,,,,stop_position
+,,,1628891593,,,,,11.3829026,,,,,,bus_stop,,,Chiesa San Lorenzo,,yes,44.4720528,,,,,,,,,stop_position
+,,,1628891598,,,,,11.3815659,,,,,,bus_stop,,,Chiesa San Lorenzo,,yes,44.4725567,,,,,,,,,stop_position
+,,,1628891603,,,,,11.3731011,,,,,,bus_stop,,,Fermi,,yes,44.4840841,,,,,,,,,stop_position
+,,,1628891607,,,,,11.3712849,,,,,,bus_stop,,,Fermi,,yes,44.4847732,,,,,,,yes,,stop_position
+,,,1628891611,,,,,11.385651,,,,,,bus_stop,,,Firenze,,yes,44.4699758,,,,,,,,,stop_position
+,,,1628891614,,,,,11.3858128,,,,,,bus_stop,,,Firenze,,yes,44.470783,,,,,,,,,stop_position
+,,,1628891615,,,,,11.3699435,,,,,,bus_stop,,,Laura Bassi,,yes,44.4852749,,,,,,,yes,,stop_position
+,,,1628891616,,,,,11.368226,,,,,,bus_stop,,,Laura Bassi,,yes,44.4859231,,,,,,,,,stop_position
+,,,1628891619,,,,,11.3848803,,,,,,bus_stop,,,Lombardia,,yes,44.477301,,,,,,,,,stop_position
+,,,1628891621,,,,,11.3850326,,,,,,bus_stop,,,Longo Cavazzoni,,yes,44.467811,,,,,,,,,stop_position
+,,,1628891622,,,,,11.3851093,,,,,,bus_stop,,,Longo Cavazzoni,,yes,44.4681233,,,,,,,,,stop_position
+,,,1628891623,,,,,11.3838196,,,,,,bus_stop,,,Longo,,yes,44.465725,,,,,,,,,stop_position
+,,,1628891626,,,,,11.3842682,,,,,,bus_stop,,,Longo,,yes,44.4660216,,,,,,,,,stop_position
+,,,1628891628,,,,,11.3855661,,,,,,bus_stop,,,Mazzoni,,yes,44.4714572,,,,,,,,,stop_position
+,,,1628891631,,,,,11.3853612,,,,,,bus_stop,,,Mazzoni,,yes,44.4714868,,,,,,,,,stop_position
+,,,1628891633,,,,,11.3814794,,,,,,bus_stop,,,Milano,,yes,44.4731033,,,,,,,,,stop_position
+,,,1628891634,,,,,11.3816289,,,,,,bus_stop,,,Piazzale Atleti Azzurri d'Italia,,yes,44.4642672,,,,,,,,,stop_position
+,,,1628891637,,,,,11.3819131,,,,,,bus_stop,,,Piazzale Atleti Azzurri d'Italia,,yes,44.4642679,,,,,,,,,stop_position
+,,,1628891639,,,,,11.3777001,,,,,,bus_stop,,,Pontevecchio,,yes,44.4823124,,,,,,,yes,,stop_position
+,,,1628891643,,,,,11.3762744,,,,,,bus_stop,,,Mazzini Stazione,,yes,44.4828556,,,,,,,,,stop_position
+,,,1628891644,,,,,11.358283,,,,,,bus_stop,,,Porta Mazzini,,yes,44.4897575,,,,,,,,,stop_position
+,,,1628891645,,,,,11.3581938,,,,,,bus_stop,,,Porta Mazzini,,yes,44.4898031,,,,,,,,,stop_position
+,,,1628891649,,,,,11.3839743,,,,,,bus_stop,,,Sardegna,,yes,44.4756592,,,,,,,,,stop_position
+,,,1628891650,,,,,11.3836804,,,,,,bus_stop,,,Sardegna,,yes,44.4760201,,,,,,,,,stop_position
+,,,1628891654,,,,,11.3790834,,,,,,bus_stop,,,Vermena,,yes,44.4818287,,,,,,,,,stop_position
+,,,1628891655,,,,,11.3816827,,,,,,bus_stop,,,Villa Paradiso,,yes,44.4809901,,,,,,,,,stop_position
+,,,1628891656,,,,,11.3815854,,,,,,bus_stop,,,Villa Paradiso,,yes,44.4810369,,,,,,,,,stop_position
+,,,1628934583,,,,,11.3509739,,,,,,bus_stop,,,San Vitale,,yes,44.4942546,,,,,,,,,stop_position
+,,,1629369582,,,,,11.387328,,,,,,bus_stop,,,Bellaria,,yes,44.4759761,,,,,,,,,stop_position
+,,,1629369583,,,,,11.3903152,,,,,,bus_stop,,,Centro Civico Mazzini,,yes,44.4743623,,,,,,,,,stop_position
+,,,1629369584,,,,,11.3898882,,,,,,bus_stop,,,Centro Civico Mazzini,,yes,44.474525,,,,,,,,,stop_position
+,,,1629369586,,,,,11.3861966,,,,,,bus_stop,,,Lombardia,,yes,44.4766632,,,,,,,,,stop_position
+,,,1629526746,,,,,11.3596132,,,,,,bus_stop,,,Brini,,yes,44.5356404,,,,,,,,,stop_position
+,,,1629526747,,,,,11.3580641,,,,,,bus_stop,,,Manara,,yes,44.5368945,,,,,,,,,stop_position
+,,,1629526748,,,,,11.3572546,,,,,,bus_stop,,,Solari,,yes,44.5407546,,,,,,,,,stop_position
+,,,1629526752,,,,,11.3584397,,,,,,bus_stop,,,Stendhal,,yes,44.5383776,,,,,,,,,stop_position
+,,,1629526755,,,,,11.3571834,,,,,,bus_stop,,,Tuscolano,,yes,44.5311038,,,,,,,,,stop_position
+,,,1629871836,,,,,11.3124883,,,,,,bus_stop,,,Bertalia,,yes,44.5213474,,,,,,,,,stop_position
+,,,1629871850,,,,,11.3777385,,,,,,bus_stop,,,Ponticella Edera,,yes,44.4581291,,,,,,,,,stop_position
+,,,1629871875,,,,,11.3720514,,,,,,bus_stop,,,Rotonda Corelli,,yes,44.4558851,,,,,,,,,stop_position
+,,,1629871883,,,,,11.3518849,,,,,,bus_stop,,,Rotonda Giardini,,yes,44.5416826,,,,,,,,,stop_position
+,,,1630039516,,,,,11.3173137,,,,,,bus_stop,,,Rotonda Battaglione Pistoia,,yes,44.5136307,,,,,,,,,stop_position
+,,,1630162643,,,,,11.3856608,no,,,,,bus_stop,,,Grattacielo,no,,44.493157,,,,,,,,,
+,,,1630162753,,,,,11.3895282,,,,,,bus_stop,,,Tangenziale San Vitale,yes,,44.4932614,,,,,,,,,
+,,,1632590580,,,,,11.3268153,,,,,,bus_stop,,,Parcheggio Tanari,,yes,44.5069123,,,,,,,,,stop_position
+,,,1638396557,,,,,10.9003456,,,,,,bus_stop,,,Fermata Autobus,,,44.8939976,,,,,,,,,
+,,,1638398822,,,,,10.9031433,,,,,,bus_stop,,,Fermata Scuolabus,,,44.8969645,,,,,,,,,
+,,,1641927114,,,,,11.916356,,,,,,bus_stop,,,Cà Rossa,,,44.9151153,,,607116.0,,,,,,
+,,,1641927120,,,,,11.9162549,,,,,,bus_stop,,,Cà Rossa,,,44.915195,,,607117.0,,,,,,
+,,,1641927145,,,,,11.9203412,,,,,,bus_stop,,,Case Nogarole,,,44.9077515,,,607037,,,,,,
+,,,1641927149,,,,,11.9201821,,,,,,bus_stop,,,Case Nogarole,,,44.9078554,,,607036,,,,,,
+,,,1641927151,,,,,11.9373143,,,,,,bus_stop,,,Corte Paolini,,,44.8990533,,,610016,,,,,,
+,,,1641927152,,,,,11.9372199,,,,,,bus_stop,,,Corte Paolini,,,44.8990631,,,610014,,,,,,
+,,,1641927153,,,,,11.9563321,,,,,,bus_stop,,,Jolanda Via Lughesina,,,44.8883529,,,610012,,,,,,
+,,,1641927156,,,,,11.9562133,,,,,,bus_stop,,,Jolanda Via Lughesina,,,44.8883525,,,610013,,,,,,
+,,,1641927162,,,,,11.9011113,,,,,,bus_stop,,,Palazzina,,,44.8980263,,,607062,,,,,,
+,,,1641927184,,,,,11.9012221,,,,,,bus_stop,,,Palazzina,,,44.8982017,,,607063,,,,,,
+,,,1641927185,,,,,11.9249053,,,,,,bus_stop,,,Ponte Carina Brazzolo,,,44.9010447,,,607035.0,,,,,,
+,,,1641927186,,,,,11.9259141,,,,,,bus_stop,,,Ponte Carina,,,44.9010982,,,607033.0,,,,,,
+,,,1641927188,,,,,11.9251576,,,,,,bus_stop,,,Ponte Carina,,,44.9014934,,,607034.0,,,,,,
+,,,1641927193,,,,,11.90318,,,,,,bus_stop,,,Ponte Crispa,,,44.8892269,,,607064,,,,,,
+,,,1641927199,,,,,11.9030367,,,,,,bus_stop,,,Ponte Crispa,,,44.8895878,,,607066,,,,,,
+,,,1642973414,,,,,11.6414531,,,,,,bus_stop,,,Alfonsoni,,,44.614735,,,675008,,,,,,
+,,,1642973415,,,,,11.6414444,,,,,,bus_stop,,,Alfonsoni,,,44.6148664,,,675009,,,,,,
+,,,1642973418,,,,,11.643908,,,,,,bus_stop,,,Case Cesari,,,44.6034773,,,675010,,,,,,
+,,,1642973427,,,,,11.6441896,,,,,,bus_stop,,,Case Cesari,,,44.6035541,,,675011,,,,,,
+,,,1642973428,,,,,11.6362259,,,,,,bus_stop,,,Malvezza,,,44.6199522,,,675006,,,,,,
+,,,1642973430,,,,,11.6362988,,,,,,bus_stop,,,Malvezza,,,44.6200649,,,675007,,,,,,
+,,,1642973433,,,,,11.6311075,,,,,,bus_stop,,,MIRAVALLE - CENTRO,,,44.5888824,,,675014,,,,,,
+,,,1642973436,,,,,11.6313852,,,,,,bus_stop,,,MIRAVALLE - CENTRO,,,44.5888848,,,675015,,,,,,
+,,,1642973437,,,,,11.5906914,,,,,,bus_stop,,,Motta,,,44.5747385,,,666001.0,,,,,,
+,,,1642973438,,,,,11.59066,,,,,,bus_stop,,,Motta,,,44.5748295,,,666000.0,,,,,,
+,,,1642973439,,,,,11.6402039,,,,,,bus_stop,,,Prazzina,,,44.5924742,,,675013,,,,,,
+,,,1642973440,,,,,11.6401021,,,,,,bus_stop,,,Prazzina,,,44.5925069,,,675012,,,,,,
+,,,1642973446,,,,,11.6080973,,,,,,bus_stop,,,SAN MARTINO IN ARGINE - CASERMA CARABINIERI,,,44.5871483,,,675021,,,,,,
+,,,1642973447,,,,,11.6080449,,,,,,bus_stop,,,SAN MARTINO IN ARGINE - CASERMA CARABINIERI,,,44.5872643,,,675020,,,,,,
+,,,1642973450,,,,,11.6115248,,,,,,bus_stop,,,SAN MARTINO IN ARGINE - CENTRO,,,44.5890079,,,675019,,,,,,
+,,,1642973453,,,,,11.611488,,,,,,bus_stop,,,SAN MARTINO IN ARGINE - CENTRO,,,44.5891203,,,675018,,,,,,
+,,,1642973462,,,,,11.5994814,,,,,,bus_stop,,,SAN MARTINO IN ARGINE - PONTE,,,44.5820415,,,675023.0,,,,,,
+,,,1642973463,,,,,11.5993959,,,,,,bus_stop,,,SAN MARTINO IN ARGINE - PONTE,,,44.582077,,,675022.0,,,,,,
+,,,1642973464,,,,,11.5706999,,,,,,bus_stop,,,VEDRANA - BAR,,,44.5580565,,,666005.0,,,,,,
+,,,1642973468,,,,,11.5706282,,,,,,bus_stop,,,VEDRANA - BAR,,,44.5580725,,,666004.0,,,,,,
+,,,1642973472,,,,,11.5773451,,,,,,bus_stop,,,VEDRANA - MONTECARLO,,,44.5639342,,,666003.0,,,,,,
+,,,1642973473,,,,,11.5771033,,,,,,bus_stop,,,VEDRANA - MONTECARLO,,,44.5639887,,,666002.0,,,,,,
+,,,1642973474,,,,,11.6220067,,,,,,bus_stop,,,Villa Cavrini,,,44.5884605,,,675017,,,,,,
+,,,1642973475,,,,,11.6220466,,,,,,bus_stop,,,Villa Cavrini,,,44.5885662,,,675016,,,,,,
+,,,1642990353,,,,,11.8106201,,,,,,bus_stop,,,Borgo Capitello,,,44.8641264,,,607084.0,,,,,,
+,,,1642990354,,,,,11.8108311,,,,,,bus_stop,,,Borgo Capitello,,,44.8643368,,,607083.0,,,,,,
+,,,1643975602,,,,,11.8933852,,,,,,bus_stop,,,Bivio Rero,,,44.800538,,,624015,,,,,,
+,,,1643975603,,,,,11.8933024,,,,,,bus_stop,,,Bivio Rero,,,44.8005971,,,624014,,,,,,
+,,,1643975604,,,,,11.8921639,,,,,,bus_stop,,,Borgo Mistri,,,44.803901,,,624013,,,,,,
+,,,1643975605,,,,,11.8921317,,,,,,bus_stop,,,Borgo Mistri,,,44.8040312,,,624011,,,,,,
+,,,1643975606,,,,,11.8674214,,,,,,bus_stop,,,Cadirusco,,,44.8227925,,,609011,,,,,,
+,,,1643975607,,,,,11.8675147,,,,,,bus_stop,,,Cadirusco,,,44.8228409,,,609002,,,,,,
+,,,1643975608,,,,,11.88998,,,,,,bus_stop,,,Rero,,,44.7975699,,,624016,,,,,,
+,,,1643975609,,,,,11.8901436,,,,,,bus_stop,,,Rero,,,44.797613,,,624017,,,,,,
+,,,1643975610,,,,,11.8992187,,,,,,bus_stop,,,Villa Gallini,,,44.8079147,,,624009,,,,,,
+,,,1643975611,,,,,11.8994868,,,,,,bus_stop,,,Villa Gallini,,,44.8080457,,,624010,,,,,,
+,,1200R;4500A,1644090364,ATC,,,,11.8284384,,,,V.Le Ricci  I. F63,,bus_stop,,,Copparo Ospedale,,,44.896729,,,,Copparo,,,,,
+,,,1655802848,,,,,11.4405046,,,,,,bus_stop,,,,,,44.736602,,,,,,,,,
+,,,1665802535,,San Mauro Pascoli,,,12.4135246,,,,,,bus_stop,,,Villagrappa I,,,44.1123155,,,,,,,,,
+,,,1667283666,,,,,11.3615146,,,,,,bus_stop,,,Fiera Palazzo Congressi A,,,44.5116261,,,,,,,,,stop_position
+,,,1667283689,,,,,11.3616514,,,,,,bus_stop,,,Fiera Palazzo Congressi B,,,44.5116736,,,,,,,,,stop_position
+,,,1667283692,,,,,11.3614728,,,,,,bus_stop,,,Fiera Palazzo Congressi C,,,44.5118507,,,,,,,,,stop_position
+,,,1667283699,,,,,11.3612672,,,,,,bus_stop,,,Fiera Palazzo Congressi D,,,44.5118909,,,,,,,,,stop_position
+3543,,,1675633054,,Gatteo (FC),,,12.3838804,,,,,,bus_stop,,,S. ANGELO (VIA VOLTA) - GATTEO (FC),,,44.1362247,,,,,,,,,
+,,,1690666431,,,,,11.4173635,,,,,,bus_stop,,,Resto del Carlino,,,44.4977345,,,,,,,,,
+,,,1690666432,,,,,11.4170839,,,,,,bus_stop,,,Resto del Carlino,yes,,44.4977886,,,,,,,,,
+,,,1710504571,,Cesena (FC),,,12.2426786,,,,,,bus_stop,,,Ex Mercato,,,44.1518377,,,,,,,,,
+11871,,,1719177793,,San Mauro Pascoli,,,12.4158954,,,,,,bus_stop,,,Adige,,,44.1094885,,,,,,,,,
+19401,,,1719274529,,San Mauro Pascoli (FC),,,12.4132508,,,,,,bus_stop,,,XX Settembre,,,44.1061066,,,,,,,,,
+20210,,,1719274541,,San Mauro Pascoli (FC),,,12.4131301,,,,,,bus_stop,,,XX Settembre,,,44.1060141,,,,,,,,,
+,,,1719341290,,Savignano sul Rubicone (FC),,,12.4041768,,,,,,bus_stop,,,Montesole,,,44.0985024,,,,,,,,,
+,,,1719393997,,,,,12.4132052,,,,,,bus_stop,,,,,,44.1095482,,,,,,,,,
+11681,,,1719900382,,San Mauro Pascoli,,,12.4170041,,,,,,bus_stop,,,Rossini,,,44.1088166,,,,,,,,,
+20202,,,1719900390,,San Mauro Pascoli,,,12.4144345,,,,,,bus_stop,,,S. Mauro Pascoli,,,44.1066635,,,,,,,,,
+,,,1719900406,,,,,12.4171382,,,,,,bus_stop,,,,,,44.107118,,,,,,,,,
+11682,,,1719900430,,San Mauro Pascoli,,,12.4167681,,,,,,bus_stop,,,Rossini,,,44.108574,,,,,,,,,
+20151,,,1719900474,,San Mauro Pascoli (FC),,,12.4109031,,,,,,bus_stop,,,Costa,,,44.1039162,,,,,,,,,
+20201,,,1719900478,,San Mauro Pascoli,,,12.4148959,,,,,,bus_stop,,,S. Mauro Pascoli,,,44.1067598,,,,,,,,,
+20161,,,1719900501,,San Mauro Pascoli (FC),,,12.4130666,,,,,,bus_stop,,,Manzoni,,,44.1040518,,,,,,,,,
+47581,,,1720352414,,San Mauro Pascoli (FC),,,12.4155336,,,,,,bus_stop,,,Via del Lavoro,,,44.1177766,,,,,,,,,
+13862,,,1720352434,,Savignano sul Rubicone (FC),,,12.403689,,,,,,bus_stop,,,Bivio Fiumicino,,,44.1059922,,,,,,,,,
+13861,,,1720352446,,Savignano sul Rubicone (FC),,,12.4036648,,,,,,bus_stop,,,Bivio Fiumicino,,,44.1058974,,,,,,,,,
+20271,,,1720377516,,Savignano sul Rubicone (FC),,,12.4040376,,,,,,bus_stop,,,Galvani,,,44.0941372,,,,,,,,,
+20102,,,1720377534,,Savignano sul Rubicone (FC),,,12.4031928,,,,,,bus_stop,,,FS,,,44.0952564,,,,,,,,,
+20171,,,1720525508,,San Mauro Pascoli (FC),,,12.4170356,,,,,,bus_stop,,,Scuole,,,44.1047158,,,,,,,,,
+20191,,,1720525528,,San Mauro Pascoli (FC),,,12.4170907,,,,,,bus_stop,,,Spinelli,,,44.1070644,,,,,,,,,
+19342,,,1720525531,,Savignano sul Rubicone,,,12.3894706,,,,,,bus_stop,,,Borsellino,,,44.0912553,,,,,,,,,
+20141,,,1720525535,,San Mauro Pascoli,,,12.4094021,,,,,,bus_stop,,,Fermi,,,44.1025201,,,,,,,,,
+11830,,,1720561830,,San Mauro Pascoli,,,12.4457675,,,,,,bus_stop,,,S. Mauro Mare,,,44.1630567,,,,,,,,,
+,,,1721757515,,,,,12.400976,,,,,,bus_stop,,,,,,44.094057,,,,,,,,,
+,,,1722153067,,,,,12.4066672,,,,,,bus_stop,,,,,,44.0998663,,,,,,,,,
+,,,1723795232,,,,,12.2088674,,,,,,bus_stop,,,San Pietro in Guardiano,,,44.2190731,,,,,,,,,
+,,,1723795246,,,,,12.2087682,,,,,,bus_stop,,,San Pietro in Guardiano,,,44.2191404,,,,,,,,,
+,,,1748446494,,,,,11.2998709,,,,,,bus_stop,,,Barca Guardassoni,no,,44.493049,,,,,,,,,
+,,,1748446495,,,,,11.2992393,,,,,,bus_stop,,,Barca Guardassoni,yes,,44.4933342,,,,,,,,,
+,,,1755033759,,,,,10.9302267,,,,,,bus_stop,,,,,,44.6540308,,,,,,,,,
+,,,1755033763,,,,,10.9302281,,,,,,bus_stop,,,,,,44.6540785,,,,,,,,,
+,,,1755033766,,,,,10.9302495,,,,,,bus_stop,,,,,,44.6541338,,,,,,,,,
+,,,1755033768,,,,,10.9302388,,,,,,bus_stop,,,,,,44.6542025,,,,,,,,,
+,,,1756587530,,,,,12.1783141,,,,,,bus_stop,,,,,,44.0535462,,,,,,,,,
+,,,1756587557,,,,,12.1799254,,,,,,bus_stop,,,,,,44.0555687,,,,,,,,,
+,,,1756594340,,,,,12.1589275,,,,,,bus_stop,,,,,,44.0560271,,,,,,,,,
+,,,1756594353,,,,,12.1517462,,,,,,bus_stop,,,,,,44.0598443,,,,,,,,,
+,,,1756603476,,,,,12.1074078,,,,,,bus_stop,,,,,,44.084292,,,,,,,,,
+,,,1756603477,,,,,12.0617119,,,,,,bus_stop,,,,,,44.1319585,,,,,,,,,
+,,,1756603478,,,,,12.0735788,,,,,,bus_stop,,,,,,44.159151,,,,,,,,,
+,,,1756603479,,,,,12.0734186,,,,,,bus_stop,,,,,,44.1591808,,,,,,,,,
+,,,1756603480,,,,,12.0761871,,,,,,bus_stop,,,,,,44.1677085,,,,,,,,,
+,,,1756603481,,,,,12.075969,,,,,,bus_stop,,,,,,44.1677687,,,,,,,,,
+,,,1756603482,,,,,12.0774791,,,,,,bus_stop,,,,,,44.1718666,,,,,,,,,
+,,,1756612762,,,,,12.0714309,,,,,,bus_stop,,,,,,44.1827013,,,,,,,,,
+,,,1756612763,,,,,12.0576712,,,,,,bus_stop,,,,,,44.1920412,,,,,,,,,
+,,,1756622367,,,,,12.0592102,,,,,,bus_stop,,,,,,44.2325451,,,,,,,,,
+,,,1756622374,,,,,12.0615319,,,,,,bus_stop,,,,,,44.2354724,,,,,,,,,
+,,,1756622385,,,,,12.0624398,,,,,,bus_stop,,,,,,44.2365689,,,,,,,,,
+,,,1756622396,,,,,11.9942708,,,,,,bus_stop,,,,,,44.2409505,,,,,,,,,
+,,,1756622398,,,,,11.9917675,,,,,,bus_stop,,,,,,44.2419355,,,,,,,,,
+,,,1756622405,,,,,11.9877858,,,,,,bus_stop,,,,,,44.2435336,,,,,,,,,
+,,,1756622416,,,,,11.9830776,,,,,,bus_stop,,,,,,44.2454662,,,,,,,,,
+,,,1756622421,,,,,11.9772282,,,,,,bus_stop,,,,,,44.247854,,,,,,,,,
+,,,1756622423,,,,,11.9543319,,,,,,bus_stop,,,,,,44.2571669,,,,,,,,,
+,,,1756622433,,,,,11.931342,,,,,,bus_stop,,,,,,44.2665488,,,,,,,,,
+,,,1756657797,,,,,11.841993,,,,,,bus_stop,,,,,,44.302548,,,,,,,,,
+,,,1756657801,,,,,11.8417017,,,,,,bus_stop,,,,,,44.3046064,,,,,,,,,
+,,,1756657821,,,,,11.8541008,,,,,,bus_stop,,,,,,44.3204287,,,,,,,,,
+,,,1756657822,,,,,11.8939214,,,,,,bus_stop,,,,,,44.3216724,,,,,,,,,
+,,,1756657852,,,,,11.8614944,,,,,,bus_stop,,,,,,44.3303163,,,,,,,,,
+,,,1756657857,,,,,11.8697317,,,,,,bus_stop,,,,,,44.3354103,,,,,,,,,
+,,,1778083827,,,,,11.5066937,,,,,,bus_stop,,,Bivio Trebbo,,,44.5010995,,,666026.0,,,,,,
+,,,1778083829,,,,,11.5074085,,,,,,bus_stop,,,Bivio Trebbo,,,44.5015708,,,666027.0,,,,,,
+,,,1778083834,,,,,11.5309027,,,,Via Partengo 15/E,,bus_stop,,,BUDRIO - ASSICURAZIONI - PALASPORT,,,44.5407813,,,666011,,,,,,
+,,,1778083837,,,,,11.5299306,,,,Via Partengo 58/A,,bus_stop,,,BUDRIO - ASSICURAZIONI - PALASPORT,,,44.5413582,,,666010,,,,,,
+,,,1778083838,,,,,11.5284124,,,,,,bus_stop,,,BUDRIO - CASERMA,,,44.529242,,,666018.0,,,,,,
+,,,1778083839,,,,,11.5286819,,,,,,bus_stop,,,BUDRIO - CASERMA,,,44.5292841,,,666019.0,,,,,,
+,,,1778083840,,,,,11.527142,,,,,,bus_stop,,,BUDRIO - COOP,,,44.540713,,,666013.0,,,,,,
+,,,1778083841,,,,,11.5269095,,,,,,bus_stop,,,BUDRIO - COOP,,,44.5408041,,,666012.0,,,,,,
+,,,1778083842,,,,,11.5323174,,,,,,bus_stop,,,BUDRIO - CROCETTA,,,44.5339201,,,666016.0,,,,,,
+,,,1778083843,,,,,11.5326247,,,,,,bus_stop,,,BUDRIO - CROCETTA,,,44.534118,,,666017.0,,,,,,
+,,,1778083844,,,,,11.525705,,,,,,bus_stop,,,BUDRIO - NUOVO,,,44.5257964,,,666020.0,,,,,,
+,,,1778083845,,,,,11.5260293,,,,,,bus_stop,,,BUDRIO - NUOVO,,,44.5258245,,,666021.0,,,,,,
+,,,1778083846,,,,,11.5421079,,,,,,bus_stop,,,BUDRIO - PALAZZINA,,,44.5366202,,,666007.0,,,,,,
+,,,1778083847,,,,,11.5421964,,,,,,bus_stop,,,BUDRIO - PALAZZINA,,,44.536689,,,666006.0,,,,,,
+,,,1778083848,,,,,11.5364734,,,,,,bus_stop,,,BUDRIO - PRETURA,,,44.5387406,,,666009.0,,,,,,
+,,,1778083849,,,,,11.5362076,,,,,,bus_stop,,,BUDRIO - PRETURA,,,44.5389176,,,666008.0,,,,,,
+,,,1778083850,,,,,11.5278806,,,,,,bus_stop,,,BUDRIO - STAZIONE,,,44.5332974,,,666014.0,,,,,,
+,,,1778083851,,,,,11.528652,,,,,,bus_stop,,,BUDRIO - STAZIONE,,,44.5334575,,,666015.0,,,,,,
+,,,1778083852,,,,,11.5228828,,,,,,bus_stop,,,BUDRIO - ZONA INDUSTRIALE,,,44.522346,,,666022.0,,,,,,
+,,,1778083853,,,,,11.5231852,,,,,,bus_stop,,,BUDRIO - ZONA INDUSTRIALE,,,44.5224283,,,666023.0,,,,,,
+,,,1778083854,,,,,11.518472,,,,,,bus_stop,,,Cento di Budrio,,,44.5164679,,,666024.0,,,,,,
+,,,1778083855,,,,,11.5191011,,,,,,bus_stop,,,Cento di Budrio,,,44.5170021,,,666025.0,,,,,,
+,,,1778083856,,,,,11.4969387,,,,,,bus_stop,,,Fossamarcia,,,44.5004962,,,666028.0,,,,,,
+,,,1778083857,,,,,11.4957787,,,,,,bus_stop,,,Fossamarcia,,,44.5007128,,,669000.0,,,,,,
+,,,1798150998,,,,,11.0044641,,,,,,bus_stop,,,,,,44.2798977,,,,,,,,,
+,,,1810198320,,,,,11.1810512,,,,,,bus_stop,,,,,,44.636337,,,,,,,,,
+,,,1812387834,,,,,11.2845928,,,,,,bus_stop,,,,,,44.4776239,,,,,,,,,
+,,,1812387836,,,,,11.2850434,,,,,,bus_stop,,,,,,44.4777196,,,,,,,,,
+,,,1845428883,,,,,12.0624838,,,,,,bus_stop,,,,,,44.1270604,,,,,,,,,
+,,,1920248608,SETA,,,,11.2815533,,,,,,bus_stop,,,Finale Emilia - Polo Scolastico,,,44.8361983,,,,Finale Emilia,,,,,
+,,,1920248616,SETA,,,,11.2811814,,,,,,bus_stop,,,Finale Emilia - Polo Scolastico,,,44.8378597,,,,Finale Emilia,,,,,
+,,,1921463883,,,,,11.8410901,,,,,,bus_stop,,,,,,44.0534531,,,,,,,,,
+,,,1921667279,,,,,11.8421967,,,,,,bus_stop,,,,,,44.0618142,,,,,,,,,
+,,,1934050258,,,,,11.3932621,,,,,,bus_stop,,,Altura,,,44.4639132,,,,,,,,,stop_position
+,,,1934050277,,,,,11.3543891,,,,,,bus_stop,,,Baraccano,,,44.4859931,,,,,,,,,stop_position
+,,,1934050288,,,,,11.4224874,,,,,,bus_stop,,,Cicogna Donini,,,44.4613613,,,,,,,,,stop_position
+,,,1934050305,,,,,11.4220104,,,,,,bus_stop,,,Cicogna Donini,,,44.4615941,,,,,,,,,stop_position
+,,,1934050321,,,,,11.4196699,,,,,,bus_stop,,,Cicogna Fantini,,,44.4612234,,,,,,,,,stop_position
+,,,1934050329,,,,,11.4227681,,,,,,bus_stop,,,Cicogna Viganò,,,44.4591011,,,,,,,,,stop_position
+,,,1934050363,,,,,11.3856689,,,,,,bus_stop,,,Cricca,,,44.4725315,,,,,,,,,stop_position
+,,,1934050365,,,,,11.3853471,,,,,,bus_stop,,,Cricca,,,44.472772,,,,,,,,,stop_position
+,,,1934050402,,,,,11.3506883,,,,,,bus_stop,,,Garganelli,,,44.4896323,,,,,,,,,stop_position
+,,,1934050414,,,,,11.3504576,,,,,,bus_stop,,,Garganelli,,,44.4898445,,,,,,,,,stop_position
+,,,1934050415,,,,,11.4169872,,,,,,bus_stop,,,Mura San Carlo,,yes,44.4493239,,,,,,,,,stop_position
+,,,1934050461,,,,,11.3710144,,,,,,bus_stop,,,Orti,,,44.4770519,,,,,,,,,stop_position
+,,,1934050467,,,,,11.3697847,,,,,,bus_stop,,,Orti,,,44.4775219,,,,,,,,,stop_position
+,,,1934050485,,,,,11.3906381,,,,,,bus_stop,,,Ospedale Bellaria,,,44.4643086,,,,,,,,,stop_position
+,,,1934050490,,,,,11.3441361,,,,,,bus_stop,,,Piazza Cavour,,,44.490904,,,,,,,,,stop_position
+,,,1934050508,,,,,11.3436984,,,,,,bus_stop,,,Piazza Cavour,,,44.4909138,,,,,,,,,stop_position
+,,,1934050510,,,,,11.3452542,,,,,,bus_stop,,,Piazza Minghetti,,,44.4914539,,,,,,,,,stop_position
+,,,1934050522,,,,,11.423883,,,,,,bus_stop,,,Pio la Torre,,,44.4576771,,,,,,,,,stop_position
+,,,1934050525,,,,,11.4233622,,,,,,bus_stop,,,Pio la Torre,,,44.4579401,,,,,,,,,stop_position
+,,,1934050537,,,,,11.3794027,,,,,,bus_stop,,,Po,,,44.4749409,,,,,,,,,stop_position
+,,,1934050538,,,,,11.3792729,,,,,,bus_stop,,,Po,,,44.4750948,,,,,,,,,stop_position
+,,,1934050547,,,,,11.4036139,,,,,,bus_stop,,,Pontebuco Bivio,,,44.4630029,,,,,,,,,stop_position
+,,,1934050557,,,,,11.3670354,,,,,,bus_stop,,,Ragno,,,44.4785584,,,,,,,,,stop_position
+,,,1934050560,,,,,11.3905547,,,,,,bus_stop,,,Roma,,,44.470661,,,,,,,,,stop_position
+,,,1934050562,,,,,11.3905881,,,,,,bus_stop,,,Roma,,,44.4707532,,,,,,,,,stop_position
+,,,1934050565,,,,,11.4103529,,,,,,bus_stop,,,Rotonda Pulce,,,44.4508736,,,,,,,,,stop_position
+,,,1934050566,,,,,11.4165578,,,,,,bus_stop,,,San Camillo,,,44.4475144,,,,,,,,,stop_position
+,,,1934050568,,,,,11.412495,,,,,,bus_stop,,,San Lazzaro Giovanni XXIII,,yes,44.4639193,,,,,,,,,stop_position
+,,,1934050573,,,,,11.4120619,,,,,,bus_stop,,,San Lazzaro Giovanni XXIII,,yes,44.4640786,,,,,,,,,stop_position
+,,,1934050574,,,,,11.4076909,,,,,,bus_stop,,,San Lazzaro Marzabotto,,,44.4634819,,,,,,,,,stop_position
+,,,1935358234,,,,,11.4046374,,,,,,bus_stop,,,Bellaria Vecchia,,,44.4625639,,,,,,,,,stop_position
+,,,1935358248,,,,,11.4074039,,,,,,bus_stop,,,San Lazzaro Modena,,,44.4654701,,,,,,,,,stop_position
+,,,1960434882,,,,,11.5961781,,,,,,bus_stop,,,Krasnodar - Nievo,,,44.8271899,,,,,,,,,
+,,,1967093898,,,,,11.5929315,,,,,,bus_stop,,,Via Veneziani - Via Respighi,,,44.8191028,,,,,,,limited,,
+,,,1968218046,,,,,11.638952,,,,,,bus_stop,,,Scuole elementari Manzoni,,,44.8409034,,,,,,,,,
+,,,1968218047,,,,,11.6441102,,,,,,bus_stop,,,Favero - Morante,,,44.8407947,,,,,,,,,
+,,,1968218048,,,,,11.6443328,,,,,,bus_stop,,,Favero - Morante,,,44.8413957,,,,,,,,,
+,,,1968218049,,,,,11.6371711,,,,,,bus_stop,,,Via Zanardi - Piazzale San Giovanni,,,44.8407132,,,,,,,,,
+,,,1968445993,,,,,11.6319248,,,,,,bus_stop,,,Alfonso d'Este - C. Mayr,,,44.8282419,,,,,,,,,
+,,,1968445995,,,,,11.6311579,,,,,,bus_stop,,,Alfonso d'Este - C. Mayr,,,44.8271548,,,,,,,,,
+,,,1968543238,,,,,11.605092,,,,,,bus_stop,,,Foro Boario - Supermercato,,,44.8298066,,,,,,,,,
+,,,1968543239,,,,,11.6045288,,,,,,bus_stop,,,Foro Boario - Argine Ducale,,,44.8315565,,,,,,,,,
+,,,1968924512,,,,,11.6034888,,,,,,bus_stop,,,Krasnodar - Verga,,,44.8205915,,,,,,,,,
+,,,1972017386,,,,,11.6209667,,,,,,bus_stop,,,Santa Maria degli Angeli - Sussidiaria,,,44.8477716,,,,,,,,,
+,,,1972017387,,,,,11.6192822,,,,,,bus_stop,,,ITC Monti,,,44.8494716,,,,,,,,,
+,,,1972427981,,,,,11.6473151,,,,,,bus_stop,,,San Bartolo,,,44.8161053,,,,,,,,,
+,,,1972436394,,,,,11.6106172,,,,,,bus_stop,,,,,,44.8239777,,,,,,,,,
+,,,1972436400,,,,,11.6110958,,,,,,bus_stop,,,Pesci - Buglione,,,44.8218038,,,,,,,,,
+,,,1972436402,,,,,11.6131959,,,,,,bus_stop,,,,,,44.8227504,,,,,,,,,
+,,,1977725736,,,,,11.4487253,,,,,,bus_stop,,,Granarolo Brenti,,,44.5546943,,,,,,,,,
+,,,2049777179,SETA,,local,,10.8581657,,,,,,bus_stop,,,,,yes,44.5190089,,,,,,,,,stop_position
+,,,2049777185,SETA,,local,,10.8551978,,,,,,bus_stop,,,,,yes,44.5191912,,,,,,,,,stop_position
+,,,2049777193,SETA,,local,,10.8579744,,,,,,bus_stop,,,,,yes,44.5245654,,,,,,,,,stop_position
+,,,2049777211,SETA,,local,,10.8583579,,,,,,bus_stop,,,,,yes,44.5252922,,,,,,,,,stop_position
+,,,2049777217,SETA,,local,,10.8609225,,,,,,bus_stop,,,,,yes,44.5254891,,,,,,,,,stop_position
+,,,2049777223,SETA,,local,,10.866521,,,,,,bus_stop,,,,,yes,44.5255001,,,,,,,,,stop_position
+,,,2049777251,SETA,,local,,10.860424,,,,,,bus_stop,,,,,yes,44.5267449,,,,,,,,,stop_position
+,,,2049777257,SETA,,local,,10.8607481,,,,,,bus_stop,,,,,yes,44.5270927,,,,,,,,,stop_position
+,,Prontobus,2051641985,SETA,,local,,10.8744481,,,,,,bus_stop,,,MAxx,,,44.5139122,,,MAxx,,,,,,
+,,,2051642016,SETA,,local,,10.8550813,,,,,,bus_stop,,,,,yes,44.4965415,,,,,,,,,stop_position
+,,,2051642040,SETA,,local,,10.8566279,,,,,,bus_stop,,,,,yes,44.5007071,,,,,,,,,stop_position
+,,,2051642078,SETA,,local,,10.8577913,,,,,,bus_stop,,,,,yes,44.5030271,,,,,,,,,stop_position
+,,,2051642086,SETA,,local,,10.8582428,,,,,,bus_stop,,,,,yes,44.5038251,,,,,,,,,stop_position
+,,,2051642182,SETA,,local,,10.8634292,,,,,,bus_stop,,,,,yes,44.508936,,,,,,,,,stop_position
+,,,2051642261,SETA,,local,,10.8744497,,,,,,bus_stop,,,,,yes,44.5139559,,,,,,,,,stop_position
+,,,2051642310,SETA,,local,,10.8606329,,,,,,bus_stop,,,,,yes,44.5180675,,,,,,,,,stop_position
+,,,2052484900,SETA,,local,,10.8736728,,,,,,bus_stop,,,,,yes,44.4958704,,,,,,,,,stop_position
+,,,2052484930,SETA,,local,,10.8738534,,,,,,bus_stop,,,,,yes,44.4973428,,,,,,,,,stop_position
+,,,2052484976,SETA,,local,,10.872465,,,,,,bus_stop,,,,,yes,44.5009115,,,,,,,,,stop_position
+,,,2052484988,SETA,,local,,10.8726715,,,,,,bus_stop,,,,,yes,44.5013353,,,,,,,,,stop_position
+,,,2052485044,SETA,,local,,10.8908851,,,,,,bus_stop,,,,,yes,44.5068675,,,,,,,,,stop_position
+,,,2052485054,SETA,,local,,10.8887509,,,,,,bus_stop,,,,,yes,44.5114101,,,,,,,,,stop_position
+,,,2052485075,SETA,,local,,10.8795132,,,,,,bus_stop,,,,,yes,44.514451,,,,,,,,,stop_position
+,,,2052485101,SETA,,local,,10.8780842,,,,,,bus_stop,,,,,yes,44.516382,,,,,,,,,stop_position
+,,,2052485106,SETA,,local,,10.8777825,,,,,,bus_stop,,,,,yes,44.5165202,,,,,,,,,stop_position
+,,,2052545989,SETA,,local,,10.9001223,,,,,,bus_stop,,,,,yes,44.514341,,,,,,,,,stop_position
+,,,2052546016,SETA,,local,,10.8884431,,,,,,bus_stop,,,,,yes,44.5245435,,,,,,,,,stop_position
+,,,2052546023,SETA,,local,,10.8718614,,,,,,bus_stop,,,,,yes,44.5251798,,,,,,,,,stop_position
+,,,2052546031,SETA,,local,,10.8894202,,,,,,bus_stop,,,,,yes,44.5258899,,,,,,,,,stop_position
+,,,2054463384,SETA,,local,,10.8928754,,,,,,bus_stop,,,,,yes,44.5277459,,,,,,,,,stop_position
+,,,2054463399,SETA,,local,,10.8690795,,,,,,bus_stop,,,,,yes,44.5282776,,,,,,,,,stop_position
+,,,2054463418,SETA,,local,,10.895294,,,,,,bus_stop,,,,,yes,44.52854,,,,,,,,,stop_position
+,,,2054463428,SETA,,local,,10.8728204,,,,,,bus_stop,,,,,yes,44.5285553,,,,,,,,,stop_position
+,,,2054463447,SETA,,local,,10.8721284,,,,,,bus_stop,,,,,yes,44.5288118,,,,,,,,,stop_position
+,,,2054463455,SETA,,local,,10.8929277,,,,,,bus_stop,,,,,yes,44.5289773,,,,,,,,,stop_position
+,,,2054463464,SETA,,local,,10.8659986,,,,,,bus_stop,,,,,yes,44.5291906,,,,,,,,,stop_position
+,,,2054463475,SETA,,local,,10.8676455,,,,,,bus_stop,,,,,yes,44.5292549,,,,,,,,,stop_position
+,,,2054463485,SETA,,local,,10.8793343,,,,,,bus_stop,,,,,yes,44.529323,,,,,,,,,stop_position
+,,,2054463495,SETA,,local,,10.8818884,,,,,,bus_stop,,,,,yes,44.529977,,,,,,,,,stop_position
+,,,2054463507,SETA,,local,,10.8619932,,,,,,bus_stop,,,,,yes,44.5303477,,,,,,,,,stop_position
+,,,2054463548,SETA,,local,,10.8794138,,,,,,bus_stop,,,,,yes,44.5314036,,,,,,,,,stop_position
+,,,2054463603,SETA,,local,,10.8788379,,,,,,bus_stop,,,,,yes,44.5366788,,,,,,,,,stop_position
+,,,2057329384,SETA,,local,,10.863917,,,,,,bus_stop,,,,,yes,44.5329255,,,,,,,,,stop_position
+,,,2061128900,SETA,,local,,10.9331217,,,,,,bus_stop,,,Magenta,,yes,44.6214311,,,3; 3A; 81,,,,,,stop_position
+,,,2061641273,SETA,,local,,10.93238,,,,,,bus_stop,,,Magenta bv Vigevano,,yes,44.623601,,,3; 3A; 81,,,,,,stop_position
+,,,2061641277,SETA,,local,,10.9330487,,,,,,bus_stop,,,Magenta,,yes,44.6216865,,,3; 81,,,,,,stop_position
+,,,2062762376,,,,,10.9316881,,,,,,bus_stop,,,Liguria,,yes,44.6186974,,,,,,,,,stop_position
+,,,2062762379,,,,,10.9317496,,,,,,bus_stop,,,Liguria,,yes,44.6187854,,,,,,,,,stop_position
+,,,2081568927,,,,,11.3614029,,,,,,bus_stop,,,Borghi Mamo,,,44.4768764,,,,,,,,,
+,,,2084540119,,,,,11.3595469,,,,,,bus_stop,,,Siepelunga,,,44.4771385,,,,,,,,,
+,,,2084540120,,,,,11.3634737,,,,,,bus_stop,,,Borghi Mamo,,,44.4759213,,,,,,,,,
+,,,2084540122,,,,,11.3604911,,,,,,bus_stop,,,Siepelunga,,,44.4774754,,,,,,,,,
+,,,2099936422,,,,,11.3007854,,,,,,bus_stop,,,,,,44.4648337,,,,,,,,,
+,,,2099937482,,,,,11.3008471,,,,,,bus_stop,,,,,,44.4648969,,,,,,,,,
+,,,2134989397,,,,,11.8876442,,,,,,bus_stop,,,,,,44.328338,,,,,,,,,
+,,,2162455113,,,,,10.8488893,,,,,,bus_stop,,,,,,44.7229923,,,,,,,,,
+,,,2162455621,,,,,10.8489804,,,,,,bus_stop,,,,,,44.7227255,,,,,,,,,
+,,,2171926088,,,,,11.3764902,,,,,,bus_stop,,,Marcello,,,44.4670118,,,,,,,,,
+,,,2171926096,,,,,11.378585,,,,,,bus_stop,,,Stadio Falchi,,,44.4637443,,,,,,,,,
+,,,2171926100,,,,,11.3789605,,,,,,bus_stop,,,Stadio Falchi,,,44.4634992,,,,,,,,,
+,,,2171926103,,,,,11.3772815,,,,,,bus_stop,,,Marcello,,,44.4674521,,,,,,,,,
+,,,2171926107,,,,,11.3775953,,,,,,bus_stop,,,Albornoz,,,44.4657695,,,,,,,,,
+,,,2171926109,,,,,11.3760476,,,,,,bus_stop,,,Marcello,,,44.4661083,,,,,,,,,
+,,,2171926110,,,,,11.3775014,,,,,,bus_stop,,,Albornoz,,,44.4651991,,,,,,,,,
+,,,2177055118,TPER,,,,11.2992249,,,,,,bus_stop,,,Finale Emilia Asilo,,,44.8319704,,,,Finale Emilia,,,,,
+,,,2188358230,TPER,,AMIFE,,12.255001,,,,,,bus_stop,,,Spina Camping Village,,,44.6282392,,,690061,Comacchio,,,,,
+,,,2206956291,,,,,11.3583878,,,,,,bus_stop,,,Bellacosta,,,44.4796113,,,,,,,,,
+,,,2206956293,,,,,11.3436383,,,,,,bus_stop,,,Tribunale,,,44.4882379,,,,,,,,,
+,,,2206956296,,,,,11.3525379,,,,,,bus_stop,,,Giardini Margherita,,,44.4847897,,,,,,,,,
+,,,2206956300,,,,,11.349035,,,,,,bus_stop,,,Porta Castiglione,,,44.4851514,,,,,,,,,
+,,,2206956303,,,,,11.3569665,,,,,,bus_stop,,,Porta Santo Stefano,,,44.484868,,,,,,,,,
+,,,2206956306,,,,,11.3525808,,,,,,bus_stop,,,Giardini Margherita,,,44.4849811,,,,,,,,,
+,,,2206956310,,,,,11.3582054,,,,,,bus_stop,,,Gandino,,,44.4810677,,,,,,,,,
+,,,2206956313,,,,,11.347026,,,,,,bus_stop,,,XII Giugno,,,44.4857408,,,,,,,,,
+,,,2206956317,,,,,11.344384,,,,,,bus_stop,,,Tribunale,,,44.4876677,,,,,,,,,
+,,,2206956320,,,,,11.3489035,,,,,,bus_stop,,,Porta Castiglione,,,44.4854097,,,,,,,,,
+,,,2206956323,,,,,11.3562072,,,,,,bus_stop,,,Santa Barbara,,,44.4770162,,,,,,,,,
+,,,2206956329,,,,,11.3573122,,,,,,bus_stop,,,Gandino,,,44.4802831,,,,,,,,,
+,,,2206956333,,,,,11.3458324,,,,,,bus_stop,,,XII Giugno,,,44.4863378,,,,,,,,,
+,,,2206956335,,,,,11.3549975,,,,,,bus_stop,,,Redenti,,,44.4783923,,,,,,,,,
+,,,2206956336,,,,,11.3556788,,,,,,bus_stop,,,Santa Barbara,,,44.4774335,,,,,,,,,
+97,,,2273725889,,97,,,11.3109531,,,,,,bus_stop,,,Porta Asia,,,44.7121767,,,,,,,,,
+,,,2290091933,,50604,,,11.2363579,,,,,,bus_stop,,,San Cristoforo Casazza,,,44.7236861,,,,,,,,,
+,,,2290091934,,50603,,,11.236653,,,,,,bus_stop,,,San Cristoforo Casazza,,,44.7238804,,,,,,,,,
+,,,2292374273,Start Romagna,,,,12.5881929,,,,,,bus_stop,,,Alfieri,,,44.0609442,,,15,,,,,,platform
+,,,2292374274,Start Romagna,,,,12.5880752,,,,,,bus_stop,,,Alfieri,,,44.0612003,,,15,,,,,,platform
+,,,2292374287,Start Romagna,,,,12.5713244,,,,,,bus_stop,,,Cesare Battisti,,,44.0648884,,,5,,,,,,platform
+,,,2292374296,Start Romagna,,,,12.5834774,,,,,,bus_stop,,,Derna,,,44.0653469,,,13,,,,,,platform
+,,,2292374300,Start Romagna,,,,12.5922492,,,,,,bus_stop,,,Goldoni,,,44.0569727,,,17,,,,,,platform
+,,,2292374306,Start Romagna,,,,12.5723972,,,,,,bus_stop,,,Grattacielo,,,44.0673128,,,7,,,,,,platform
+,,,2292374311,Start Romagna,,,,12.5726139,,,,,,bus_stop,,,Grattacielo,,,44.0673344,,,7,,,,,,platform
+,,,2292374320,Start Romagna,,,,12.581021,,,,,,bus_stop,,,Kennedy,,,44.0674199,,,12,,,,,,platform
+,,,2292374321,Start Romagna,,,,12.5954075,,,,,,bus_stop,,,Lagomaggio,,,44.0539073,,,19,,,,,,platform
+,,,2292374326,Start Romagna,,,,12.5782144,,,,,,bus_stop,,,Marina Centro,,,44.0704896,,,10,,,,yes,,platform
+,,,2292374327,Start Romagna,,,,12.5777373,,,,,,bus_stop,,,Marina Centro,,,44.0706614,,,10,,,,yes,,platform
+,,,2292374333,Start Romagna,,,,12.5973481,,,,,,bus_stop,,,Neri,,,44.0520064,,,20,,,,,,platform
+,,,2292374339,Start Romagna,,,,12.5903241,,,,,,bus_stop,,,Pascoli,,,44.0588637,,,16,,,,,,platform
+,,,2292374340,Start Romagna,,,,12.5899725,,,,,,bus_stop,,,Pascoli,,,44.0593354,,,16,,,,,,platform
+,,,2292374347,Start Romagna,,,,12.5758253,,,,,,bus_stop,,,Quattrocavalli,,,44.0704416,,,9,,,,,,platform
+,,,2292374348,Start Romagna,,,,12.5735846,,,,,,bus_stop,,,Rimini FS,,,44.0635114,,,4,,,,,,platform
+,,,2292374349,Start Romagna,,,,12.5705153,,,,,,bus_stop,,,Rodi,,,44.0661974,,,6,,,,,,platform
+,,,2292374350,Start Romagna,,,,12.5705498,,,,,,bus_stop,,,Rodi,,,44.066321,,,6,,,,,,platform
+,,,2292374355,Start Romagna,,,,12.572117,,,,,,bus_stop,,,San Girolamo,,,44.0615364,,,,,,,,,platform
+,,,2292374356,Start Romagna,,,,12.5739468,,,,,,bus_stop,,,Sauro,,,44.0687859,,,8,,,,,,platform
+,,,2292374357,Start Romagna,,,,12.5740972,,,,,,bus_stop,,,Sauro,,,44.068789,,,8,,,,,,platform
+,,,2292374358,Start Romagna,,,,12.5935895,,,,,,bus_stop,,,Scilla,,,44.0556789,,,18,,,,,,platform
+,,,2292374359,Start Romagna,,,,12.5936417,,,,,,bus_stop,,,Scilla,,,44.0557626,,,18,,,,,,platform
+,,,2292374364,Start Romagna,,,,12.5859749,,,,,,bus_stop,,,Tripoli,,,44.0630933,,,14,,,,,,platform
+,,,2292374365,Start Romagna,,,,12.5852222,,,,,,bus_stop,,,Tripoli,,,44.0639444,,,14,,,,,,platform
+,,,2292374366,Start Romagna,,,,12.5800677,,,,,,bus_stop,,,Vespucci,,,44.0686583,,,11,,,,,,platform
+,,,2292374367,Start Romagna,,,,12.5794429,,,,,,bus_stop,,,Vespucci,,,44.0692483,,,11,,,,,,platform
+,,,2293842980,,,,,11.3320679,,,,,,bus_stop,,,San Felice,,,44.4974659,,,,,,,no,,
+,,,2298232640,Tper,,,,11.3463716,,,,,,bus_stop,,,,no,yes,44.5120333,,,,,,,,,stop_position
+,,,2317581883,,,,,11.3563605,,,,,,bus_stop,,,Corticella,,yes,44.5461934,,,,,,,,,stop_position
+,,,2320715400,,,,,11.7406778,,,,,,bus_stop,,,Benvignante,,,44.6821588,,,,,,,,,
+,312 C,,2329814804,,Badia della Valle_V,,,11.6887553,,,,,,bus_stop,,,,,,44.0730741,,,,,,,,,
+,,,2330777443,,,,,11.8369959,,,,,,bus_stop,,,Via Don Minzoni,,,44.6158071,,,,,,,,,
+,,,2330777481,,,,,11.8368886,,,,,,bus_stop,,,Via Carducci,,,44.6168703,,,,,,,,,
+,,,2330777485,,,,,11.8369958,,,,,,bus_stop,,,Università,,,44.6174341,,,,,,,,,
+,,,2330777487,,,,,11.8366741,,,,,,bus_stop,,,Via Fratelli Mazzini,,,44.6152934,,,,,,,,,
+,,,2330850597,,,,,11.7946228,,,,,,bus_stop,,,Campotto,,,44.5731075,,,,,,,,,
+,,,2331073105,,,,,12.0767729,,,,,,bus_stop,,,Anita,,,44.5653181,,,,,,,,,
+,,,2334627333,,,,,11.831959,,,,,,bus_stop,,,Via Spinata,,,44.6191314,,,,,,,,,
+,,,2335589287,,,,,11.8342116,,,,,,bus_stop,,,Via 2 Giugno 1946,,,44.6182778,,,,,,,,,
+,,,2339413273,,,,,11.3205393,,,,,,bus_stop,,,,,,44.5016954,,,,,,,,,
+,,,2339413274,,,,,11.3142147,,,,,,bus_stop,,,Ospedale Maggiore,,,44.5039843,,,,,,,yes,,
+,,,2339415427,,,,,11.2887698,,,,,,bus_stop,,,,,,44.5118012,,,,,,,,,
+,,,2339415432,,,,,11.2839414,,,,,,bus_stop,,,Borgo Panigale Stazione,,,44.5142084,,,,,,,,,
+,,,2339415435,,,,,11.2836987,,,,,,bus_stop,,,Borgo Panigale Stazione,,,44.5144028,,,,,,,,,
+,,,2339416560,,,,,11.2790484,,,,,,bus_stop,,,Scala,,,44.5159957,,,,,,,,,
+,,,2343219410,,,,,11.3070364,,,,,,bus_stop,,,,,,44.5062921,,,,,,,,,
+,,,2343221306,tper,,,,11.2994482,,,,,,bus_stop,,,Bernardi,yes,,44.5084122,,,,,,,,,
+,,,2343221307,,,,,11.3074897,,,,,,bus_stop,,,,,,44.5062806,,,,,,,,,
+,,,2343221308,tper,,,,11.3034716,,,,,,bus_stop,,,Santa Viola,yes,,44.5075619,,,,,,,,,
+,,,2345464240,Start Romagna,,,,12.5730065,,,,,,bus_stop,,,Rimini FS,,,44.0638715,,,,,,,,,platform
+,,,2345648502,,,,,12.5750085,,,,,,bus_stop,,,Sauro-Mantegazza,,,44.0679648,,,,,,,,,
+,,,2359026712,,,,,11.3100276,,,,,,bus_stop,,,,,,44.5054914,,,,,,,,,
+,,,2360441591,,,,,11.3807439,,,,,,bus_stop,,,Pontevecchio,,,44.4813559,,,,,,,,,
+,,,2372343602,,,,,11.4595746,,,,,,bus_stop,,,,,,44.3106618,,,,,,,,,
+,,,2379970455,,,,,11.3151469,,,,,,bus_stop,,,,,,44.5036594,,,,,,,yes,,
+,,,2384514347,,,,,11.581749,,,,,,bus_stop,,,Ospedale San Giorgio,,,44.8140674,,,,,,,,,
+,,,2384763199,,,,,11.5987138,,,,,,bus_stop,,,Scalambra uffici amministrativi,,,44.8400455,,,,,,,,,
+,,,2398274296,TPER,,,,11.2967658,,,,,,bus_stop,,,Castello d'Argile Linee 97 - 435,yes,,44.6803743,,,,,,,,,
+,,,2398274297,TPER,,,,11.2972687,,,,,,bus_stop,,,Castello d'Argile Linee 97 - 435 - 453,no,,44.6806404,,,,,,,,,
+,,,2398274298,,,,,11.2986534,,,,,,bus_stop,,,C.d.A Resistenza Linea 453,,,44.6803166,,,,,,,,,
+,,,2398274299,,,,,11.2977495,,,,,,bus_stop,,,C.d.A Molino Linee 97 - 435,,,44.676958,,,,,,,,,
+,,,2405950539,,,,,12.218959,,,,,,bus_stop,,,Bennet,,,44.6945001,,,,,,,,,
+,,,2416701545,,,,,12.1656121,,,,,,bus_stop,,,Caprile,,,44.8590249,,,,,,,,,
+,,7000A;7200A,2420920805,CORN,,,,11.3433178,,,,Via Virgiliana,,bus_stop,,,Fondo Rossette,,,44.9263654,,,603157,Bondeno,,,,,
+,,,2422204740,,,,,11.912786,,,,,,bus_stop,,,Roncodigà,,,44.8014508,,,,,,,,,
+,,,2425265330,,,,,12.2425249,,,,,,bus_stop,,,Viale Francia 2A,,,44.7471605,,,,,,,,,
+,,,2433711061,,,,,12.2077451,,,,,,bus_stop,,,,yes,,44.4190739,,,,,,,limited,,
+,,,2433711062,,,,,12.2074313,,,,,,bus_stop,,,,,,44.4187061,,,,,,,limited,,
+,,,2433767478,,,,,12.1908789,,,,,,bus_stop,,,Comacchio Monte Grappa,,,44.6909474,,,,,,,,,
+,,,2433840437,,,,,12.2819473,,,,,,bus_stop,,,,,,44.4521852,,,,,,,,,
+,,,2433840438,,,,,12.2819607,,,,,,bus_stop,,,,,,44.4519401,,,,,,,,,
+,,,2433993274,tper,,,,11.2968291,,,,,,bus_stop,,,Pontelungo,yes,,44.5087813,,,,,,,,,
+,,,2433993275,,,,,11.2885321,,,,,,bus_stop,,,,,,44.5117649,,,,,,,,,
+,,,2433994867,tper,,,,11.30275,,,,,,bus_stop,,,Santa Viola,yes,,44.507582,,,,,,,,,
+,,,2433994882,,,,,11.3178035,,,,,,bus_stop,,,,,,44.5024596,,,,,,,,,
+,,,2433994889,tper,,,,11.3140122,,,,,,bus_stop,,,Ospedale Maggiore,yes,,44.5038465,,,,,,,yes,,
+,,,2434000136,,,,,11.3221554,,,,,,bus_stop,,,Saffi,,,44.5009474,,,,,,,,,
+,,,2434000137,,,,,11.3280039,,,,,,bus_stop,,,,,,44.4989119,,,,,,,,,
+,,,2434000138,,,,,11.3250481,,,,,,bus_stop,,,,,,44.4999497,,,,,,,,,
+,,,2434002614,,,,,11.3379813,,,,,,bus_stop,,,,,,44.4955391,,,,,,,,,
+,,,2434004067,,,,,11.3577203,,,,,,bus_stop,,,,,,44.4909544,,,,,,,,,
+,,,2434051341,,,,,11.2642896,,,,,,bus_stop,,,Villaggio INA,,,44.5212779,,,,,,,,,
+,,,2434051345,,,,,11.2644936,,,,,,bus_stop,,,Villaggio INA,,,44.521062,,,,,,,,,
+,,,2434344650,,,,,12.1837614,,,,,,bus_stop,,,Comacchio Via Folegatti,,,44.6944944,,,,,,,,,
+,,,2435188298,,,,,12.1980313,,,,,,bus_stop,,,Comacchio Viale Praisolo,,,44.6863612,,,,,,,,,
+,,,2435188303,,,,,12.1957059,,,,,,bus_stop,,,Comacchio Via Barina Ostriche,,,44.68794,,,,,,,,,
+,,,2435344573,,,,,12.2116135,,,,,,bus_stop,,,,,,44.4170924,,,,,,,,,
+,,,2437013166,,,,,11.7146718,,,,,,bus_stop,,,Codrea Ribaltina,,,44.8160142,,,,,,,,,
+,,,2437722734,,,,,11.868257,,,,,,bus_stop,,,Parasacco,,,44.7914828,,,,,,,,,
+,,,2439628553,,,,,11.8734143,,,,,,bus_stop,,,Medelana,,,44.7762723,,,,,,,,,
+,,,2445013596,,,,,12.3270865,,,,,,bus_stop,,,,,,44.074375,,,,,,,,,
+,,,2461786974,,,,,11.3088492,no,,,,,bus_stop,,,Prati Di Caprara,no,,44.5049597,,,,,,,,no,
+,,,2469812473,,,,,12.1797515,,,,,,bus_stop,,,,,,44.3976841,,,,,,,,,
+,,,2476925629,,,,,11.3157699,,,,,,bus_stop,,,,,,44.5042114,,,,,,,,,
+,,,2504193347,,,,,11.3157884,,,,,,bus_stop,,,villa spada,,,44.4894373,,,,,Passare dal portico alla strada tramite la rampa carrabile adiacente,,yes,,
+,,,2520180634,,,,,11.7160816,,,,,,bus_stop,,,Codrea Via Traversa,,,44.8221526,,,,,,,,,
+,,,2522179174,,,,,11.7204992,,,,,,bus_stop,,,Baura Monte Oliveto,,,44.8496098,,,,,,,,,
+,,,2567637339,,,,,11.1909528,,,,,,bus_stop,,,Sparvo Bottega,,,44.1837114,,,,,,,,,
+,,,2567638339,,,,,11.1930745,,,,,,bus_stop,,,Sparvo Castagno,,,44.1842519,,,,,,,,,
+,,,2591171756,TPER,,,,11.3903781,,,,,,bus_stop,,,Pomponazzi,,,44.4806181,,,,,,,,,
+,,,2591171760,TPER,,,,11.3899439,,,,,,bus_stop,,,Pomponazzi,,,44.4807919,,,,,,,,,
+,,,2603447505,,,,,12.2253702,,,,,,bus_stop,,,,,,44.4229702,,,,,,,,,
+,,,2603447506,,,,,12.2257028,,,,,,bus_stop,,,,,,44.4229874,,,,,,,,,
+,,,2603447515,,,,,12.2266255,,,,,,bus_stop,,,,,,44.4197327,,,,,,,,,
+,,,2603742625,,,,,12.2206977,,,,,,bus_stop,,,,,,44.4176927,,,,,,,,,
+,,,2603742626,,,,,12.2205395,,,,,,bus_stop,,,,,,44.417526,,,,,,,,,
+,,,2603742634,,,,,12.2218564,,,,,,bus_stop,,,,,,44.4185624,,,,,,,,,
+,,,2603742635,,,,,12.2222427,,,,,,bus_stop,,,,,,44.4186525,,,,,,,,,
+,,,2603742636,,,,,12.2228596,,,,,,bus_stop,,,,,,44.4196678,,,,,,,,,
+,,,2603742663,,,,,12.2116909,,,,,,bus_stop,,,,,,44.4170327,,,,,,,,,
+,,,2624551804,,,,,11.0620871,,,,,,bus_stop,,,,,,44.3309612,,,,,,,,,
+,,,2628346945,,,,,11.0225058,,,,,,bus_stop,,,Fermata San Pellegrino,,,44.5242421,,,,,,,,,
+,,,2630635239,,,,,11.3970752,,,,,,bus_stop,,,,yes,,44.4878335,,,,,,,,,
+,,,2630635240,,,,,11.3968664,,,,,,bus_stop,,,,yes,,44.4878849,,,,,,,,,
+,,,2651900535,TPER,,,,11.390031,,,,,,bus_stop,,,Lincoln,,,44.482037,,,,,,,,,
+,,,2652863200,ATC,,ATC,,11.3602106,,,,,,bus_stop,,,Pavese,,yes,44.4506698,,,,,,yes,,,stop_position
+,,,2655668609,,,,,11.0642933,,,,,,bus_stop,,,,no,,44.3330723,,,,,,,,,
+,,,2655810526,,,,,11.0571085,no,,,,,bus_stop,,,,no,,44.3274222,,,,,,,,no,
+,,,2655810530,,,,,11.057977,,,,,,bus_stop,,,,,,44.3285206,,,,,,,,,
+,,,2656138536,,,,,11.0575157,,,,,,bus_stop,,,,,,44.3199785,,,,,,,,,
+,,,2656138538,,,,,11.0556965,,,,,,bus_stop,,,,,,44.3216769,,,,,,,,,
+,,35,2689618191,Tper,,,,11.3680323,,,,,,bus_stop,,,Viale Fiera,,,44.5077243,,,,,,,,,stop_position
+,,,2751588631,,,,,11.4874337,,,,,,bus_stop,,,,,,44.4505463,,,,,,,,,
+,,,2775120123,,,,,12.1873091,,,,,,bus_stop,,,Bettolino (provv.),,,44.6613318,,,,,,,,,stop_position
+,,,2775120125,,,,,12.231381,,,,,,bus_stop,,,Mesola Castello (provv.),,,44.9227771,,,,,,,,,stop_position
+,,,2775120128,,,,,12.2445134,,,,,,bus_stop,,,Riserva Bosco della Mesola (provv.),,,44.8570489,,,,,,,,,stop_position
+,,,2775120132,TPER,,AMIFE,,12.2494709,,,,,,bus_stop,,,Spiaggia Romea,,,44.7817577,,,606158,,,,,,stop_position
+,,,2775120135,,,,,12.2674262,,,,,,bus_stop,,,Torre Abate (provv.),,,44.904613,,,,,,,,,stop_position
+,,,2775120138,,,,,12.200558,,,,,,bus_stop,,,Torre della Finanza (provv),,,44.8126326,,,,,,,,,stop_position
+,,,2775120141,,,,,12.2372353,,,,,,bus_stop,,,Valle Cannavie' (provv.),,,44.8069822,,,,,,,,,stop_position
+,,,2831565433,,,,,11.1414336,,,,,,bus_stop,,,,,,44.410865,,,,,,,,,
+,,,2869833118,,,,,11.8952834,,,,,,bus_stop,,,,yes,,44.2809232,,,,,,,,,
+,,,2894543762,Start Romagna,A00802,,954,12.5096562,,,,,,bus_stop,,,Amba Alagi,,,44.1095649,,,31,,,,,,platform
+,,,2894543763,Start Romagna,A00800,,,12.5136177,,,,,,bus_stop,,,Chisimaio,,,44.1063344,,,29,,,,,,platform
+,,,2894543764,Start Romagna,A00786,,,12.5461865,,,,,,bus_stop,,,Cividale,,,44.0828575,,,15,,,,,,platform
+,,,2894543765,Start Romagna,A00787,,,12.5440294,,,,,,bus_stop,,,Dati-Pallotta,,,44.0842763,,,16,,,,,,platform
+,,,2894543766,Start Romagna,A00790,,,12.5363864,,,,,,bus_stop,,,Dati-Pascoli,,,44.0894074,,,19,,,,,,platform
+,,,2894543767,Start Romagna,A00789,,,12.5385601,,,,,,bus_stop,,,Dati-Polazzi,,,44.0879514,,,18,,,,,,platform
+,,,2894543768,Start Romagna,A00799,,,12.5158244,,,,,,bus_stop,,,Gebel,,,44.1045589,,,28,,,,,,platform
+,,,2894543769,Start Romagna,,,,12.5172701,,,,,,bus_stop,,,Lago Garda,,,44.1034231,,,27,,,,,,platform
+,,,2894543770,Start Romagna,,,,12.4958383,,,,,,bus_stop,,,Luce sul mare,,,44.1217517,,,35,,,,,,platform
+,,,2894543771,Start Romagna,,,,12.5287645,,,,,,bus_stop,,,Nagli,,,44.0946478,,,22,,,,,,platform
+,,,2894543772,Start Romagna,E00047,,918,12.4650489,,,,,,bus_stop,,,Panzini-Ionio,,,44.1467074,,,46,,,,,,platform
+,,,2894543773,Start Romagna,E00041,,918,12.4831716,,,,,,bus_stop,,,Pinzol-Ennio,,,44.1337156,,,40,,,,,,platform
+,,,2894543774,Start Romagna,E00040,,,12.4863322,,,,,,bus_stop,,,Pinzon-Gialo,,,44.1308206,,,39,,,,,,platform
+,,,2894543775,Start Romagna,,,,12.4683703,,,,,,bus_stop,,,Pinzon-Porto,,,44.1413674,,,44,,,,,,platform
+,,,2894543776,Start Romagna,,,,12.5036312,,,,,,bus_stop,,,Sol et salus,,,44.1147255,,,33,,,,,,platform
+,,,2894543777,Start Romagna,A00803,,,12.5072335,,,,,,bus_stop,,,Sollum,,,44.1116267,,,32,,,,,,platform
+,,,2894543778,Start Romagna,A00797,,,12.5203051,,,,,,bus_stop,,,Villa Salus,,,44.1010718,,,26,,,,,,platform
+,,,2894543779,Start Romagna,,,,12.5567046,,,,,,bus_stop,,,,,,44.067354,,,,,,,,,platform
+,,,2894543780,Start Romagna,A00782,,,12.550802,,,,,,bus_stop,,,,,,44.0735105,,,,,,,,,platform
+,,,2894543781,Start Romagna,,,,12.5540096,,,,,,bus_stop,,,,,,44.0776267,,,12,,,,,,platform
+,,,2894543782,Start Romagna,,,,12.5504024,,,,,,bus_stop,,,,,,44.0777906,,,,,,,,,platform
+,,,2894543783,Start Romagna,,,,12.551229,,,,,,bus_stop,,,,,,44.0794832,,,13,,,,,,platform
+,,,2894543784,Start Romagna,,,,12.5487641,,,,,,bus_stop,,,,,,44.0811277,,,14,,,,,,platform
+,,,2894543785,Start Romagna,,,,12.5415926,,,,,,bus_stop,,,,,,44.0859269,,,17,,,,,,platform
+,,,2894543786,Start Romagna,,,,12.5340685,,,,,,bus_stop,,,,,,44.0909661,,,20,,,,,,platform
+,,,2894543787,Start Romagna,,,,12.5308604,,,,,,bus_stop,,,,,,44.0931629,,,21,,,,,,platform
+,,,2894543788,Start Romagna,,,,12.5241332,,,,,,bus_stop,,,,,,44.0981268,,,,,,,,,platform
+,,,2894543789,Start Romagna,,,,12.5225546,,,,,,bus_stop,,,,,,44.0993384,,,,,,,,,platform
+,,,2894543790,Start Romagna,,,,12.5114282,,,,,,bus_stop,,,,,,44.1080936,,,30,,,,,,platform
+,,,2894543791,Start Romagna,,,,12.499461,,,,,,bus_stop,,,,,,44.1184368,,,34,,,,,,platform
+,,,2894543792,Start Romagna,,,,12.4937984,,,,,,bus_stop,,,,,,44.1235268,,,,,,,,,platform
+,,,2894543793,Start Romagna,,,,12.4914271,,,,,,bus_stop,,,,,,44.1257165,,,,,,,,,platform
+,,,2894543794,Start Romagna,,,,12.4888736,,,,,,bus_stop,,,,,,44.1282786,,,38,,,,,,platform
+,,,2894543799,Start Romagna,,,,12.4807327,,,,,,bus_stop,,,,,,44.1361004,,,,,,,,,platform
+,,,2894543800,Start Romagna,,,,12.4769743,,,,,,bus_stop,,,,,,44.139872,,,42,,,,,,platform
+,,,2894544201,Start Romagna,,,,12.4732835,,,,,,bus_stop,,,,,,44.1417439,,,,,,,,,platform
+,,,2894544202,Start Romagna,,,,12.4747476,,,,,,bus_stop,,,,,,44.1419141,,,43,,,,,,platform
+,,,2894544203,Start Romagna,,,,12.4664495,,,,,,bus_stop,,,,,,44.1444689,,,,,,,,,platform
+,,,2923458021,,,,,11.3337005,,,,,,bus_stop,,,Porta Lame,yes,,44.5029364,,,,,,,,,
+,,,2923471497,,,,,11.3573415,,,,,,bus_stop,,,Porta San Vitale,yes,,44.4932096,,,,,,,,,
+,,,2923471498,,,,,11.3570035,,,,,,bus_stop,,,Filopanti,,,44.4960967,,,,,,,,,
+,,,2923471499,,,,,11.356636,,,,,,bus_stop,,,Porta San Donato,yes,,44.4991052,,,,,,,,,
+,,,2923471500,,,,,11.3544889,,,,,,bus_stop,,,Porta Mascarella,,,44.5017519,,,,,,,,,
+,,,2923716811,,,,,11.3660147,,,,,,bus_stop,,,,,,44.580763,,,,,,,,,
+,,,2925714753,,,,,12.20424,,,,,,bus_stop,,,,,,44.4177326,,,,,,,,,
+,,,2925734551,,,,,12.2040067,,,,,,bus_stop,,,,,,44.4184433,,,,,,,,,
+,,,2925752771,,,,,12.2012762,,,,,,bus_stop,,,,,,44.4171588,,,,,,,,,
+,,,2925752799,,,,,12.2000417,,,,,,bus_stop,,,,,,44.4151923,,,,,,,,,
+,,,2925754002,,,,,12.1995027,,,,,,bus_stop,,,,,,44.415736,,,,,,,,,
+,,,2925754008,,,,,12.1998078,,,,,,bus_stop,,,,,,44.4155219,,,,,,,,,
+,,,2925754034,,,,,12.1989478,,,,,,bus_stop,,,,,,44.4148444,,,,,,,,,
+,,,2958380081,,,,,11.351596,,,,,,bus_stop,,,,,,44.5559718,,,,,,,,,
+,,,2958380082,,,,,11.351469,,,,,,bus_stop,,,,,,44.5555838,,,,,,,,,
+,,,2960912825,tper,,,,11.3016521,,"Linee: 81/91 Per maggiori informazioni, visita  http://www.tper.it/",http://www.tper.it/,,,bus_stop,http://www.tper.it/,,Lippo,yes,,44.5363175,,,,,,,,,
+,,,2960940110,tper,,,,11.3020456,,"Linee: 81/91  Per maggiori informazioni, vedi  http://www.tper.it/",http://www.tper.it/,,,bus_stop,http://www.tper.it/,,Lippo,yes,,44.535408,,,,,,,,,
+,,,2966265961,tper,,,,11.274123,,,,,,bus_stop,,,,yes,,44.4822448,,,,,,,,,
+,,,2968744122,tper,,,,11.2938697,,"Linee: 81/91  Per maggiori informazioni, vedi  http://www.tper.it/",,,,bus_stop,,,,,,44.5185143,,,,,,,,,
+,,,2968745681,tper,,,,11.2937651,,"Linee: 81/91  Per maggiori informazioni, vedi  http://www.tper.it/",,,,bus_stop,,,,,,44.518696,,,,,,,,,
+,,,2968894115,tper,,,,11.2963262,,,,,,bus_stop,,,Pontelungo,yes,,44.50903,,,,,,,,,
+,,,2968894116,tper,,,,11.300206,,,,,,bus_stop,,,Bernardi,yes,,44.5081166,,,,,,,,,
+,,,2969998820,tper,,,,11.277334,,,,,,bus_stop,,,Bagno di Piano - Capolinea,yes,,44.654077,,,,,,,,,
+,,,2975184705,Autolinee Cinti,,,,11.1351675,,,,,,bus_stop,,,Fermata Stanco - Terre Bianche,,,44.2485987,,,,,,,,,
+,,,2975202792,TPER,,,,11.2925157,,,,,,bus_stop,,,Acquedotto Triumvirato Linee 81-91,,,44.515543,,,,,,,,,
+,,,2975209406,TPER,,,,11.2927432,,,,,,bus_stop,,,Acquedotto Triumvirato Linee 81-91,,,44.515704,,,,,,,,,
+,,,2983860565,,,,,11.1319575,,,,,,bus_stop,,,,,,44.2501398,,,,,,,,,
+,,,2987532491,,,,,11.2696227,,,,,,bus_stop,,,,,,44.43099,,,,,,,,,
+,,,2987532492,,,,,11.2696987,,,,,,bus_stop,,,,,,44.4313678,,,,,,,,,
+,,,2990420064,START,,,,12.2795335,,,,,,bus_stop,,,Marina Di Ravenna Traghetto,no,,44.4911106,,,,,,,,,
+,,,3041479100,,,,,10.8734248,,,,,,bus_stop,,,,,,44.1707592,,,,,,,,,
+,,,3068360135,,,,,11.6080023,,,,,,bus_stop,,,Pesci - Bologna,,,44.823308,,,,,,,,,
+,,,3068360136,,,,,11.6110573,,,,,,bus_stop,,,Pesci - Buglione,,,44.8219442,,,,,,,,,
+,,,3068360137,,,,,11.6079111,,,,,,bus_stop,,,Pesci - Bologna,,,44.8234297,,,,,,,,,
+,,,3152849903,,,,,12.3349115,,,,,,bus_stop,,,,yes,,44.0744389,,,,,,,,,
+,,,3182706340,,,,,11.3593156,,,,,,bus_stop,,,Zanolini,yes,,44.4972302,,,,,,,,,
+,,,3196992617,,,,,11.3557352,,,,,,bus_stop,,,Montemerlo,,,44.8698423,,,,,,,,,
+,,,3205944307,TPER,,AMIFE,,12.2335536,,,,Viale Leopardi Giacomo,,bus_stop,,,Nuova marina,,,44.6697126,,,691073,Comacchio,,,,,
+,,,3205944308,TPER,,,,12.233587,,,,Viale Leopardi Giacomo,,bus_stop,,,Nuova marina,,,44.6697717,,,690073,Comacchio,,,,,
+,,,3205944309,TPER,,,,12.2264409,,,,,,bus_stop,,,Terme,,,44.7290755,,,606157,Comacchio,,,,,
+,,,3205944310,TPER,,,,12.2286005,,,,,,bus_stop,,,Terme,,,44.7301118,,,690550,Comacchio,,,,,
+,,,3212833713,Linea A - ATC,,,,11.3407067,,,,,,bus_stop,,,Ist. Rizzoli - Centro Ricerca,yes,,44.4753529,,,,,,,,,
+,,,3212847101,Linea A - ATC,,,,11.3410663,,,,,,bus_stop,,,Poliambulatorio Rizzoli,yes,,44.4761747,,,,,,,,,
+,,,3212852513,Linea A;59 - ATC,,,,11.3435576,,,,,,bus_stop,,,Barbiano,,,44.4762716,,,,,,,,,
+,,,3212852514,Linea A - ATC,,,,11.3464888,,,,,,bus_stop,,,Scalini,,,44.4776872,,,,,,,,,
+,,,3212852542,Linea 59 - ATC,,,,11.3479357,,,,,,bus_stop,,,Scalini,,,44.4779334,,,,,,,,,
+,,,3212900961,Linea 29B;30 - ATC,,,,11.3490808,,,,,,bus_stop,,,Castiglione,,,44.4799367,,,,,,,,,
+,,,3212900969,Linea 29B;30 - ATC,,,,11.3477149,,,,,,bus_stop,,,Putti,,,44.4804822,,,,,,,,,
+,,,3212900970,Linea 29B;30 - ATC,,,,11.3471631,,,,,,bus_stop,,,Putti,,,44.4806162,,,,,,,,,
+,,,3212900971,Linea 29B;30;59;A;C - ATC,,,,11.3492575,,,,,,bus_stop,,,Castiglione,,,44.4804839,,,,,,,,,
+,,,3212900972,Linea 29B;30;59;A;C - ATC,,,,11.3491049,,,,,,bus_stop,,,Delle Rose,,,44.4822294,,,,,,,,,
+,,,3212900973,Linea 29B;30;A;C - ATC,,,,11.3488166,,,,,,bus_stop,,,Delle Rose,,,44.4826696,,,,,,,,,
+,,,3212900974,Linea 29B;30;A;C - ATC,,,,11.348299,,,,,,bus_stop,,,Porta Castiglione,,,44.4842103,,,,,,,,,
+,,,3212900975,Linea 16;33;39;51 - ATC,,,,11.3491003,,,,,,bus_stop,,,Porta Castiglione,,,44.4851082,,,,,,,,,
+,,,3216602493,CAP,,,,11.1605679,,,,,,bus_stop,,,Appennino 10,,,44.0806853,,,311673018,,,,,,
+,,,3216602494,CAP,,,,11.1583522,,,,,,bus_stop,,,Appennino 124,,,44.111937,,,658372749,,,,,,
+,,,3216602495,CAP,,,,11.1639578,,,,,,bus_stop,,,Appennino 147,,,44.0979251,,,503873239,,,,,,
+,,,3216602496,CAP,,,,11.164022,,,,,,bus_stop,,,Appennino 147,,,44.0980833,,,505673244,,,,,,
+,,,3216602497,CAP,,,,11.161828,,,,,,bus_stop,,,Appennino 163,,,44.1108177,,,646673031,,,,,,
+,,,3216602498,CAP,,,,11.1616143,,,,,,bus_stop,,,Appennino 163,,,44.1113821,,,652873012,,,,,,
+,,,3216602499,CAP,,,,11.1629891,,,,,,bus_stop,,,Appennino 194,,,44.0948577,,,469573170,,,,,,
+,,,3216602500,CAP,,,,11.1632753,,,,,,bus_stop,,,Appennino 194,,,44.0950426,,,471773193,,,,,,
+,,,3216602501,CAP,,,,11.1615322,,,,,,bus_stop,,,Appennino 210,,,44.10328,,,562873029,,,,,,
+,,,3216602502,CAP,,,,11.1616517,,,,,,bus_stop,,,Appennino 210,,,44.1034017,,,564273038,,,,,,
+,,,3216602503,CAP,,,,11.1627137,,,,,,bus_stop,,,Appennino 220,,,44.1058144,,,591273116,,,,,,
+,,,3216602504,CAP,,,,11.1628443,,,,,,bus_stop,,,Appennino 220,,,44.1059794,,,593073126,,,,,,
+,,,3216602505,CAP,,,,11.1601148,,,,,,bus_stop,,,Appennino 30,,,44.0905677,,,421372953,,,,,,
+,,,3216602506,CAP,,,,11.16045,,,,,,bus_stop,,,Appennino 30,,,44.0910762,,,427072978,,,,,,
+,,,3216602507,CAP,,,,11.1625891,,,,,,bus_stop,,,Appennino 430,,,44.0927559,,,446173144,,,,,,
+,,,3216602508,CAP,,,,11.1606147,,,,,,bus_stop,,,Appennino 6,,,44.0805498,,,310173022,,,,,,
+,,,3216602509,CAP,,,,11.1623704,,,,,,bus_stop,,,Appennino 83,,,44.0927095,,,445673127,,,,,,
+,,,3216602510,CAP,,,,11.1498127,,,,,,bus_stop,,,Appennino Sn,,,44.0707242,,,198772186,,,,,,
+,,,3216602511,CAP,,,,11.1496086,,,,,,bus_stop,,,Appennino Sn,,,44.0713319,,,205472167,,,,,,
+,,,3216602512,CAP,,,,11.1593306,,,,,,bus_stop,,,Appennino Sn,,,44.082557,,,332172913,,,,,,
+,,,3216602513,CAP,,,,11.1605992,,,,,,bus_stop,,,Appennino Sn,,,44.0851871,,,361673007,,,,,,
+,,,3216603891,CAP,,,,11.152296,,,,,,bus_stop,,,Bolognese 181,,,44.0558266,,,33872428,,,,,,
+,,,3216603892,CAP,,,,11.1522993,,,,,,bus_stop,,,Bolognese 181,,,44.0563014,,,39072427,,,,,,
+,,,3216603893,CAP,,,,11.1464496,,,,,,bus_stop,,,Bolognese 187,,,44.0650274,,,134771933,,,,,,
+,,,3216603894,CAP,,,,11.146576,,,,,,bus_stop,,,Bolognese 187,,,44.0650594,,,135171943,,,,,,
+,,,3216603895,CAP,,,,11.1550038,,,,,,bus_stop,,,Bolognese 22,,,44.0613205,,,95472629,,,,,,
+,,,3216603896,CAP,,,,11.155245,,,,,,bus_stop,,,Bolognese 31,,,44.061134,,,93372648,,,,,,
+,,,3216603897,CAP,,,,11.1534323,,,,,,bus_stop,,,Bolognese 34,,,44.0627413,,,110872499,,,,,,
+,,,3216603898,CAP,,,,11.1537157,,,,,,bus_stop,,,Bolognese 34,,,44.0627469,,,110972521,,,,,,
+,,,3216603899,CAP,,,,11.1521794,,,,,,bus_stop,,,Bolognese 52,,,44.0656237,,,142672390,,,,,,
+,,,3216603900,CAP,,,,11.1522558,,,,,,bus_stop,,,Bolognese 53,,,44.0650213,,,135972398,,,,,,
+,,,3216603901,CAP,,,,11.1546022,,,,,,bus_stop,,,Bolognese 7,,,44.0603968,,,85072599,,,,,,
+,,,3216603902,CAP,,,,11.1542344,,,,,,bus_stop,,,Bolognese 9,,,44.060497,,,86172569,,,,,,
+,,,3216603903,CAP,,,,11.1511474,,,,,,bus_stop,,,Bolognese Sn,,,44.0586792,,,65272327,,,,,,
+,,,3216603904,CAP,,,,11.1510114,,,,,,bus_stop,,,Bolognese Sn,,,44.0586978,,,65472316,,,,,,
+,,,3216603947,CAP,,,,11.1281301,,,,,,bus_stop,,,Cavarzano Sn,,,44.0553243,,,23270493,,,,,,
+,,,3216603948,CAP,,,,11.1282875,,,,,,bus_stop,,,Cavarzano Sn,,,44.0554046,,,24170506,,,,,,
+,,,3216603949,CAP,,,,11.124922,,,,,,bus_stop,,,Cavarzano Sn,,,44.0562998,,,33370234,,,,,,
+,,,3216603950,CAP,,,,11.1251812,,,,,,bus_stop,,,Cavarzano Sn,,,44.056342,,,33970254,,,,,,
+,,,3216603951,CAP,,,,11.1273553,,,,,,bus_stop,,,Cavarzano Sn,,,44.0568695,,,40270427,,,,,,
+,,,3216603952,CAP,,,,11.1275967,,,,,,bus_stop,,,Cavarzano Sn,,,44.056895,,,40570446,,,,,,
+,,,3216603953,CAP,,,,11.1272713,,,,,,bus_stop,,,Cavarzano Sn,,,44.0574862,,,47070418,,,,,,
+,,,3216604068,CAP,,,,11.1168949,,,,,,bus_stop,,,Gagnaia 40,,,44.0562202,,,30869591,,,,,,
+,,,3216604074,CAP,,,,11.1388727,,,,,,bus_stop,,,Luciana 40,,,44.0678914,,,165071318,,,,,,
+,,,3216604075,CAP,,,,11.1243895,,,,,,bus_stop,,,Luciana Sn,,,44.0590044,,,63370183,,,,,,
+,,,3216604076,CAP,,,,11.1242494,,,,,,bus_stop,,,Luciana Sn,,,44.0590418,,,63670172,,,,,,
+,,,3216604077,CAP,,,,11.1251021,,,,,,bus_stop,,,Luciana Sn,,,44.0668896,,,151070218,,,,,,
+,,,3216604078,CAP,,,,11.1250787,,,,,,bus_stop,,,Luciana Sn,,,44.0670986,,,153370215,,,,,,
+,,,3216604079,CAP,,,,11.1387611,,,,,,bus_stop,,,Luciana Sn,,,44.0679481,,,165671309,,,,,,
+,,,3216604080,CAP,,,,11.1444216,,,,,,bus_stop,,,Luciana Sn,,,44.0689398,,,177871759,,,,,,
+,,,3216604081,CAP,,,,11.1497696,,,,,,bus_stop,,,Luciana Sn,,,44.07103,,,202172181,,,,,,
+,,,3216604082,CAP,,,,11.1494593,,,,,,bus_stop,,,Luciana Sn,,,44.0711949,,,203972156,,,,,,
+,,,3216604093,CAP,,,,11.1557581,,,,,,bus_stop,,,P.Za Del Comune Sn,,,44.0534372,,,8072712,,,,,,
+,,,3216604095,CAP,,,,11.1274585,,,,,,bus_stop,,,P.Zza Della Chiesa Sn,,,44.0575812,,,48170433,,,,,,
+,,,3216604096,CAP,,,,11.1442896,,,,,,bus_stop,,,P.Zza Luciana Sn,,,44.0689206,,,177571748,,,,,,
+,,,3216604098,CAP,,,,11.1568728,,,,,,bus_stop,,,Pepoli 12,,,44.1412824,,,983972546,,,,,,
+,,,3216604101,CAP,,,,11.152083,,,,,,bus_stop,,,Piazzetta Sn,,,44.0519218,,,990472422,,,,,,
+,,,3216604102,CAP,,,,11.1594526,,,,,,bus_stop,,,Piazzetta Loc. Celle Sn,,,44.0518934,,,991673012,,,,,,
+,,,3216604116,CAP,,,,11.1559244,,,,,,bus_stop,,,Roma 121,,,44.0524868,,,997472728,,,,,,
+,,,3216604117,CAP,,,,11.1558363,,,,,,bus_stop,,,Roma 121,,,44.0527794,,,772720,,,,,,
+,,,3216604120,CAP,,,,11.1564339,,,,,,bus_stop,,,Roma 46,,,44.0512253,,,983572773,,,,,,
+,,,3216604156,CAP,,,,11.1566564,,,,,,bus_stop,,,Scuola Elementare S. Quirico Sn,,,44.0548211,,,23572780,,,,,,
+,,,3216604467,CAP,,,,11.173629,,,,,,bus_stop,,,Toscana 100,,,44.129412,,,855673921,,,,,,
+,,,3216604468,CAP,,,,11.1738348,,,,,,bus_stop,,,Toscana 100,,,44.1295231,,,856973937,,,,,,
+,,,3216604469,CAP,,,,11.1604439,,,,,,bus_stop,,,Toscana 110,,,44.1130485,,,671172914,,,,,,
+,,,3216604470,CAP,,,,11.1603254,,,,,,bus_stop,,,Toscana 112,,,44.1129119,,,669572904,,,,,,
+,,,3216604471,CAP,,,,11.1579061,,,,,,bus_stop,,,Toscana 124,,,44.1121222,,,660272713,,,,,,
+,,,3216604472,CAP,,,,11.1679794,,,,,,bus_stop,,,Toscana 137,,,44.121552,,,767173492,,,,,,
+,,,3216604473,CAP,,,,11.1678259,,,,,,bus_stop,,,Toscana 141,,,44.1214875,,,766373480,,,,,,
+,,,3216604474,CAP,,,,11.1604083,,,,,,bus_stop,,,Toscana 24,,,44.1431022,,,4972823,,,,,,
+,,,3216604475,CAP,,,,11.1592174,,,,,,bus_stop,,,Toscana 3,,,44.1427272,,,572729,,,,,,
+,,,3216604476,CAP,,,,11.1647546,,,,,,bus_stop,,,Toscana 60,,,44.1411067,,,983673176,,,,,,
+,,,3216604477,CAP,,,,11.1682259,,,,,,bus_stop,,,Toscana 76,,,44.1417741,,,991873452,,,,,,
+,,,3216604478,CAP,,,,11.1686744,,,,,,bus_stop,,,Toscana 76,,,44.1418967,,,993273488,,,,,,
+,,,3216604479,CAP,,,,11.1699989,,,,,,bus_stop,,,Toscana 90,,,44.1359091,,,927073611,,,,,,
+,,,3216604480,CAP,,,,11.1706102,,,,,,bus_stop,,,Toscana 90,,,44.1367839,,,936873658,,,,,,
+,,,3216604481,CAP,,,,11.1656164,,,,,,bus_stop,,,Toscana Sn,,,44.1151265,,,695273321,,,,,,
+,,,3216604482,CAP,,,,11.1655534,,,,,,bus_stop,,,Toscana Sn,,,44.1154065,,,698373316,,,,,,
+,,,3216604483,CAP,,,,11.1646596,,,,,,bus_stop,,,Toscana Sn,,,44.1412215,,,984973169,,,,,,
+,,,3216604485,CAP,,,,11.1552928,,,,,,bus_stop,,,Via Lama Case Pep Ater Edilcoop Sn,,,44.0519141,,,990972679,,,,,,
+,,,3234423994,,,,,11.7205455,,,,,,bus_stop,,,,,,44.2717377,,,,,,,,,
+,,,3278189263,,,,,11.5780709,,,,,,bus_stop,,,Via Gurzone - Via Eridania,,,44.9270782,,,,,,,,,
+,,,3309840277,TPER,,,,11.350899,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fabbri,,,44.553605,,,4046,Castel Maggiore,,,,,
+,,,3309840278,TPER,,,,11.350595,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fabbri,,,44.553224,,,4047,Castel Maggiore,,,,,
+,,,3309840279,TPER,,,,11.320573,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Cave,,,44.545143,,,5503,Castel Maggiore,,,,,
+,,,3309840280,TPER,,,,11.3887,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno Pilastrino,,,44.558319,,,37005,Castel Maggiore,,,,,
+,,,3309840281,TPER,,,,11.399852,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno,,,44.579951,,,37022,Castel Maggiore,,,,,
+,,,3309840282,TPER,,,,11.404352,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,San Marino Confine,,,44.583403,,,37025,Castel Maggiore,,,,,
+,,,3309840283,TPER,,,,11.404243,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,San Marino Confine,,,44.583505,,,37026,Castel Maggiore,,,,,
+,,,3309840284,TPER,,,,11.385548,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Casa Bondi,,,44.577929,,,37405,Castel Maggiore,,,,,
+,,,3309840285,TPER,,,,11.36078,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Z.I. Di Vittorio Rotonda,no,,44.559135,,,37708,Castel Maggiore,,,,,
+,,,3309840286,TPER,,,,11.375962,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Castello,,,44.572341,,,40512,Castel Maggiore,,,,,
+,,,3309840287,TPER,,,,11.367263,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Stazione,,,44.574305,,,40516,Castel Maggiore,,,,,
+,,,3309840288,TPER,,,,11.363573,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Xxv Aprile,,,44.580224,,,40519,Castel Maggiore,,,,,
+,,,3309840289,TPER,,,,11.355396,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Mercato,,,44.577981,,,990003,Castel Maggiore,,,,,
+,,,3309840290,TPER,,,,11.35544,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Mercato,,,44.578133,,,990004,Castel Maggiore,,,,,
+,,,3309855771,TPER,,,,11.371851,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Z.I. Di Vittorio Saliceto,,,44.5555046,,,37700,Castel Maggiore,,,,,
+,,,3309855772,TPER,,,,11.375971,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Castello,,,44.572251,,,40511,Castel Maggiore,,,,,
+,,,3309865165,TPER,,,,11.353658,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Bentini Sottovia,,,44.553008,,,4045,Castel Maggiore,,,,,
+,,,3309865166,TPER,,,,11.381216,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno Villa,,,44.54896,,,37001,Castel Maggiore,,,,,
+,,,3309865167,TPER,,,,11.381141,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno Villa,,,44.548971,,,37002,Castel Maggiore,,,,,
+,,,3309865168,TPER,,,,11.391655,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno Chiesa,,,44.571437,,,37013,Castel Maggiore,,,,,
+,,,3309865169,TPER,,,,11.395518,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fondo Serra,,,44.576865,,,37017,Castel Maggiore,,,,,
+,,,3309865170,TPER,,,,11.395456,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fondo Serra,,,44.576893,,,37018,Castel Maggiore,,,,,
+,,,3309865171,TPER,,,,11.3680095,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Montale,,,44.5720699,,,40524,Castel Maggiore,,,,,
+,,,3309865172,TPER,,,,11.355817,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,La Pira I,,,44.581537,,,41212,Castel Maggiore,,,,,
+,,,3309865173,TPER,,,,11.352804,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,La Pira Ii,,,44.579925,,,41213,Castel Maggiore,,,,,
+,,,3309865174,TPER,,,,11.352659,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,La Pira Ii,,,44.580072,,,41214,Castel Maggiore,,,,,
+,,,3309865175,TPER,,,,11.354094,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Nenni,,,44.578791,,,41215,Castel Maggiore,,,,,
+,,,3309865176,TPER,,,,11.318178,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Case Osti,,,44.54855,,,42001,Castel Maggiore,,,,,
+,,,3309865177,TPER,,,,11.348916,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Ca` Bianca,,,44.552178,,,42501,Castel Maggiore,,,,,
+,,,3309865178,TPER,,,,11.345978,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Trebbo Rosario,,,44.552707,,,42503,Castel Maggiore,,,,,
+,,,3309865179,TPER,,,,11.33962,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Rinova,,,44.55426,,,42505,Castel Maggiore,,,,,
+,,,3309865180,TPER,,,,11.33112,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Isabella,,,44.554561,,,42509,Castel Maggiore,,,,,
+,,,3309865181,TPER,,,,11.331005,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Isabella,,,44.554509,,,42510,Castel Maggiore,,,,,
+,,,3309865182,TPER,,,,11.386587,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Cadriano Bivio,,,44.55099,,,668000,Castel Maggiore,,,,,
+,,,3309865183,TPER,,,,11.387484,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Cadriano Bivio,,,44.551385,,,671034,Castel Maggiore,,,,,
+,,,3309865184,TPER,,,,11.393564,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Osteria Del Gallo,,,44.559639,,,671036,Castel Maggiore,,,,,
+,,,3309869764,TPER,,,,11.353652,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Bentini Sottovia,,,44.552864,,,4044,Castel Maggiore,,,,,
+,,,3309869765,TPER,,,,11.388639,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno Pilastrino,,,44.558365,,,37006,Castel Maggiore,,,,,
+,,,3309869766,TPER,,,,11.390666,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Due Noci,,,44.564813,,,37009,Castel Maggiore,,,,,
+,,,3309869767,TPER,,,,11.390575,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Due Noci,,,44.564752,,,37010,Castel Maggiore,,,,,
+,,,3309869768,TPER,,,,11.385348,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Casa Bondi,,,44.577979,,,37406,Castel Maggiore,,,,,
+,,,3309869769,TPER,,,,11.3654244,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Z.I. Di Vittorio Navile,,,44.5575936,,,37712,Castel Maggiore,,,,,
+,,,3309869770,TPER,,,,11.390011,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sammarina Bivio,,,44.569121,,,37725,Castel Maggiore,,,,,
+,,,3309869771,TPER,,,,11.390027,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sammarina Bivio,,,44.569193,,,37726,Castel Maggiore,,,,,
+,,,3309869772,TPER,,,,11.370521,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Cimitero,,,44.571113,,,40500,Castel Maggiore,,,,,
+,,,3309869773,TPER,,,,11.36772,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Stazione,,,44.574088,,,40515,Castel Maggiore,,,,,
+,,,3309869774,TPER,,,,11.360261,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Repubblic,,,44.574936,,,40543,Castel Maggiore,,,,,
+,,,3309869775,TPER,,,,11.355773,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,La Pira I,,,44.5817,,,41211,Castel Maggiore,,,,,
+,,,3309922362,TPER,,,,11.360267,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Repubblic,,,44.575098,,,40544,Castel Maggiore,,,,,
+,,,3309922363,TPER,,,,11.318064,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Case Osti,,,44.548543,,,42002,Castel Maggiore,,,,,
+,,,3309922364,TPER,,,,11.323213,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Molino Borgognino,,,44.566894,,,42533,Castel Maggiore,,,,,
+,,,3309922365,TPER,,,,11.323111,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Molino Borgognino,,,44.56686,,,42534,Castel Maggiore,,,,,
+,,,3309922366,TPER,,,,11.356299,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Centro Sp,,,44.575072,,,48006,Castel Maggiore,,,,,
+,,,3309937868,TPER,,,,11.339341,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Rinova,,,44.55423,,,42506,Castel Maggiore,,,,,
+,,,3309937869,TPER,,,,11.319914,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Torre Verde Passo Pioppe,,,44.589053,,,42546,Castel Maggiore,,,,,
+,,,3309937870,TPER,,,,11.354778,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Salina,,,44.554569,,,49006,Castel Maggiore,,,,,
+,,,3309944961,TPER,,,,11.387507,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Cadriano Bivio,,,44.551313,,,35001,Castel Maggiore,,,,,
+,,,3309944962,TPER,,,,11.386524,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Cadriano Bivio,,,44.550982,,,35002,Castel Maggiore,,,,,
+,,,3309944963,TPER,,,,11.393757,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Osteria Del Gallo,,,44.559743,,,35006,Castel Maggiore,,,,,
+,,,3309944964,TPER,,,,11.391504,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno Chiesa,,,44.57144,,,37014,Castel Maggiore,,,,,
+,,,3309944965,TPER,,,,11.399899,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Sabbiuno,,,44.579887,,,37021,Castel Maggiore,,,,,
+,,,3309945161,TPER,,,,11.370382,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Chiesa,,,44.571701,,,40497,Castel Maggiore,,,,,
+,,,3309945162,TPER,,,,11.370353,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Chiesa,,,44.571306,,,40498,Castel Maggiore,,,,,
+,,,3309945163,TPER,,,,11.363021,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Mag.Scuola Materna,,,44.579956,,,40520,Castel Maggiore,,,,,
+,,,3309945164,TPER,,,,11.354301,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Nenni,,,44.578616,,,41216,Castel Maggiore,,,,,
+,,,3309945165,TPER,,,,11.319992,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Torre Verde Passo Pioppe,,,44.589105,,,42545,Castel Maggiore,,,,,
+,,,3309945166,TPER,,,,11.363534,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Bondanello,,,44.576759,,,45202,Castel Maggiore,,,,,
+,,,3309945167,TPER,,,,11.354103,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Primo Maggio Stazione,,,44.552819,,,49002,Castel Maggiore,,,,,
+,,,3309945261,TPER,,,,11.3678824,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Castel Maggiore Montale,,,44.5720304,,,40523,Castel Maggiore,,,,,
+,,,3309945262,TPER,,,,11.354191,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Primo Maggio Stazione,,,44.552808,,,49001,Castel Maggiore,,,,,
+,,,3309945263,TPER,,,,11.354879,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Salina,,,44.554558,,,49005,Castel Maggiore,,,,,
+,,,3310544211,,,,,12.0193172,,,,,,bus_stop,,,,,,44.1961567,,,,,,,,,
+,,,3310544212,,,,,12.0192193,,,,,,bus_stop,,,,,,44.1962365,,,,,,,,,
+,,,3310548961,,,,,12.019627,,,,,,bus_stop,,,,,,44.1955808,,,,,,,,,
+,,,3310549434,,,,,12.0199046,,,,,,bus_stop,,,,,,44.1943914,,,,,,,,,
+,,,3310551428,,,,,12.0209467,,,,,,bus_stop,,,,,,44.1990527,,,,,,,,,
+,,,3310551429,,,,,12.0213115,,,,,,bus_stop,,,,,,44.1991912,,,,,,,,,
+,,,3310552850,,,,,12.0223709,,,,,,bus_stop,,,,,,44.2016198,,,,,,,,,
+,,,3310552851,,,,,12.0216736,,,,,,bus_stop,,,,,,44.2023889,,,,,,,,,
+,,,3310552852,,,,,12.0200267,,,,,,bus_stop,,,,,,44.2044752,,,,,,,,,
+,,,3320538061,TPER,,,,11.774967,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Serraglio Scuole,,,44.49268,,,16041,Massa Lombarda,,,,,
+,,,3320538062,TPER,,,,11.831668,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Santa Lucia Bagnina,,,44.428814,,,18613,Massa Lombarda,,,,,
+,,,3320538063,TPER,,,,11.83158,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Santa Lucia Bagnina,,,44.428816,,,18614,Massa Lombarda,,,,,
+,,,3320538161,TPER,,,,11.77488,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Serraglio Scuole,,,44.4927,,,16042,Massa Lombarda,,,,,
+,,,3320538162,TPER,,,,11.778966,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Serraglio,,,44.496372,,,16045,Massa Lombarda,,,,,
+,,,3320538163,TPER,,,,11.778888,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Villa Serraglio,,,44.496311,,,16046,Massa Lombarda,,,,,
+,,,3320538164,TPER,,,,11.825555,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Muraglione,,,44.419018,,,18609,Massa Lombarda,,,,,
+,,,3320538165,TPER,,,,11.837342,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Santa Lucia,,,44.438062,,,18617,Massa Lombarda,,,,,
+,,,3320538166,TPER,,,,11.846559,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Zeppa Vecchia,,,44.469485,,,18905,Massa Lombarda,,,,,
+,,,3320538167,TPER,,,,11.805983,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fruges,,,44.452848,,,20582,Massa Lombarda,,,,,
+,,,3320538168,TPER,,,,11.827863,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Massa Lombarda Stazione,,,44.448624,,,20589,Massa Lombarda,,,,,
+,,,3320538261,TPER,,,,11.780225,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fondo Serraglio,,,44.502742,,,16050,Massa Lombarda,,,,,
+,,,3320538262,TPER,,,,11.784844,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Contina Vecchia,,,44.441232,,,18213,Massa Lombarda,,,,,
+,,,3320538263,TPER,,,,11.84574,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Zeppa Nuova,,,44.477454,,,18909,Massa Lombarda,,,,,
+,,,3320538361,TPER,,,,11.825467,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Muraglione,,,44.419029,,,18610,Massa Lombarda,,,,,
+,,,3320538362,TPER,,,,11.837155,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Santa Lucia,,,44.438094,,,18618,Massa Lombarda,,,,,
+,,,3320538363,TPER,,,,11.839863,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Casa Salvadori,,,44.460001,,,18901,Massa Lombarda,,,,,
+,,,3320538364,TPER,,,,11.839725,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Casa Salvadori,,,44.460005,,,18902,Massa Lombarda,,,,,
+,,,3320538561,TPER,,,,11.806005,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fruges,,,44.452766,,,20581,Massa Lombarda,,,,,
+,,,3320538661,TPER,,,,11.814741,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fruges Morini,,,44.450183,,,20585,Massa Lombarda,,,,,
+,,,3320538662,TPER,,,,11.813955,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Fruges Morini,,,44.450553,,,20586,Massa Lombarda,,,,,
+,,,3320538761,TPER,,,,11.827848,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Massa Lombarda Stazione,,,44.448579,,,20590,Massa Lombarda,,,,,
+,,,3320538762,TPER,,,,11.837935,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Panchette,,,44.443287,,,20593,Massa Lombarda,,,,,
+,,,3320538763,TPER,,,,11.838002,,,http://www.tper.it/azienda/tper-open-data,,,bus_stop,,,Panchette,,,44.443384,,,20594,Massa Lombarda,,,,,

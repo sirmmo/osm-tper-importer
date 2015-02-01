@@ -26,7 +26,7 @@ password = "tperbot123"
 to_dl = {
 	"Servizio su gomma":{
 		"Elenco delle fermate bus":"fermate.csv",
-		"Linee bus come sequenza di fermate":"linee_fermate.csv"
+		#"Linee bus come sequenza di fermate":"linee_fermate.csv"
 	}
 }
 
@@ -112,20 +112,15 @@ if not os.path.exists("osm.csv"):
 
 
 	with open("osm.csv", "wb") as osmfile:
-		with open("ids.csv", "wb") as idsfile:
-			osmcsv = csv.DictWriter(osmfile, fieldnames=keys)
-			osmcsv.writeheader()
-			idscsv = csv.writer(idsfile)
-			for osm_point in osm_points.json().get("elements"):
-				#print osm_point
-				op = osm_point["tags"]
-				op["lon"] = osm_point["lon"]
-				op["lat"] = osm_point["lat"]
-				op["osm_id"] = osm_point["id"]
-				osmcsv.writerow(op)
-
-				if "ref" in osm_point["tags"]:
-					idscsv.writerow([osm_point["tags"]["ref"]])
+		osmcsv = csv.DictWriter(osmfile, fieldnames=keys)
+		osmcsv.writeheader()
+		for osm_point in osm_points.json().get("elements"):
+			#print osm_point
+			op = osm_point["tags"]
+			op["lon"] = osm_point["lon"]
+			op["lat"] = osm_point["lat"]
+			op["osm_id"] = osm_point["id"]
+			osmcsv.writerow(op)
 
 print main_keys
 
@@ -162,7 +157,7 @@ with open("fermate_importable.csv", "wb") as importables:
 				for fer_stop in fer_list:
 					if not fer_stop["codice"] in done_refs:
 						if fer_stop["codice"] == osm_stop["ref"]:
-							fer_stop["osm_id"]= osm_stop["osm_id"]
+							fer_stop["osm_id"] = osm_stop["osm_id"]
 							fer_stop["dist"] = dist(float(osm_stop["lon"]),float(osm_stop["lat"]), float(fer_stop["longitudine"].replace(",",".")), float(fer_stop["latitudine"].replace(",",".")))
 							upd_csv.writerow(fer_stop)
 							done_refs.append(fer_stop["codice"])
